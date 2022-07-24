@@ -51,8 +51,8 @@ def game_loop():
     y1 = dis_h / 2
 
     #food block coords
-    foodx = round(random.randrange(0, dis_w - snake_block_dimens) / 10.0) * 10.0
-    foody = round(random.randrange(0, dis_h - snake_block_dimens) / 10.0) * 10.0
+    foodx = round(random.randrange(0, dis_w - snake_block_dimens) / snake_block_dimens) * snake_block_dimens
+    foody = round(random.randrange(0, dis_h - snake_block_dimens) / snake_block_dimens) * snake_block_dimens
 
     snake_list = []
     snake_len = 1
