@@ -27,12 +27,13 @@ clock = pygame.time.Clock()
 dis = pygame.display.set_mode((dis_w, dis_h))
 pygame.display.set_caption("Smort Snek game")
 
-font_style = pygame.font.SysFont(None, 50)
+font_style = pygame.font.SysFont(None, 30)
 
 #shows message on top of the screen
-def message(msg, color):
+def message(msg, color, msg_x = 0, msg_y = 0):
     mess = font_style.render(msg, True, color)
-    dis.blit(mess, [0, 0])
+    dis.blit(mess, [msg_x, msg_y])
+    pygame.display.update()
 
 def snake(snake_block_dimens, snake_list):
     for x in snake_list:
@@ -56,6 +57,9 @@ def game_loop():
     snake_list = []
     snake_len = 1
 
+    score = 0
+    time_spent = 0.0
+
     while not game_over:
         while game_close == True:
             dis.fill(black)
@@ -76,16 +80,16 @@ def game_loop():
             if event.type == pygame.QUIT:
                 game_over = True
             if event.type == pygame.KEYDOWN:
-                if event.key == pygame.K_LEFT:
+                if event.key == pygame.K_LEFT and x1_change <= 0:
                     x1_change = -snake_block_dimens
                     y1_change = 0
-                elif event.key == pygame.K_RIGHT:
+                elif event.key == pygame.K_RIGHT and x1_change >= 0:
                     x1_change = snake_block_dimens
                     y1_change = 0
-                elif event.key == pygame.K_DOWN:
+                elif event.key == pygame.K_DOWN and y1_change >= 0:
                     x1_change = 0
                     y1_change = snake_block_dimens
-                elif event.key == pygame.K_UP:
+                elif event.key == pygame.K_UP and y1_change <= 0:
                     x1_change = 0
                     y1_change = -snake_block_dimens
 
@@ -123,7 +127,12 @@ def game_loop():
             foodx = round(random.randrange(0, dis_w - snake_block_dimens) / 10.0) * 10.0
             foody = round(random.randrange(0, dis_h - snake_block_dimens) / 10.0) * 10.0
             snake_len += 1
+            score += 1
         
+        message("Your score: " + str(score), red)
+        message("Your time: " + str(round(time_spent, 2)) + "s", red, 0, 35)
+
+        time_spent += snake_speed / 1000.0
         clock.tick(snake_speed)
 
     pygame.quit()
