@@ -1,5 +1,4 @@
 from collections import namedtuple
-from email import message
 from enum import Enum
 from random import random
 import numpy
@@ -28,11 +27,13 @@ yellow = (255, 255, 102)
 snake_color = yellow
 
 snake_block_dimens = 10
-snake_speed = 20
+snake_speed = 40
 
 #screen dimens
 dis_w = 800
 dis_h = 600
+
+font_style = pygame.font.SysFont(None, 30)
 
 Point = namedtuple('Point', 'x, y')
 
@@ -41,7 +42,6 @@ class SnakeGameAI:
         self.dis = pygame.display.set_mode((dis_w, dis_h))
         self.clock = pygame.time.Clock()
         pygame.display.set_caption("Smort Snek game")
-        font_style = pygame.font.SysFont(None, 30)
         self.reset()
 
     def reset(self):
@@ -68,8 +68,8 @@ class SnakeGameAI:
             self.place_food()
 
     #shows message on top of the screen
-    def message(self, msg, color = red, msg_x = 0, msg_y = 0):
-        mess = self.font_style.render(msg, True, color)
+    def show_message(self, msg, color = red, msg_x = 0, msg_y = 0):
+        mess = font_style.render(msg, True, color)
         self.dis.blit(mess, [msg_x, msg_y])
         pygame.display.update()
 
@@ -111,7 +111,7 @@ class SnakeGameAI:
             pygame.draw.rect(self.dis, snake_color, pygame.Rect(block.x, block.y, snake_block_dimens, snake_block_dimens))
         
         pygame.draw.rect(self.dis, red, pygame.Rect(self.food.x, self.food.y, snake_block_dimens, snake_block_dimens))
-        message("Score: " + str(self.score))
+        self.show_message("Score: " + str(self.score))
 
     def is_collision(self, pt = None):
         if pt is None:
@@ -125,7 +125,7 @@ class SnakeGameAI:
             return True
         
         return False
-        
+
     def play_step(self, action):
         self.frame_iteration += 1
 
