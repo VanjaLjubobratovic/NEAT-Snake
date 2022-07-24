@@ -1,9 +1,21 @@
+from collections import namedtuple
+from email import message
+from enum import Enum
 from random import random
+import numpy
 import pygame
 import time
 import random
+import numpy as np
+
 
 pygame.init()
+
+class Direction(Enum):
+    RIGHT = 1
+    LEFT = 2
+    UP = 3
+    DOWN = 4
 
 #drawing colors
 blue = (0, 0, 255)
@@ -15,127 +27,135 @@ yellow = (255, 255, 102)
 
 snake_color = yellow
 
+snake_block_dimens = 10
+snake_speed = 20
+
 #screen dimens
 dis_w = 800
 dis_h = 600
 
-snake_block_dimens = 10
-snake_speed = 20
+Point = namedtuple('Point', 'x, y')
 
-clock = pygame.time.Clock()
+class SnakeGameAI:
+    def __init__(self):
+        self.dis = pygame.display.set_mode((dis_w, dis_h))
+        self.clock = pygame.time.Clock()
+        pygame.display.set_caption("Smort Snek game")
+        font_style = pygame.font.SysFont(None, 30)
+        self.reset()
 
-dis = pygame.display.set_mode((dis_w, dis_h))
-pygame.display.set_caption("Smort Snek game")
+    def reset(self):
+        self.direction = Direction.RIGHT
 
-font_style = pygame.font.SysFont(None, 30)
+        self.head = Point(dis_w / 2, dis_h / 2)
+        self.snake = [self.head,
+                        Point(self.head.x - snake_block_dimens, self.head.y),
+                        Point(self.head.x - 2 * snake_block_dimens, self.head.y)]
+        self.score = 0
+        self.food = None
+        self.place_food()
+        self.frame_iteration = 0
+        self.time_spent = 0.0
+    
+    def place_food(self):
+        #food block coords
+        foodx = round(random.randrange(0, dis_w - snake_block_dimens) / snake_block_dimens) * snake_block_dimens
+        foody = round(random.randrange(0, dis_h - snake_block_dimens) / snake_block_dimens) * snake_block_dimens
 
-#shows message on top of the screen
-def message(msg, color, msg_x = 0, msg_y = 0):
-    mess = font_style.render(msg, True, color)
-    dis.blit(mess, [msg_x, msg_y])
-    pygame.display.update()
+        self.food = Point(foodx, foody)
 
-def snake(snake_block_dimens, snake_list):
-    for x in snake_list:
-        pygame.draw.rect(dis, snake_color, [x[0], x[1], snake_block_dimens, snake_block_dimens])
+        if(self.food in self.snake):
+            self.place_food()
 
-def game_loop():
-    game_over = False
-    game_close = False
-
-    x1_change = 0
-    y1_change = 0
-
-    #snake head coordinates
-    x1 = dis_w / 2
-    y1 = dis_h / 2
-
-    #food block coords
-    foodx = round(random.randrange(0, dis_w - snake_block_dimens) / snake_block_dimens) * snake_block_dimens
-    foody = round(random.randrange(0, dis_h - snake_block_dimens) / snake_block_dimens) * snake_block_dimens
-
-    snake_list = []
-    snake_len = 1
-
-    score = 0
-    time_spent = 0.0
-
-    while not game_over:
-        while game_close == True:
-            dis.fill(black)
-            message("Game over! Q-quit or C-play again", red)
-            pygame.display.update()
-
-            for event in pygame.event.get():
-                if event.type == pygame.QUIT:
-                    game_over = True
-                elif event.type == pygame.KEYDOWN:
-                    if event.key == pygame.K_q:
-                        game_close = False
-                        game_over = True
-                    elif event.key == pygame.K_c:
-                        game_loop()
-
-        for event in pygame.event.get():
-            if event.type == pygame.QUIT:
-                game_over = True
-            if event.type == pygame.KEYDOWN:
-                if event.key == pygame.K_LEFT and x1_change <= 0:
-                    x1_change = -snake_block_dimens
-                    y1_change = 0
-                elif event.key == pygame.K_RIGHT and x1_change >= 0:
-                    x1_change = snake_block_dimens
-                    y1_change = 0
-                elif event.key == pygame.K_DOWN and y1_change >= 0:
-                    x1_change = 0
-                    y1_change = snake_block_dimens
-                elif event.key == pygame.K_UP and y1_change <= 0:
-                    x1_change = 0
-                    y1_change = -snake_block_dimens
-
-        #wall hit detection
-        if x1 >= dis_w or x1 < 0 or y1 >= dis_h or y1 < 0:
-            game_close = True
-
-        x1 += x1_change
-        y1 += y1_change
-        dis.fill(black)
-        
-        #screen, color, [x, y, block_w, block_w]
-        pygame.draw.rect(dis, blue, [foodx, foody, snake_block_dimens, snake_block_dimens])
-
-        snake_head = []
-        snake_head.append(x1)
-        snake_head.append(y1)
-        snake_list.append(snake_head)
-
-        #deletes unnecessary block
-        if len(snake_list) > snake_len:
-            del snake_list[0]
-        
-        #ate itself check
-        for x in snake_list[:-1]:
-            if x == snake_head:
-                game_close = True
-        
-        snake(snake_block_dimens, snake_list)
-
+    #shows message on top of the screen
+    def message(self, msg, color = red, msg_x = 0, msg_y = 0):
+        mess = self.font_style.render(msg, True, color)
+        self.dis.blit(mess, [msg_x, msg_y])
         pygame.display.update()
 
-        if x1 == foodx and y1 == foody:
-            print("NOM!")
-            foodx = round(random.randrange(0, dis_w - snake_block_dimens) / 10.0) * 10.0
-            foody = round(random.randrange(0, dis_h - snake_block_dimens) / 10.0) * 10.0
-            snake_len += 1
-            score += 1
+    def move(self, action):
+        # [straight, right, left] snake action
+        clockwise = [Direction.RIGHT, Direction.DOWN, Direction.LEFT, Direction.UP]
+        ind = clockwise.index(self.direction)
+
+        if np.array_equal(action, [1, 0, 0]):
+            new_dir = clockwise[ind] #no change
+        elif np.array_equal(action, [0, 1, 0]):
+            next_ind = (ind + 1) % 4
+            new_dir = clockwise[next_ind] #right turn
+        else:
+            next_ind = (ind - 1) % 4
+            new_dir = new_dir = clockwise[next_ind] #left turn
+    
+        self.direction = new_dir
+
+        x = self.head.x
+        y = self.head.y
+
+        if self.direction == Direction.RIGHT:
+            x += snake_block_dimens
+        elif self.direction == Direction.LEFT:
+            x -= snake_block_dimens
+        elif self.direction == Direction.UP:
+            y -= snake_block_dimens
+        elif self.direction == Direction.DOWN:
+            y += snake_block_dimens
         
-        message("Your score: " + str(score), red)
-        message("Your time: " + str(round(time_spent, 2)) + "s", red, 0, 35)
+        self.head = Point(x, y)
 
-        time_spent += snake_speed / 1000.0
-        clock.tick(snake_speed)
+    def update_ui(self):
+        self.dis.fill(black)
 
-    pygame.quit()
-    quit()
+        #drawing each snake block
+        for block in self.snake:
+            pygame.draw.rect(self.dis, snake_color, pygame.Rect(block.x, block.y, snake_block_dimens, snake_block_dimens))
+        
+        pygame.draw.rect(self.dis, red, pygame.Rect(self.food.x, self.food.y, snake_block_dimens, snake_block_dimens))
+        message("Score: " + str(self.score))
 
-game_loop()
+    def is_collision(self, pt = None):
+        if pt is None:
+            pt = self.head
+        
+        #wall
+        if pt.x > dis_w - snake_block_dimens or pt.x < 0 or pt.y > dis_h - snake_block_dimens or pt.y < 0:
+            return True
+        #noms tail
+        if pt in self.snake[1:]:
+            return True
+        
+        return False
+        
+    def play_step(self, action):
+        self.frame_iteration += 1
+
+        #user input check
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+                quit()
+        
+        #Move step
+        self.move(action)
+        self.snake.insert(0, self.head)
+
+        reward = 0
+        game_over = False
+        if self.is_collision() or self.frame_iteration > 100 * len(self.snake):
+            game_over = True
+            reward = -10
+            return reward, game_over, self.score
+        
+        #Place new food or move
+        if self.head == self.food:
+            self.score += 1
+            reward = 10
+            self.place_food()
+        else:
+            #remove last tail block after moving head
+            self.snake.pop()
+
+        #Update UI and clock
+        self.update_ui()
+        self.clock.tick(snake_speed)
+        return reward, game_over, self.score
