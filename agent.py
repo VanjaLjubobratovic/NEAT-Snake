@@ -6,7 +6,7 @@ import numpy as np
 from collections import deque
 from snakeGame import SnakeGameAI, Direction, Point
 from model import Linear_QNet, QTrainer
-from helper import plot
+from plotter import plot
 
 MAX_MEMORY = 100_000
 BATCH_SIZE = 1000
@@ -34,6 +34,10 @@ class Agent:
         dir_r = game.direction == Direction.RIGHT
         dir_u = game.direction == Direction.UP
         dir_d = game.direction == Direction.DOWN
+
+        # Translating food coordinates to snake coordinate system
+        food_tr = Point(game.food.x - head.x, game.food.y - head.y)
+
 
         state = [
             #danger in front
@@ -65,6 +69,29 @@ class Agent:
             game.food.x > game.head.x, #food right
             game.food.y < game.head.y, #food up
             game.food.y > game.head.y #food down
+
+            # abs(food_tr.x) > abs(food_tr.y),
+            # abs(food_tr.x) < abs(food_tr.y)
+
+
+            # game.food.x > game.head.x and game.food.y < game.head.y, #Quadrant I
+            # game.food.x < game.head.x and game.food.y < game.head.y, #Quadrant II
+            # game.food.x < game.head.x and game.food.y > game.head.y, #Quadrant III
+            # game.food.x > game.head.x and game.food.y > game.head.y #Quadrant IV
+
+
+            # game.food.x > game.head.x and game.food.y < game.head.y and abs(food_tr.x) > abs(food_tr.y), #Octant I
+            # game.food.x > game.head.x and game.food.y < game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant II
+
+            # game.food.x < game.head.x and game.food.y < game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant III
+            # game.food.x < game.head.x and game.food.y < game.head.y and abs(food_tr.x) > abs(food_tr.y), #Octant IV
+
+            # game.food.x < game.head.x and game.food.y > game.head.y and abs(food_tr.x) > abs(food_tr.y), #Octant V
+            # game.food.x < game.head.x and game.food.y > game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant VI
+
+            # game.food.x > game.head.x and game.food.y > game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant VII
+            # game.food.x > game.head.x and game.food.y > game.head.y and abs(food_tr.x) > abs(food_tr.y) #Octant VIII
+
         ]
 
         return np.array(state, dtype=int) #array with booleans converted to 0 or 1
