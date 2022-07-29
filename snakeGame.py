@@ -28,6 +28,7 @@ snake_color = yellow
 
 snake_block_dimens = 10
 snake_speed = 40
+MAX_STEPS_CONST = 50
 
 #screen dimens
 dis_w = 800
@@ -141,7 +142,7 @@ class SnakeGameAI:
 
         reward = 0
         game_over = False
-        if self.is_collision() or self.frame_iteration > 100 * len(self.snake):
+        if self.is_collision() or self.frame_iteration > MAX_STEPS_CONST * len(self.snake):
             game_over = True
             reward = -10
             return reward, game_over, self.score

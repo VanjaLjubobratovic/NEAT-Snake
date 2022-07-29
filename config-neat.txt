@@ -1,0 +1,81 @@
+#--- parameters for the XOR-2 experiment ---#
+
+# The `Types` section specifies which classes should be used for various
+# tasks in the NEAT algorithm.  If you use a non-default class here, you
+# must register it with your Config instance before loading the config file.
+[NEAT]
+fitness_criterion     = max
+fitness_threshold     = 100
+pop_size              = 10
+reset_on_extinction   = False
+
+[DefaultGenome]
+# genome compatibility options
+compatibility_disjoint_coefficient = 1.0
+compatibility_weight_coefficient   = 0.5
+
+# node activation options
+activation_default      = relu
+activation_mutate_rate  = 0.0
+activation_options      = relu
+
+# node aggregation options
+aggregation_default     = sum
+aggregation_mutate_rate = 0.1
+aggregation_options     = sum
+
+# node bias options
+bias_init_mean          = 0.0
+bias_init_stdev         = 1.0
+bias_max_value          = 30.0
+bias_min_value          = -30.0
+bias_mutate_power       = 0.5
+bias_mutate_rate        = 0.7
+bias_replace_rate       = 0.1
+
+# network params
+num_inputs = 11
+num_hidden = 256
+num_outputs = 3
+
+feed_forward = True
+initial_connection = full_nodirect
+
+# connection enable options
+conn_add_prob           = 0.988
+conn_delete_prob        = 0.146
+enabled_default         = True
+enabled_mutate_rate     = 0.01
+
+# node add remove rates
+node_add_prob           = 0.085
+node_delete_prob        = 0.0352
+
+# node response options
+response_init_mean      = 1.0
+response_init_stdev     = 0.0
+response_max_value      = 30.0
+response_min_value      = -30.0
+response_mutate_power   = 0.1
+response_mutate_rate    = 0.0
+response_replace_rate   = 0.0
+
+# connection weight options
+weight_init_mean        = 0.0
+weight_init_stdev       = 1.0
+weight_max_value        = 30
+weight_min_value        = -30
+weight_mutate_power     = 0.825
+weight_mutate_rate      = 0.460
+weight_replace_rate     = 0.0245
+
+[DefaultSpeciesSet]
+compatibility_threshold = 3.0
+
+[DefaultStagnation]
+species_fitness_func = mean
+max_stagnation       = 15
+
+[DefaultReproduction]
+elitism              = 5
+survival_threshold   = 0.2
