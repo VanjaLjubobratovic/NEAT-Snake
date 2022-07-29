@@ -116,6 +116,10 @@ def eval_fitness(genomes, config):
             if game_over:
                 break
 
+        # head = game.head
+        # food = game.food
+        # distance_to_food = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y))
+
         g.fitness = score / 100.0
 
         if not best_instance or g.fitness > best_fitness:

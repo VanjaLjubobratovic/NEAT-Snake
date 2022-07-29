@@ -5,6 +5,7 @@ import numpy
 import pygame
 import time
 import random
+from collections import deque
 import numpy as np
 
 
@@ -28,7 +29,11 @@ snake_color = yellow
 
 snake_block_dimens = 10
 snake_speed = 40
+
 MAX_STEPS_CONST = 50
+MAX_STEP_MEMORY = 5
+near_food_score = 0.2
+loop_punishment = 0.25
 
 #screen dimens
 dis_w = 800
@@ -57,6 +62,7 @@ class SnakeGameAI:
         self.place_food()
         self.frame_iteration = 0
         self.time_spent = 0.0
+        self.past_points = deque(maxlen=MAX_STEP_MEMORY)
     
     def place_food(self):
         #food block coords
@@ -155,6 +161,16 @@ class SnakeGameAI:
         else:
             #remove last tail block after moving head
             self.snake.pop()
+
+        # Adding points for getting close to food
+        distance_to_food = np.sqrt(np.square(self.head.x - self.food.x) + np.square(self.head.y - self.food.y))
+        if distance_to_food <= 0:
+            self.score += near_food_score
+
+        # Punishing the snake for spinning in place
+        if self.head in self.past_points:
+            self.score -= loop_punishment
+        self.past_points.append(self.head)
 
         #Update UI and clock
         self.update_ui()
