@@ -28,7 +28,7 @@ yellow = (255, 255, 102)
 snake_color = yellow
 
 snake_block_dimens = 10
-snake_speed = 100
+snake_speed = 10000
 
 MAX_STEPS_CONST = 100
 MAX_STEP_MEMORY = 5
@@ -44,8 +44,10 @@ font_style = pygame.font.SysFont(None, 30)
 Point = namedtuple('Point', 'x, y')
 
 class SnakeGameAI:
-    def __init__(self):
-        self.dis = pygame.display.set_mode((dis_w, dis_h))
+    def __init__(self, draw):
+        self.draw = draw
+        if self.draw:
+            self.dis = pygame.display.set_mode((dis_w, dis_h))
         self.clock = pygame.time.Clock()
         pygame.display.set_caption("Smort Snek game")
         self.reset()
@@ -176,6 +178,7 @@ class SnakeGameAI:
         self.score = round(self.score, 2)
 
         #Update UI and clock
-        self.update_ui()
+        if self.draw:
+            self.update_ui()
         self.clock.tick(snake_speed)
         return reward, game_over, self.score
