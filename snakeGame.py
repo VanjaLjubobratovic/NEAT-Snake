@@ -28,9 +28,9 @@ yellow = (255, 255, 102)
 snake_color = yellow
 
 snake_block_dimens = 10
-snake_speed = 70
+snake_speed = 100
 
-MAX_STEPS_CONST = 70
+MAX_STEPS_CONST = 100
 MAX_STEP_MEMORY = 5
 near_food_score = 0.2
 loop_punishment = 0.05

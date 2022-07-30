@@ -18,8 +18,9 @@ import threading
 BLOCK_SIZE = 10
 MAX_GENERATIONS = 30
 
-NEAR_FOOD_REWARD = 0.25
-LOOP_PUNISHMENT = -0.05
+NEAR_FOOD_REWARD = 0.15
+LOOP_PUNISHMENT = -0.5
+FOOD_REWARD_MULTIPLIER = 3.5
 
 generation_number = 0
 plot_mean_scores = []
@@ -98,7 +99,7 @@ def eval_fitness(genomes, config):
 
     best_instance = None
     genome_number = 0
-    best_fitness = -30
+    best_fitness = -1000
     total_score = 0
 
     for _, g in genomes:
@@ -118,24 +119,33 @@ def eval_fitness(genomes, config):
             # print("ACTION: ", action)
             # print("-----------------------------")
 
+            head = game.head
+            food = game.food
+            distance_to_food_prev = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
+
             reward, game_over, score = game.play_step(action)
 
             head = game.head
             food = game.food
-            distance_to_food = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
+            distance_to_food_current = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
             
             # Rewarding snake for getting close to food
-            if distance_to_food <= 1:
+            # if distance_to_food <= 1:
+            #     additional_points += NEAR_FOOD_REWARD
+            if distance_to_food_current <= distance_to_food_prev:
                 additional_points += NEAR_FOOD_REWARD
+            else:
+                additional_points -= NEAR_FOOD_REWARD
+
             
             # Punishing snake for spinning in place
             if head in game.past_points:
                 additional_points += LOOP_PUNISHMENT
 
-            if game_over or additional_points < -1.5:
+            if game_over:
                 break
 
-        g.fitness = round(score * 3 + additional_points, 2)
+        g.fitness = round(score * FOOD_REWARD_MULTIPLIER + additional_points, 2)
 
         if not best_instance or g.fitness > best_fitness:
             best_instance = {
@@ -147,7 +157,7 @@ def eval_fitness(genomes, config):
         }
 
         best_fitness = max(best_fitness, g.fitness)
-        print(f"Generation {generation_number} \tGenome {genome_number} \tFitness {g.fitness} \tBest fitness {best_fitness} \tScore {score}")
+        # print(f"Generation {generation_number} \tGenome {genome_number} \tFitness {g.fitness} \tBest fitness {best_fitness} \tScore {score}")
         genome_number += 1
         total_score += score
 
@@ -183,7 +193,15 @@ def train():
                                 neat.DefaultSpeciesSet, neat.DefaultStagnation,
                                 config_path)
     pop = population.Population(config)
+
+    pop.add_reporter(neat.StdOutReporter(True))
+    stats = neat.StatisticsReporter()
+    pop.add_reporter(stats)
+    pop.add_reporter(neat.Checkpointer(100))
+
     pop.run(eval_fitness, 100)
+
+
 
 if __name__ == '__main__':
     train()
