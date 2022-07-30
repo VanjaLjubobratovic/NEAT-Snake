@@ -172,7 +172,9 @@ def eval_fitness(genomes, config):
     total_generation_fitness = np.sum(plot_generation_fitness, 0)
     mean_generation_fitness = round(total_generation_fitness / len(plot_generation_fitness), 2)
     plot_mean_generation_fitness.append(mean_generation_fitness)
-    plot_best_scores.append(best_fitness)
+
+    #plot_best_scores.append(total_score / genome_number)
+    plot_best_scores.append(best_instance.get('score'))
     plot(plot_best_scores, plot_mean_generation_fitness)
 
     #save_best_generation_instance(best_instance)
