@@ -13,13 +13,19 @@ import pickle
 import math
 import neat
 from neat import nn, population
+import threading
 
 BLOCK_SIZE = 10
 MAX_GENERATIONS = 30
 
+NEAR_FOOD_REWARD = 0.25
+LOOP_PUNISHMENT = -0.05
+
 generation_number = 0
 plot_mean_scores = []
 plot_best_scores = []
+plot_generation_fitness = []
+plot_mean_generation_fitness = []
 
 def save_object(obj, filename):
     with open(filename, 'wb') as output:
@@ -92,13 +98,14 @@ def eval_fitness(genomes, config):
 
     best_instance = None
     genome_number = 0
-    best_fitness = 0
+    best_fitness = -30
     total_score = 0
 
     for _, g in genomes:
         game = SnakeGameAI()
         net = nn.FeedForwardNetwork.create(g, config)
         score = 0.0
+        additional_points = 0.0
 
         while True:
             action = [0, 0, 0]
@@ -113,14 +120,22 @@ def eval_fitness(genomes, config):
 
             reward, game_over, score = game.play_step(action)
 
-            if game_over:
+            head = game.head
+            food = game.food
+            distance_to_food = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
+            
+            # Rewarding snake for getting close to food
+            if distance_to_food <= 1:
+                additional_points += NEAR_FOOD_REWARD
+            
+            # Punishing snake for spinning in place
+            if head in game.past_points:
+                additional_points += LOOP_PUNISHMENT
+
+            if game_over or additional_points < -1.5:
                 break
 
-        # head = game.head
-        # food = game.food
-        # distance_to_food = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y))
-
-        g.fitness = score / 100.0
+        g.fitness = round(score * 3 + additional_points, 2)
 
         if not best_instance or g.fitness > best_fitness:
             best_instance = {
@@ -136,6 +151,14 @@ def eval_fitness(genomes, config):
         genome_number += 1
         total_score += score
 
+        plot_generation_fitness.append(g.fitness)
+        total_generation_fitness = np.sum(plot_generation_fitness, 0)
+        mean_generation_fitness = round(total_generation_fitness / len(plot_generation_fitness), 2)
+        plot_mean_generation_fitness.append(mean_generation_fitness)
+
+        plot(plot_generation_fitness, plot_mean_generation_fitness)
+
+
     #save_best_generation_instance(best_instance)
     generation_number += 1
 
@@ -148,8 +171,8 @@ def eval_fitness(genomes, config):
     #total_score = np.sum(plot_best_scores, 0)
     mean_score = total_score / genome_number
     plot_mean_scores.append(mean_score)
-    print("MEAN: ", plot_mean_scores)
-    plot(plot_best_scores, plot_mean_scores)
+    #print("MEAN: ", plot_mean_scores)
+    #plot(plot_best_scores, plot_mean_scores)
 
 
 def train():
@@ -160,7 +183,7 @@ def train():
                                 neat.DefaultSpeciesSet, neat.DefaultStagnation,
                                 config_path)
     pop = population.Population(config)
-    pop.run(eval_fitness, 50)
+    pop.run(eval_fitness, 100)
 
 if __name__ == '__main__':
     train()

@@ -1,12 +1,8 @@
-#--- parameters for the XOR-2 experiment ---#
 
-# The `Types` section specifies which classes should be used for various
-# tasks in the NEAT algorithm.  If you use a non-default class here, you
-# must register it with your Config instance before loading the config file.
 [NEAT]
 fitness_criterion     = max
 fitness_threshold     = 100
-pop_size              = 10
+pop_size              = 20
 reset_on_extinction   = False
 
 [DefaultGenome]
@@ -21,7 +17,7 @@ activation_options      = relu
 
 # node aggregation options
 aggregation_default     = sum
-aggregation_mutate_rate = 0.1
+aggregation_mutate_rate = 0.0
 aggregation_options     = sum
 
 # node bias options
@@ -39,43 +35,46 @@ num_hidden = 256
 num_outputs = 3
 
 feed_forward = True
+#initial_connection = partial_nodirect 0.5
+#initial_connection = full
 initial_connection = full_nodirect
 
 # connection enable options
-conn_add_prob           = 0.988
-conn_delete_prob        = 0.146
+conn_add_prob           = 0.5
+conn_delete_prob        = 0.5
 enabled_default         = True
-enabled_mutate_rate     = 0.01
+enabled_mutate_rate     = 0.05
 
 # node add remove rates
-node_add_prob           = 0.085
-node_delete_prob        = 0.0352
+node_add_prob           = 0.5
+node_delete_prob        = 0.1
 
 # node response options
 response_init_mean      = 1.0
-response_init_stdev     = 0.0
+response_init_stdev     = 0.05
 response_max_value      = 30.0
 response_min_value      = -30.0
 response_mutate_power   = 0.1
-response_mutate_rate    = 0.0
-response_replace_rate   = 0.0
+response_mutate_rate    = 0.75
+response_replace_rate   = 0.1
 
 # connection weight options
-weight_init_mean        = 0.0
+weight_init_mean        = 0.1
 weight_init_stdev       = 1.0
 weight_max_value        = 30
 weight_min_value        = -30
-weight_mutate_power     = 0.825
-weight_mutate_rate      = 0.460
-weight_replace_rate     = 0.0245
+weight_mutate_power     = 0.5
+weight_mutate_rate      = 0.8
+weight_replace_rate     = 0.1
 
 [DefaultSpeciesSet]
 compatibility_threshold = 3.0
 
 [DefaultStagnation]
-species_fitness_func = mean
+species_fitness_func = max
 max_stagnation       = 15
+species_elitism = 2
 
 [DefaultReproduction]
-elitism              = 5
+elitism              = 2
 survival_threshold   = 0.2
