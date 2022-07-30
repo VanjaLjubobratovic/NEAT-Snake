@@ -4,6 +4,7 @@ from glob import glob
 from importlib.resources import path
 import os
 import random
+from time import sleep
 import numpy as np
 from collections import deque
 from snakeGame import SnakeGameAI, Direction, Point
@@ -20,7 +21,11 @@ MAX_GENERATIONS = 30
 
 NEAR_FOOD_REWARD = 0.15
 LOOP_PUNISHMENT = -0.5
-FOOD_REWARD_MULTIPLIER = 8.5
+FOOD_REWARD_MULTIPLIER = 80
+LIVING_PUNISHMENT = -0.2
+
+best_instance_list = deque(maxlen=1)
+best_instance_list.append(None)
 
 generation_number = 0
 plot_mean_scores = []
@@ -41,6 +46,8 @@ def load_object(filename):
 def get_inputs(game):
         #snake will look for danger BLOCK_SIZE in front of itself
         head = game.snake[0]
+        food = game.food
+
         point_l = Point(head.x - BLOCK_SIZE, head.y)
         point_r = Point(head.x + BLOCK_SIZE, head.y)
         point_u = Point(head.x, head.y - BLOCK_SIZE)
@@ -83,7 +90,7 @@ def get_inputs(game):
             game.food.y > game.head.y #food down
         ]
 
-        return np.array(state, dtype=int) #array with booleans converted to 0 or 1
+        return np.array(state, dtype=float) #array with booleans converted to 0 or 1
 
 def save_best_generation_instance(instance, filename='trained/best_generation_instances.pickle'):
         instances = []
@@ -105,7 +112,7 @@ def eval_fitness(genomes, config):
     plot_generation_fitness = []
 
     for _, g in genomes:
-        game = SnakeGameAI(False)
+        game = SnakeGameAI(False, 10_000)
         net = nn.FeedForwardNetwork.create(g, config)
         score = 0.0
         additional_points = 0.0
@@ -120,6 +127,7 @@ def eval_fitness(genomes, config):
             # print("OUTPUTS: ", output)
             # print("ACTION: ", action)
             # print("-----------------------------")
+            
 
             head = game.head
             food = game.food
@@ -133,6 +141,7 @@ def eval_fitness(genomes, config):
             
             # Rewarding snake for getting close to food
             if distance_to_food_current <= distance_to_food_prev:
+                # Getting closer
                 additional_points += NEAR_FOOD_REWARD
             else:
                 additional_points -= NEAR_FOOD_REWARD
@@ -141,6 +150,8 @@ def eval_fitness(genomes, config):
             # Punishing snake for spinning in place
             if head in game.past_points:
                 additional_points += LOOP_PUNISHMENT
+
+            additional_points += LIVING_PUNISHMENT
 
             if game_over:
                 break
@@ -154,7 +165,10 @@ def eval_fitness(genomes, config):
             'score' : score,
             'genome': g,
             'net': net,
-        }
+            }
+        
+        if best_instance_list[0] == None or best_instance.get('score') > best_instance_list[0].get('score'):
+            best_instance_list.append(best_instance)
 
         best_fitness = max(best_fitness, g.fitness)
         # print(f"Generation {generation_number} \tGenome {genome_number} \tFitness {g.fitness} \tBest fitness {best_fitness} \tScore {score}")
@@ -206,8 +220,24 @@ def train():
     pop.add_reporter(stats)
     pop.add_reporter(neat.Checkpointer(100))
 
-    pop.run(eval_fitness, 1000)
+    try:
+       pop.run(eval_fitness, 1000)
+       print("HELLO")
+    except:
+        sleep(2)
+        game = SnakeGameAI(True, 40)
+        net = best_instance_list[0].get('net')
 
+        while True:
+            action = [0, 0, 0]
+            inputs = get_inputs(game)
+            output = net.activate(inputs)
+            action[np.argmax(output)] = 1
+
+            reward, game_over, score = game.play_step(action)
+            if game_over:
+                print("SCORE: ", score)
+                break
 
 
 if __name__ == '__main__':

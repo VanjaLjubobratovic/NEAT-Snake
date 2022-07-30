@@ -28,7 +28,7 @@ yellow = (255, 255, 102)
 snake_color = yellow
 
 snake_block_dimens = 10
-snake_speed = 10000
+#snake_speed = 10000
 
 MAX_STEPS_CONST = 100
 MAX_STEP_MEMORY = 5
@@ -44,8 +44,9 @@ font_style = pygame.font.SysFont(None, 30)
 Point = namedtuple('Point', 'x, y')
 
 class SnakeGameAI:
-    def __init__(self, draw):
+    def __init__(self, draw, speed):
         self.draw = draw
+        self.snake_speed = speed
         if self.draw:
             self.dis = pygame.display.set_mode((dis_w, dis_h))
         self.clock = pygame.time.Clock()
@@ -180,5 +181,5 @@ class SnakeGameAI:
         #Update UI and clock
         if self.draw:
             self.update_ui()
-        self.clock.tick(snake_speed)
+        self.clock.tick(self.snake_speed)
         return reward, game_over, self.score
