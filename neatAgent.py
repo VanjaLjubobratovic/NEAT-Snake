@@ -92,12 +92,12 @@ def get_inputs(game):
 
         return np.array(state, dtype=float) #array with booleans converted to 0 or 1
 
-def save_best_generation_instance(instance, filename='trained/best_generation_instances.pickle'):
-        instances = []
-        if os.path.isfile(filename):
-            instances = load_object(filename)
-        instances.append(instance)
-        save_object(instances, filename)
+def save_best_generation_instance(instance, file_name='best_instance.pickle'):
+    net_folder_path = "./neural-net"
+    if not os.path.exists(net_folder_path):
+        os.makedirs(net_folder_path)
+    file_name = os.path.join(net_folder_path, file_name)
+    save_object(best_instance_list[0], file_name)
 
 def eval_fitness(genomes, config):
     global best_fitness
@@ -144,7 +144,7 @@ def eval_fitness(genomes, config):
                 # Getting closer
                 additional_points += NEAR_FOOD_REWARD
             else:
-                additional_points -= NEAR_FOOD_REWARD
+                additional_points -= NEAR_FOOD_REWARD * 2
 
             
             # Punishing snake for spinning in place
@@ -157,6 +157,7 @@ def eval_fitness(genomes, config):
                 break
 
         g.fitness = round(score * FOOD_REWARD_MULTIPLIER + additional_points, 2)
+        #g.fitness = round(score * FOOD_REWARD_MULTIPLIER, 2)
 
         if not best_instance or g.fitness > best_fitness:
             best_instance = {
@@ -223,7 +224,8 @@ def train():
     try:
        pop.run(eval_fitness, 1000)
        print("HELLO")
-    except:
+    finally:
+        #save_best_generation_instance(best_instance_list[0].get('net'))
         sleep(2)
         game = SnakeGameAI(True, 40)
         net = best_instance_list[0].get('net')
@@ -241,7 +243,12 @@ def train():
 
 
 if __name__ == '__main__':
-    train()
+    try:
+        train()
+    finally:
+        print("BOKIC!")
+        save_best_generation_instance(best_instance_list[0].get('net'))
+
 
 
 
