@@ -134,7 +134,7 @@ def train():
     total_score = 0
     record = 0
     agent = Agent()
-    game = SnakeGameAI()
+    game = SnakeGameAI(False)
 
     while True:
         #get old state

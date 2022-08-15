@@ -5,6 +5,7 @@ import numpy
 import pygame
 import time
 import random
+from collections import deque
 import numpy as np
 
 
@@ -27,7 +28,12 @@ yellow = (255, 255, 102)
 snake_color = yellow
 
 snake_block_dimens = 10
-snake_speed = 40
+#snake_speed = 10000
+
+MAX_STEPS_CONST = 200
+MAX_STEP_MEMORY = 5
+near_food_score = 0.2
+loop_punishment = 0.05
 
 #screen dimens
 dis_w = 800
@@ -38,8 +44,11 @@ font_style = pygame.font.SysFont(None, 30)
 Point = namedtuple('Point', 'x, y')
 
 class SnakeGameAI:
-    def __init__(self):
-        self.dis = pygame.display.set_mode((dis_w, dis_h))
+    def __init__(self, draw, speed):
+        self.draw = draw
+        self.snake_speed = speed
+        if self.draw:
+            self.dis = pygame.display.set_mode((dis_w, dis_h))
         self.clock = pygame.time.Clock()
         pygame.display.set_caption("Smort Snek game")
         self.reset()
@@ -56,6 +65,7 @@ class SnakeGameAI:
         self.place_food()
         self.frame_iteration = 0
         self.time_spent = 0.0
+        self.past_points = deque(maxlen=MAX_STEP_MEMORY)
     
     def place_food(self):
         #food block coords
@@ -134,6 +144,8 @@ class SnakeGameAI:
             if event.type == pygame.QUIT:
                 pygame.quit()
                 quit()
+
+        self.past_points.append(self.head)
         
         #Move step
         self.move(action)
@@ -141,7 +153,7 @@ class SnakeGameAI:
 
         reward = 0
         game_over = False
-        if self.is_collision() or self.frame_iteration > 100 * len(self.snake):
+        if self.is_collision() or self.frame_iteration > MAX_STEPS_CONST * len(self.snake):
             game_over = True
             reward = -10
             return reward, game_over, self.score
@@ -155,7 +167,19 @@ class SnakeGameAI:
             #remove last tail block after moving head
             self.snake.pop()
 
+        # Adding points for getting close to food
+        # distance_to_food = np.sqrt(np.square(self.head.x - self.food.x) + np.square(self.head.y - self.food.y))
+        # if distance_to_food <= 0:
+        #     self.score += near_food_score
+
+        # Punishing the snake for spinning in place
+        # if self.head in self.past_points:
+        #     self.score -= loop_punishment
+
+        self.score = round(self.score, 2)
+
         #Update UI and clock
-        self.update_ui()
-        self.clock.tick(snake_speed)
+        if self.draw:
+            self.update_ui()
+        self.clock.tick(self.snake_speed)
         return reward, game_over, self.score
