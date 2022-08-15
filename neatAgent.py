@@ -15,13 +15,14 @@ import math
 import neat
 from neat import nn, population
 from threading import Thread
+import copy
 
 BLOCK_SIZE = 10
 MAX_GENERATIONS = 30
 
 NEAR_FOOD_REWARD = 0.15
 LOOP_PUNISHMENT = -0.5
-FOOD_REWARD_MULTIPLIER = 80
+FOOD_REWARD_MULTIPLIER = 10
 LIVING_PUNISHMENT = -0.2
 
 best_instance_list = deque(maxlen=1)
@@ -59,29 +60,18 @@ def get_inputs(game):
         dir_d = game.direction == Direction.DOWN
 
         state = [
-            #danger in front
-            (dir_r and game.is_collision(point_r)) or
-            (dir_l and game.is_collision(point_l)) or
-            (dir_u and game.is_collision(point_u)) or
-            (dir_d and game.is_collision(point_d)),
+            game.is_collision(point_r),
+            game.is_collision(point_l),
+            game.is_collision(point_u),
+            game.is_collision(point_d),
 
-            #danger right
-            (dir_u and game.is_collision(point_r)) or
-            (dir_d and game.is_collision(point_l)) or
-            (dir_l and game.is_collision(point_u)) or
-            (dir_r and game.is_collision(point_d)),
-
-            #danger left
-            (dir_u and game.is_collision(point_l)) or
-            (dir_d and game.is_collision(point_r)) or
-            (dir_r and game.is_collision(point_u)) or
-            (dir_l and game.is_collision(point_d)),
-
-            #move direction, only one is true
-            dir_l,
-            dir_r,
-            dir_u,
-            dir_d,
+            # KOMENTAR
+            # Ako ovo otkomentirate, morate u config-neat.txt promijeniti num_inputs na 12.
+            # Move direction, only one is true
+            # dir_l,
+            # dir_r,
+            # dir_u,
+            # dir_d,
 
             #Food location
             game.food.x < game.head.x, #food left
@@ -112,52 +102,64 @@ def eval_fitness(genomes, config):
     plot_generation_fitness = []
 
     for _, g in genomes:
-        game = SnakeGameAI(False, 10_000)
-        net = nn.FeedForwardNetwork.create(g, config)
         score = 0.0
         additional_points = 0.0
 
-        while True:
-            action = [0, 0, 0]
-            inputs = get_inputs(game)
-            output = net.activate(inputs)
-            action[np.argmax(output)] = 1
+        # KOMENTAR
+        # Evaluaciju svake jedinke se ponovi 10 puta kako bi dobili bolju procjenu koliko je dobra ta jedinka.
+        for _ in range(10):
+            game = SnakeGameAI(False, 10_000)
+            net = nn.FeedForwardNetwork.create(g, config)
 
-            # print("INPUTS: ", inputs)
-            # print("OUTPUTS: ", output)
-            # print("ACTION: ", action)
-            # print("-----------------------------")
-            
+            while True:
+                # KOMENTAR
+                # Agent ima na raspolaganju 4 akcije: gore, dolje, lijevo, desno
+                action = [0, 0, 0, 0]
+                inputs = get_inputs(game)
+                output = net.activate(inputs)
+                action[np.argmax(output)] = 1
 
-            head = game.head
-            food = game.food
-            distance_to_food_prev = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
+                # print("INPUTS: ", inputs)
+                # print("OUTPUTS: ", output)
+                # print("ACTION: ", action)
+                # print("-----------------------------")
+                
 
-            reward, game_over, score = game.play_step(action)
+                head = game.head
+                food = game.food
+                distance_to_food_prev = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
 
-            head = game.head
-            food = game.food
-            distance_to_food_current = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
-            
-            # Rewarding snake for getting close to food
-            if distance_to_food_current <= distance_to_food_prev:
-                # Getting closer
-                additional_points += NEAR_FOOD_REWARD
-            else:
-                additional_points -= NEAR_FOOD_REWARD * 2
+                reward, game_over, delta_score = game.play_step(action)
 
-            
-            # Punishing snake for spinning in place
-            if head in game.past_points:
-                additional_points += LOOP_PUNISHMENT
+                head = game.head
+                food = game.food
+                distance_to_food_current = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
 
-            additional_points += LIVING_PUNISHMENT
+                # KOMENTAR
+                # Agent dobiva pozitivne bodove kada se približava hrani, a dvostruko brze dobiva negativne bodove kada se udaljava.
+                # Kada sakupi hranu, hrana ce se teleportirati negdje drugdje na ploci i taj slucaj ignoriramo sa uvjetom (reward != 10) jer
+                # u tom slucaju nema smisla nagradivati/kaznjavati agenta.
+                if reward != 10:
+                    delta = distance_to_food_prev - distance_to_food_current
+                    if delta > 0:
+                        additional_points += delta
+                    else:
+                        additional_points += delta #* 2
 
-            if game_over:
-                break
+                if game_over:
+                    break
+            score += delta_score
 
-        g.fitness = round(score * FOOD_REWARD_MULTIPLIER + additional_points, 2)
-        #g.fitness = round(score * FOOD_REWARD_MULTIPLIER, 2)
+        # KOMENTAR
+        # Izracunavamo prosjecan fitness i score.
+        additional_points = additional_points / 10
+        score = score / 10
+
+        #additional_points = additional_points / 10 + score * FOOD_REWARD_MULTIPLIER
+
+        # KOMENTAR
+        # Fitness ovisi samo o additional_points.
+        g.fitness = round(additional_points, 2)
 
         if not best_instance or g.fitness > best_fitness:
             best_instance = {
@@ -167,9 +169,8 @@ def eval_fitness(genomes, config):
             'genome': g,
             'net': net,
             }
-        
-        if best_instance_list[0] == None or best_instance.get('score') > best_instance_list[0].get('score'):
             best_instance_list.append(best_instance)
+            
 
         best_fitness = max(best_fitness, g.fitness)
         # print(f"Generation {generation_number} \tGenome {genome_number} \tFitness {g.fitness} \tBest fitness {best_fitness} \tScore {score}")
@@ -225,21 +226,29 @@ def train():
        pop.run(eval_fitness, 1000)
        print("HELLO")
     finally:
+        scores = []
         #save_best_generation_instance(best_instance_list[0].get('net'))
-        sleep(2)
-        game = SnakeGameAI(True, 40)
-        net = best_instance_list[0].get('net')
 
-        while True:
-            action = [0, 0, 0]
-            inputs = get_inputs(game)
-            output = net.activate(inputs)
-            action[np.argmax(output)] = 1
+        # KOMENTAR
+        # Izvodi se igra 100 puta i ispisuje se prosjecan score.        
+        for _ in range(100):
+            sleep(2)
+            game = SnakeGameAI(True, 100)
+            net = best_instance_list[0].get('net')
 
-            reward, game_over, score = game.play_step(action)
-            if game_over:
-                print("SCORE: ", score)
-                break
+            while True:
+                action = [0, 0, 0, 0]
+                inputs = get_inputs(game)
+                output = net.activate(inputs)
+                action[np.argmax(output)] = 1
+
+                reward, game_over, score = game.play_step(action)
+                if game_over:
+                    scores.append(score)
+                    break
+        avg_score = sum(scores) / len(scores)
+        print(scores)
+        print("Average score: {}".format(avg_score))
 
 
 if __name__ == '__main__':
