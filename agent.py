@@ -19,7 +19,7 @@ class Agent:
         self.epsilon = 0 #randomness
         self.gamma = 0.9 #discount
         self.memory = deque(maxlen=MAX_MEMORY)
-        self.model = Linear_QNet(11, 256, 3) #state vector, hidden layer, output vector (action)
+        self.model = Linear_QNet(8, 256, 4) #state vector, hidden layer, output vector (action)
         self.trainer = QTrainer(self.model, lr = LR, gamma = self.gamma)
 
     def get_state(self, game):
@@ -40,29 +40,18 @@ class Agent:
 
 
         state = [
-            #danger in front
-            (dir_r and game.is_collision(point_r)) or
-            (dir_l and game.is_collision(point_l)) or
-            (dir_u and game.is_collision(point_u)) or
-            (dir_d and game.is_collision(point_d)),
+            game.is_collision(point_r),
+            game.is_collision(point_l),
+            game.is_collision(point_u),
+            game.is_collision(point_d),
 
-            #danger right
-            (dir_u and game.is_collision(point_r)) or
-            (dir_d and game.is_collision(point_l)) or
-            (dir_l and game.is_collision(point_u)) or
-            (dir_r and game.is_collision(point_d)),
-
-            #danger left
-            (dir_u and game.is_collision(point_l)) or
-            (dir_d and game.is_collision(point_r)) or
-            (dir_r and game.is_collision(point_u)) or
-            (dir_l and game.is_collision(point_d)),
-
-            #move direction, only one is true
-            dir_l,
-            dir_r,
-            dir_u,
-            dir_d,
+            # KOMENTAR
+            # Ako ovo otkomentirate, morate u config-neat.txt promijeniti num_inputs na 12.
+            # Move direction, only one is true
+            #dir_l,
+            #dir_r,
+            #dir_u,
+            #dir_d,
 
             #Food location
             game.food.x < game.head.x, #food left
@@ -94,7 +83,7 @@ class Agent:
 
         ]
 
-        return np.array(state, dtype=int) #array with booleans converted to 0 or 1
+        return np.array(state, dtype=float) #array with booleans converted to 0 or 1
 
 
     def remember(self, state, action, reward, next_state, game_over):
@@ -115,9 +104,9 @@ class Agent:
     def get_action(self, state):
         #random moves: explore / exploit
         self.epsilon = 80 - self.num_games #hardcoded
-        final_move = [0, 0, 0]
+        final_move = [0, 0, 0, 0]
         if random.randint(0, 200) < self.epsilon:
-            move = random.randint(0, 2)
+            move = random.randint(0, 3)
             final_move[move] = 1
         else:
             #make a proper move
@@ -134,7 +123,7 @@ def train():
     total_score = 0
     record = 0
     agent = Agent()
-    game = SnakeGameAI(False)
+    game = SnakeGameAI(False, 10_000)
 
     while True:
         #get old state
