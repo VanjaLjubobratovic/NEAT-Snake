@@ -84,7 +84,10 @@ class SnakeGameAI:
         pygame.display.update()
 
     def move(self, action):
+
         # [up, down, right, left] snake action
+        # KOMENTAR
+        # Ovo sam prilagodio
 
         if np.array_equal(action, [1, 0, 0, 0]):
             new_dir = Direction.UP
@@ -151,13 +154,14 @@ class SnakeGameAI:
 
         reward = 0
         game_over = False
-        if self.is_collision() or self.frame_iteration > MAX_STEPS_CONST * len(self.snake):
+        if self.is_collision() or self.frame_iteration > MAX_STEPS_CONST:
             game_over = True
             reward = -10
             return reward, game_over, self.score
         
         #Place new food or move
         if self.head == self.food:
+            self.frame_iteration = 0
             self.score += 1
             reward = 10
             self.place_food()

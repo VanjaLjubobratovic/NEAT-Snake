@@ -1,9 +1,9 @@
 
 [NEAT]
 fitness_criterion     = max
-fitness_threshold     = 10000
-pop_size              = 1000
-reset_on_extinction   = True
+fitness_threshold     = 8000
+pop_size              = 50
+reset_on_extinction   = False
 
 [DefaultGenome]
 # genome compatibility options
@@ -11,9 +11,9 @@ compatibility_disjoint_coefficient = 1.0
 compatibility_weight_coefficient   = 0.5
 
 # node activation options
-activation_default      = relu
+activation_default      = sigmoid
 activation_mutate_rate  = 0.0
-activation_options      = relu
+activation_options      = sigmoid
 
 # node aggregation options
 aggregation_default     = sum
@@ -23,20 +23,20 @@ aggregation_options     = sum
 # node bias options
 bias_init_mean          = 0.0
 bias_init_stdev         = 1.0
-bias_max_value          = 30.0
-bias_min_value          = -30.0
+bias_max_value          = 3.0
+bias_min_value          = -3.0
 bias_mutate_power       = 0.3
 bias_mutate_rate        = 0.05
 bias_replace_rate       = 0.1
 
 # network params
-num_inputs = 11
-num_hidden = 20
-num_outputs = 3
+num_inputs = 8
+num_hidden = 5
+num_outputs = 4
 
 feed_forward = True
 #initial_connection = partial_direct 0.5
-initial_connection = full
+initial_connection = full_direct
 
 # connection enable options
 conn_add_prob           = 0.5
@@ -51,8 +51,8 @@ node_delete_prob        = 0.5
 # node response options
 response_init_mean      = 1.0
 response_init_stdev     = 0.05
-response_max_value      = 30.0
-response_min_value      = -30.0
+response_max_value      = 3.0
+response_min_value      = -3.0
 response_mutate_power   = 0.3
 response_mutate_rate    = 0.05
 response_replace_rate   = 0.1
@@ -60,8 +60,8 @@ response_replace_rate   = 0.1
 # connection weight options
 weight_init_mean        = 0.1
 weight_init_stdev       = 1.0
-weight_max_value        = 30
-weight_min_value        = -30
+weight_max_value        = 1.0
+weight_min_value        = -1.0
 weight_mutate_power     = 0.3
 weight_mutate_rate      = 0.05
 weight_replace_rate     = 0.1
@@ -75,5 +75,5 @@ max_stagnation = 15
 species_elitism = 0
 
 [DefaultReproduction]
-elitism              = 3
+elitism              = 2
 survival_threshold   = 0.1
