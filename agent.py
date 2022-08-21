@@ -59,26 +59,6 @@ class Agent:
 
             # abs(food_tr.x) > abs(food_tr.y),
             # abs(food_tr.x) < abs(food_tr.y)
-
-
-            # game.food.x > game.head.x and game.food.y < game.head.y, #Quadrant I
-            # game.food.x < game.head.x and game.food.y < game.head.y, #Quadrant II
-            # game.food.x < game.head.x and game.food.y > game.head.y, #Quadrant III
-            # game.food.x > game.head.x and game.food.y > game.head.y #Quadrant IV
-
-
-            # game.food.x > game.head.x and game.food.y < game.head.y and abs(food_tr.x) > abs(food_tr.y), #Octant I
-            # game.food.x > game.head.x and game.food.y < game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant II
-
-            # game.food.x < game.head.x and game.food.y < game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant III
-            # game.food.x < game.head.x and game.food.y < game.head.y and abs(food_tr.x) > abs(food_tr.y), #Octant IV
-
-            # game.food.x < game.head.x and game.food.y > game.head.y and abs(food_tr.x) > abs(food_tr.y), #Octant V
-            # game.food.x < game.head.x and game.food.y > game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant VI
-
-            # game.food.x > game.head.x and game.food.y > game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant VII
-            # game.food.x > game.head.x and game.food.y > game.head.y and abs(food_tr.x) > abs(food_tr.y) #Octant VIII
-
         ]
 
         return np.array(state, dtype=float) #array with booleans converted to 0 or 1
