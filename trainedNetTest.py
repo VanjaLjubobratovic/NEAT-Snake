@@ -76,8 +76,6 @@ def play_game():
             net = Linear_QNet(8, 256, 4)
             net.load_state_dict(torch.load(path))
 
-        print(type(net))
-
         while True:
             action = [0, 0, 0, 0]
             inputs = get_inputs(game)

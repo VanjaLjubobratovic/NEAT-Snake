@@ -120,7 +120,8 @@ class SnakeGameAI:
             pygame.draw.rect(self.dis, snake_color, pygame.Rect(block.x, block.y, snake_block_dimens, snake_block_dimens))
         
         pygame.draw.rect(self.dis, red, pygame.Rect(self.food.x, self.food.y, snake_block_dimens, snake_block_dimens))
-        self.show_message("Score: " + str(self.score))
+        self.show_message("Score: " + str(self.score) + " | Steps Left: " + str(MAX_STEPS_CONST - self.frame_iteration)
+                            + " | " + str(self.direction))
 
     def is_collision(self, pt = None):
         if pt is None:
@@ -166,15 +167,6 @@ class SnakeGameAI:
         else:
             #remove last tail block after moving head
             self.snake.pop()
-
-        # Adding points for getting close to food
-        # distance_to_food = np.sqrt(np.square(self.head.x - self.food.x) + np.square(self.head.y - self.food.y))
-        # if distance_to_food <= 0:
-        #     self.score += near_food_score
-
-        # Punishing the snake for spinning in place
-        # if self.head in self.past_points:
-        #     self.score -= loop_punishment
 
         self.score = round(self.score, 2)
 
