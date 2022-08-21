@@ -174,6 +174,7 @@ def eval_fitness(genomes, config):
     plot_best_scores.append(best_instance.get('score'))
 
     # Mozda bi se ovo moglo malo ljepse napravit
+    # Prvi argument je lista tuplova u obliku (lista_mjerenja, label)
     plot([(plot_best_scores, "Best gen. score"), (plot_mean_generation_fitness, "mean gen. fitness")], "generations", "score", -50, "neat_scores.png")
 
     #save_best_generation_instance(best_instance)

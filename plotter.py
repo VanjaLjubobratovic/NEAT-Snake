@@ -16,7 +16,7 @@ def suppress_stdout():
         finally:
             sys.stdout = old_stdout
 
-def plot(scores_labels, x_label, y_label, y_min, filename):
+def plot(scores_labels: list[tuple], x_label, y_label, y_min, filename):
     if "." not in filename:
         filename += ".png"
     
