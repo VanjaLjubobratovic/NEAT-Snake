@@ -45,8 +45,6 @@ class Agent:
             game.is_collision(point_u),
             game.is_collision(point_d),
 
-            # KOMENTAR
-            # Ako ovo otkomentirate, morate u config-neat.txt promijeniti num_inputs na 12.
             # Move direction, only one is true
             #dir_l,
             #dir_r,
@@ -61,26 +59,6 @@ class Agent:
 
             # abs(food_tr.x) > abs(food_tr.y),
             # abs(food_tr.x) < abs(food_tr.y)
-
-
-            # game.food.x > game.head.x and game.food.y < game.head.y, #Quadrant I
-            # game.food.x < game.head.x and game.food.y < game.head.y, #Quadrant II
-            # game.food.x < game.head.x and game.food.y > game.head.y, #Quadrant III
-            # game.food.x > game.head.x and game.food.y > game.head.y #Quadrant IV
-
-
-            # game.food.x > game.head.x and game.food.y < game.head.y and abs(food_tr.x) > abs(food_tr.y), #Octant I
-            # game.food.x > game.head.x and game.food.y < game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant II
-
-            # game.food.x < game.head.x and game.food.y < game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant III
-            # game.food.x < game.head.x and game.food.y < game.head.y and abs(food_tr.x) > abs(food_tr.y), #Octant IV
-
-            # game.food.x < game.head.x and game.food.y > game.head.y and abs(food_tr.x) > abs(food_tr.y), #Octant V
-            # game.food.x < game.head.x and game.food.y > game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant VI
-
-            # game.food.x > game.head.x and game.food.y > game.head.y and abs(food_tr.x) < abs(food_tr.y), #Octant VII
-            # game.food.x > game.head.x and game.food.y > game.head.y and abs(food_tr.x) > abs(food_tr.y) #Octant VIII
-
         ]
 
         return np.array(state, dtype=float) #array with booleans converted to 0 or 1
@@ -159,7 +137,7 @@ def train():
             total_score += score
             mean_score = total_score / agent.num_games
             plot_mean_scores.append(mean_score)
-            plot(plot_scores, plot_mean_scores)
+            plot([(plot_scores, "Score"), (plot_mean_scores, "Mean score")], "Games", "Score", 0, "dqn_scores.png")
             
 if __name__ == '__main__':
     train()

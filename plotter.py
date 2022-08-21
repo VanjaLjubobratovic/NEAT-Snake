@@ -16,19 +16,31 @@ def suppress_stdout():
         finally:
             sys.stdout = old_stdout
 
-def plot(scores, mean_scores):
+def plot(scores_labels: list[tuple], x_label, y_label, y_min, filename):
+    if "." not in filename:
+        filename += ".png"
+    
+    if not os.path.exists("./Graphs"):
+        os.mkdir("./Graphs")
+    
     with suppress_stdout():
         display.clear_output(wait=True)
         display.display(plt.gcf())
     plt.clf()
     plt.title('Training...')
-    plt.xlabel('Number of Games')
-    plt.ylabel('Score')
-    plt.plot(scores)
-    plt.plot(mean_scores)
-    plt.ylim(ymin=-200)
-    plt.text(len(scores)-1, scores[-1], str(scores[-1]))
-    plt.text(len(mean_scores)-1, mean_scores[-1], str(mean_scores[-1]))
+    plt.xlabel(x_label)
+    plt.ylabel(y_label)
+
+    # lista tupleova o ubliku (lista_mjerenja, label)
+    for score_label in scores_labels:
+        scores = score_label[0]
+        label = score_label[1]
+
+        plt.plot(scores, label = label)
+        plt.text(len(scores)-1, scores[-1], str(scores[-1]))
+
+    plt.ylim(ymin=y_min)
+    plt.legend(loc="lower left")
     plt.show(block=False)
     plt.pause(.1)
-    plt.savefig('graph.png')
+    plt.savefig("./Graphs/" + filename)
