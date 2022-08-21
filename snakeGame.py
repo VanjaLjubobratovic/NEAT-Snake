@@ -84,8 +84,11 @@ class SnakeGameAI:
         pygame.display.update()
 
     def move(self, action):
+
+        # [up, down, right, left] snake action
         # KOMENTAR
         # Ovo sam prilagodio
+
         if np.array_equal(action, [1, 0, 0, 0]):
             new_dir = Direction.UP
         elif np.array_equal(action, [0, 1, 0, 0]):
