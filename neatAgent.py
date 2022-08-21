@@ -77,12 +77,12 @@ def get_inputs(game):
 
         return np.array(state, dtype=float) #array with booleans converted to 0 or 1
 
-def save_best_generation_instance(instance, file_name='best_instance.pickle'):
+def save_best_generation_instance(instance, file_name='best_instance_neat.pickle'):
     net_folder_path = "./neural-net"
     if not os.path.exists(net_folder_path):
         os.makedirs(net_folder_path)
     file_name = os.path.join(net_folder_path, file_name)
-    save_object(best_instance_list[0], file_name)
+    save_object(instance, file_name)
 
 def eval_fitness(genomes, config):
     global best_fitness
