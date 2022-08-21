@@ -16,17 +16,17 @@ def suppress_stdout():
         finally:
             sys.stdout = old_stdout
 
-def plot(scores, mean_scores):
+def plot(scores, mean_scores, x_label, y_label, y_min):
     with suppress_stdout():
         display.clear_output(wait=True)
         display.display(plt.gcf())
     plt.clf()
     plt.title('Training...')
-    plt.xlabel('Number of Games')
-    plt.ylabel('Score')
+    plt.xlabel(x_label)
+    plt.ylabel(y_label)
     plt.plot(scores)
     plt.plot(mean_scores)
-    plt.ylim(ymin=-200)
+    plt.ylim(ymin=y_min)
     plt.text(len(scores)-1, scores[-1], str(scores[-1]))
     plt.text(len(mean_scores)-1, mean_scores[-1], str(mean_scores[-1]))
     plt.show(block=False)

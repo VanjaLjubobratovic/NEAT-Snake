@@ -1,9 +1,7 @@
 from collections import namedtuple
 from enum import Enum
 from random import random
-import numpy
 import pygame
-import time
 import random
 from collections import deque
 import numpy as np
