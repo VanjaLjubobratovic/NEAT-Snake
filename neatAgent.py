@@ -108,6 +108,8 @@ def eval_fitness(genomes, config):
             while True:
                 # KOMENTAR
                 # Agent ima na raspolaganju 4 akcije: gore, dolje, lijevo, desno
+                # Akcije nisu relativne zmiji već globalnom koordinatnom sustavu
+
                 action = [0, 0, 0, 0]
                 inputs = get_inputs(game)
                 output = net.activate(inputs)
@@ -132,7 +134,7 @@ def eval_fitness(genomes, config):
                     if delta > 0:
                         additional_points += delta
                     else:
-                        additional_points += delta #* 2
+                        additional_points += delta * 2
 
                 if game_over:
                     break
@@ -170,10 +172,36 @@ def eval_fitness(genomes, config):
     plot_mean_generation_fitness.append(mean_generation_fitness)
 
     plot_best_scores.append(best_instance.get('score'))
-    plot(plot_best_scores, plot_mean_generation_fitness, "generations", "score", -100)
+
+    # Mozda bi se ovo moglo malo ljepse napravit
+    plot([(plot_best_scores, "Best gen. score"), (plot_mean_generation_fitness, "mean gen. fitness")], "generations", "score", -50, "neat_scores.png")
 
     #save_best_generation_instance(best_instance)
     generation_number += 1
+
+def test_trained_net():
+    scores = []
+    # KOMENTAR
+    # Izvodi se igra 10 puta i ispisuje se prosjecan score.        
+    for _ in range(10):
+        sleep(2)
+        game = SnakeGameAI(True, 100)
+        net = best_instance_list[0].get('net')
+
+        while True:
+            action = [0, 0, 0, 0]
+            inputs = get_inputs(game)
+            output = net.activate(inputs)
+            action[np.argmax(output)] = 1
+
+            reward, game_over, score = game.play_step(action)
+            if game_over:
+                scores.append(score)
+                break
+    avg_score = sum(scores) / len(scores)
+    print(scores)
+    print("Average score: {}".format(avg_score))
+
 
 def train():
     local_dir = os.path.dirname(__file__)
@@ -189,40 +217,21 @@ def train():
     pop.add_reporter(stats)
     pop.add_reporter(neat.Checkpointer(100))
 
-    try:
-       pop.run(eval_fitness, 1000)
-       print("HELLO")
-    finally:
-        scores = []
-
-        # KOMENTAR
-        # Izvodi se igra 100 puta i ispisuje se prosjecan score.        
-        for _ in range(100):
-            sleep(2)
-            game = SnakeGameAI(True, 100)
-            net = best_instance_list[0].get('net')
-
-            while True:
-                action = [0, 0, 0, 0]
-                inputs = get_inputs(game)
-                output = net.activate(inputs)
-                action[np.argmax(output)] = 1
-
-                reward, game_over, score = game.play_step(action)
-                if game_over:
-                    scores.append(score)
-                    break
-        avg_score = sum(scores) / len(scores)
-        print(scores)
-        print("Average score: {}".format(avg_score))
+    pop.run(eval_fitness, 1000)
 
 
 if __name__ == '__main__':
     try:
         train()
+    except Exception as e:
+        print(e)
     finally:
-        print("Code done")
-        save_best_generation_instance(best_instance_list[0].get('net'))
+        print("Training done")
+        if(best_instance_list):
+            save_best_generation_instance(best_instance_list[0].get('net'))
+            test_trained_net()
+        else:
+            print("No best instance saved! Exiting...")
 
 
 

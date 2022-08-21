@@ -45,8 +45,6 @@ class Agent:
             game.is_collision(point_u),
             game.is_collision(point_d),
 
-            # KOMENTAR
-            # Ako ovo otkomentirate, morate u config-neat.txt promijeniti num_inputs na 12.
             # Move direction, only one is true
             #dir_l,
             #dir_r,
@@ -159,7 +157,7 @@ def train():
             total_score += score
             mean_score = total_score / agent.num_games
             plot_mean_scores.append(mean_score)
-            plot(plot_scores, plot_mean_scores, "Games", "Score", 0)
+            plot([(plot_scores, "Score"), (plot_mean_scores, "Mean score")], "Games", "Score", 0, "dqn_scores.png")
             
 if __name__ == '__main__':
     train()
