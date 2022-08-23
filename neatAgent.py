@@ -2,15 +2,19 @@
 from genericpath import isfile
 from glob import glob
 from importlib.resources import path
+from inspect import stack
 import os
+import sys
 from time import sleep
+import traceback
+from xmlrpc.client import Boolean
 import numpy as np
 from collections import deque
 from snakeGame import SnakeGameAI, Direction, Point
 from plotter import plot
 import pickle
 import neat
-from neat import nn, population
+from neat import nn, population, parallel
 
 BLOCK_SIZE = 10
 MAX_GENERATIONS = 30
@@ -38,6 +42,26 @@ def load_object(filename):
     with open(filename, 'rb') as f:
         obj = pickle.load(f)
     return obj
+
+def get_direction(game):
+    dir_l = game.direction == Direction.LEFT
+    dir_r = game.direction == Direction.RIGHT
+    dir_u = game.direction == Direction.UP
+    dir_d = game.direction == Direction.DOWN
+
+    return np.array([dir_u, dir_d, dir_r, dir_l], dtype=bool)
+
+def reverses_direction(action, game):
+    # Ne znam ako np.array mijenja predani array, tako da ova
+    # copy glupost
+    action_cpy = action.copy()
+    action_cpy = np.array(action_cpy, dtype=bool)
+    or_lists = action | get_direction(game)
+    if np.array_equal(or_lists, [True, True, False, False]) or np.array_equal(or_lists, [False, False, True, True]):
+        return True
+    else:
+        return False
+
 
 def get_inputs(game):
         #snake will look for danger BLOCK_SIZE in front of itself
@@ -75,7 +99,7 @@ def get_inputs(game):
             game.food.y > game.head.y #food down
         ]
 
-        return np.array(state, dtype=float) #array with booleans converted to 0 or 1
+        return np.array(state, dtype=int) #array with booleans converted to 0 or 1
 
 def save_best_generation_instance(instance, file_name='best_instance_neat.pickle'):
     net_folder_path = "./neural-net"
@@ -179,6 +203,51 @@ def eval_fitness(genomes, config):
 
     generation_number += 1
 
+def eval_fitness_parallel(genome, config):
+    score = 0.0
+    additional_points = 0.0
+
+    net = nn.FeedForwardNetwork.create(genome, config)
+
+    for _ in range(10):
+        game = SnakeGameAI(False, 10_000)
+
+        while True:
+            action = [0, 0, 0, 0]
+            inputs = get_inputs(game)
+            output = net.activate(inputs)
+            action[np.argmax(output)] = 1 
+            
+            head = game.head
+            food = game.food
+            distance_to_food_prev = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
+
+            reward, game_over, delta_score = game.play_step(action)
+
+            head = game.head
+            food = game.food
+            distance_to_food_current = np.sqrt(np.square(head.x - food.x) + np.square(head.y - food.y)) / BLOCK_SIZE
+
+            # KOMENTAR
+            # Agent dobiva pozitivne bodove kada se približava hrani, a dvostruko brze dobiva negativne bodove kada se udaljava.
+            # Kada sakupi hranu, hrana ce se teleportirati negdje drugdje na ploci i taj slucaj ignoriramo sa uvjetom (reward != 10) jer
+            # u tom slucaju nema smisla nagradivati/kaznjavati agenta.
+            if reward != 10:
+                delta = distance_to_food_prev - distance_to_food_current
+                if delta > 0:
+                    additional_points += delta
+                else:
+                    additional_points += delta * 2
+
+            if game_over:
+                break
+        score += delta_score
+    
+    additional_points /= 10
+    score /= 10
+
+    return additional_points
+
 def test_trained_net():
     scores = []
     # KOMENTAR
@@ -219,15 +288,41 @@ def train():
 
     pop.run(eval_fitness, 1000)
 
+def train_parallel():
+    local_dir = os.path.dirname(__file__)
+    config_path = os.path.join(local_dir, "config-neat.txt")
+    config = neat.config.Config(neat.DefaultGenome, neat.DefaultReproduction,
+                                neat.DefaultSpeciesSet, neat.DefaultStagnation,
+                                config_path)
+    pop = population.Population(config)
+    pop.add_reporter(neat.StdOutReporter(True))
+    stats = neat.StatisticsReporter()
+    pop.add_reporter(stats)
+
+    # num workers, eval function
+    pe = parallel.ParallelEvaluator(20, eval_fitness_parallel)
+
+    winner = pop.run(pe.evaluate, 100)
+
+    best_instance = {
+        'net': nn.FeedForwardNetwork.create(winner, config)
+    }
+
+    best_instance_list.append(best_instance)
 
 if __name__ == '__main__':
     try:
-        train()
+        if "parallel" in str(sys.argv[1]).lower():
+            print("Starting concurrent training...")
+            train_parallel()
+        else:
+            print("Starting sequential training...")
+            train()
     except Exception as e:
-        print(e)
+        traceback.print_exc()
     finally:
         print("Training done")
-        if(best_instance_list):
+        if(best_instance_list[0]):
             save_best_generation_instance(best_instance_list[0].get('net'))
             test_trained_net()
         else:
