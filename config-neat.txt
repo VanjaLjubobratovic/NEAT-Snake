@@ -1,9 +1,9 @@
 
 [NEAT]
 fitness_criterion     = max
-fitness_threshold     = 8000
+fitness_threshold     = 4000
 pop_size              = 50
-reset_on_extinction   = False
+reset_on_extinction   = True
 
 [DefaultGenome]
 # genome compatibility options

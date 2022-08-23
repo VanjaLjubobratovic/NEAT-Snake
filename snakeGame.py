@@ -151,11 +151,15 @@ class SnakeGameAI:
         self.move(action)
         self.snake.insert(0, self.head)
 
+        # self.show_message("Score: " + str(self.score) + " | Steps Left: " + str(MAX_STEPS_CONST - self.frame_iteration)
+        #                     + " | " + str(self.direction))
+
         reward = 0
         game_over = False
         if self.is_collision() or self.frame_iteration > MAX_STEPS_CONST:
             game_over = True
             reward = -10
+            #print(self.direction)
             return reward, game_over, self.score
         
         #Place new food or move

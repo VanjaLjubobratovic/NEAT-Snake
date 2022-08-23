@@ -71,7 +71,7 @@ def play_game():
         game = SnakeGameAI(True, 100)
 
         if neat:
-            net = load_object(path).get('net')
+            net = load_object(path)
         else:
             net = Linear_QNet(8, 256, 4)
             net.load_state_dict(torch.load(path))
