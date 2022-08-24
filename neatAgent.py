@@ -15,6 +15,7 @@ from plotter import plot
 import pickle
 import neat
 from neat import nn, population, parallel
+import time 
 
 BLOCK_SIZE = 10
 MAX_GENERATIONS = 30
@@ -23,6 +24,7 @@ NEAR_FOOD_REWARD = 0.15
 LOOP_PUNISHMENT = -0.5
 FOOD_REWARD_MULTIPLIER = 10
 LIVING_PUNISHMENT = -0.2
+REVERSE_INTO_ITSELF_PUNISHMENT = -0.3
 
 best_instance_list = deque(maxlen=1)
 best_instance_list.append(None)
@@ -49,19 +51,17 @@ def get_direction(game):
     dir_u = game.direction == Direction.UP
     dir_d = game.direction == Direction.DOWN
 
-    return np.array([dir_u, dir_d, dir_r, dir_l], dtype=bool)
+    return np.array([dir_u, dir_d, dir_r, dir_l], dtype=int)
 
 def reverses_direction(action, game):
-    # Ne znam ako np.array mijenja predani array, tako da ova
-    # copy glupost
-    action_cpy = action.copy()
-    action_cpy = np.array(action_cpy, dtype=bool)
     or_lists = action | get_direction(game)
-    if np.array_equal(or_lists, [True, True, False, False]) or np.array_equal(or_lists, [False, False, True, True]):
+    if np.array_equal(or_lists, [1, 1, 0, 0]) or np.array_equal(or_lists, [0, 0, 1, 1]):
         return True
     else:
         return False
 
+def distance(point1, point2):
+    return ((point1.x - point2.x)**2 + (point1.y - point2.y)**2)**0.5
 
 def get_inputs(game):
         #snake will look for danger BLOCK_SIZE in front of itself
@@ -96,13 +96,16 @@ def get_inputs(game):
             game.food.x < game.head.x, #food left
             game.food.x > game.head.x, #food right
             game.food.y < game.head.y, #food up
-            game.food.y > game.head.y #food down
+            game.food.y > game.head.y, #food down
         ]
 
-        return np.array(state, dtype=int) #array with booleans converted to 0 or 1
+        return np.array(state, dtype=float) #array with booleans converted to 0 or 1
 
-def save_best_generation_instance(instance, file_name='best_instance_neat.pickle'):
+def save_best_generation_instance(instance, file_name='best_instance_neat'):
     net_folder_path = "./neural-net"
+    file_name += "_" + str(round(instance.get('fitness'))) + ".pickle"
+    instance = instance.get('net')
+
     if not os.path.exists(net_folder_path):
         os.makedirs(net_folder_path)
     file_name = os.path.join(net_folder_path, file_name)
@@ -173,7 +176,9 @@ def eval_fitness(genomes, config):
 
         # KOMENTAR
         # Fitness ovisi samo o additional_points.
-        g.fitness = round(additional_points, 2)
+        #g.fitness = round(additional_points, 2)
+
+        g.fitness = score
 
         if not best_instance or g.fitness > best_fitness:
             best_instance = {
@@ -211,12 +216,17 @@ def eval_fitness_parallel(genome, config):
 
     for _ in range(10):
         game = SnakeGameAI(False, 10_000)
+        net = nn.FeedForwardNetwork.create(genome, config)
 
         while True:
             action = [0, 0, 0, 0]
             inputs = get_inputs(game)
             output = net.activate(inputs)
             action[np.argmax(output)] = 1 
+
+            # if reverses_direction(action, game):
+            #     action = get_direction(game)
+            #     additional_points += REVERSE_INTO_ITSELF_PUNISHMENT
             
             head = game.head
             food = game.food
@@ -246,7 +256,8 @@ def eval_fitness_parallel(genome, config):
     additional_points /= 10
     score /= 10
 
-    return additional_points
+    #return additional_points
+    return score
 
 def test_trained_net():
     scores = []
@@ -302,16 +313,18 @@ def train_parallel():
     # num workers, eval function
     pe = parallel.ParallelEvaluator(20, eval_fitness_parallel)
 
-    winner = pop.run(pe.evaluate, 100)
+    winner = pop.run(pe.evaluate, )
 
     best_instance = {
-        'net': nn.FeedForwardNetwork.create(winner, config)
+        'net': nn.FeedForwardNetwork.create(winner, config),
+        'fitness': winner.fitness
     }
 
     best_instance_list.append(best_instance)
 
 if __name__ == '__main__':
     try:
+        start_time = time.time()
         if "parallel" in str(sys.argv[1]).lower():
             print("Starting concurrent training...")
             train_parallel()
@@ -322,8 +335,11 @@ if __name__ == '__main__':
         traceback.print_exc()
     finally:
         print("Training done")
+        print("Elapsed time: ", time.time() - start_time, " s")
+
         if(best_instance_list[0]):
-            save_best_generation_instance(best_instance_list[0].get('net'))
+            print("Best fitness: ", best_instance_list[0].get('fitness'))
+            save_best_generation_instance(best_instance_list[0])
             test_trained_net()
         else:
             print("No best instance saved! Exiting...")

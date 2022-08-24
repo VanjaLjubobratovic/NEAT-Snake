@@ -1,4 +1,5 @@
 from re import M
+import time
 from tkinter import Y
 import torch
 import random
@@ -95,7 +96,7 @@ class Agent:
         
         return final_move
 
-def train():
+def train(num_games = 150):
     plot_scores = []
     plot_mean_scores = []
     total_score = 0
@@ -103,7 +104,7 @@ def train():
     agent = Agent()
     game = SnakeGameAI(False, 10_000)
 
-    while True:
+    while agent.num_games <= num_games:
         #get old state
         state_old = agent.get_state(game)
 
@@ -140,4 +141,7 @@ def train():
             plot([(plot_scores, "Score"), (plot_mean_scores, "Mean score")], "Games", "Score", 0, "dqn_scores.png")
             
 if __name__ == '__main__':
-    train()
+    start_time = time.time()
+    train(num_games=300)
+    print("Training done")
+    print("Time elapsed: ", round(time.time() - start_time, 2), " s")

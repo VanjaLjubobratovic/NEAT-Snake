@@ -28,14 +28,14 @@ snake_color = yellow
 snake_block_dimens = 10
 #snake_speed = 10000
 
-MAX_STEPS_CONST = 200
+MAX_STEPS_CONST = 300
 MAX_STEP_MEMORY = 5
 near_food_score = 0.2
 loop_punishment = 0.05
 
 #screen dimens
-dis_w = 800
-dis_h = 600
+dis_w = 200
+dis_h = 200
 
 font_style = pygame.font.SysFont(None, 30)
 

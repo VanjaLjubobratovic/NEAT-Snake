@@ -68,7 +68,7 @@ def play_game():
     scores = []
     for game_num in range(10):
         sleep(2)
-        game = SnakeGameAI(True, 100)
+        game = SnakeGameAI(True, 1000)
 
         if neat:
             net = load_object(path)
