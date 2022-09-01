@@ -1,0 +1,600 @@
+ ****** Running generation 0 ****** 
+3.353
+ ****** Running generation 1 ****** 
+3.728
+ ****** Running generation 2 ****** 
+4.069
+ ****** Running generation 3 ****** 
+4.408
+ ****** Running generation 4 ****** 
+4.755
+ ****** Running generation 5 ****** 
+5.098
+ ****** Running generation 6 ****** 
+5.443
+ ****** Running generation 7 ****** 
+5.832
+ ****** Running generation 8 ****** 
+6.194
+ ****** Running generation 9 ****** 
+6.55
+ ****** Running generation 10 ****** 
+6.915
+ ****** Running generation 11 ****** 
+7.281
+ ****** Running generation 12 ****** 
+7.634
+ ****** Running generation 13 ****** 
+7.977
+ ****** Running generation 14 ****** 
+8.353
+ ****** Running generation 15 ****** 
+8.635
+ ****** Running generation 16 ****** 
+8.854
+ ****** Running generation 17 ****** 
+9.053
+ ****** Running generation 18 ****** 
+9.221
+ ****** Running generation 19 ****** 
+9.426
+ ****** Running generation 20 ****** 
+9.621
+ ****** Running generation 21 ****** 
+9.798
+ ****** Running generation 22 ****** 
+9.976
+ ****** Running generation 23 ****** 
+10.15
+ ****** Running generation 24 ****** 
+10.352
+ ****** Running generation 25 ****** 
+10.536
+ ****** Running generation 26 ****** 
+10.709
+ ****** Running generation 27 ****** 
+10.909
+ ****** Running generation 28 ****** 
+11.219
+ ****** Running generation 29 ****** 
+11.495
+ ****** Running generation 30 ****** 
+11.664
+ ****** Running generation 31 ****** 
+11.828
+ ****** Running generation 32 ****** 
+11.966
+ ****** Running generation 33 ****** 
+12.147
+ ****** Running generation 34 ****** 
+12.544
+ ****** Running generation 35 ****** 
+12.963
+ ****** Running generation 36 ****** 
+13.449
+ ****** Running generation 37 ****** 
+13.888
+ ****** Running generation 38 ****** 
+14.334
+ ****** Running generation 39 ****** 
+14.86
+ ****** Running generation 40 ****** 
+15.652
+ ****** Running generation 41 ****** 
+16.543
+ ****** Running generation 42 ****** 
+18.218
+ ****** Running generation 43 ****** 
+20.05
+ ****** Running generation 44 ****** 
+21.639
+ ****** Running generation 45 ****** 
+23.926
+ ****** Running generation 46 ****** 
+28.148
+ ****** Running generation 47 ****** 
+32.524
+ ****** Running generation 48 ****** 
+35.483
+ ****** Running generation 49 ****** 
+39.402
+ ****** Running generation 50 ****** 
+43.187
+ ****** Running generation 51 ****** 
+45.485
+ ****** Running generation 52 ****** 
+54.304
+ ****** Running generation 53 ****** 
+61.361
+ ****** Running generation 54 ****** 
+70.549
+ ****** Running generation 55 ****** 
+78.873
+ ****** Running generation 56 ****** 
+87.826
+ ****** Running generation 57 ****** 
+101.143
+ ****** Running generation 58 ****** 
+114.278
+ ****** Running generation 59 ****** 
+126.559
+ ****** Running generation 60 ****** 
+137.983
+ ****** Running generation 61 ****** 
+151.765
+ ****** Running generation 62 ****** 
+164.636
+ ****** Running generation 63 ****** 
+178.658
+ ****** Running generation 64 ****** 
+193.469
+ ****** Running generation 65 ****** 
+210.463
+ ****** Running generation 66 ****** 
+224.274
+ ****** Running generation 67 ****** 
+239.323
+ ****** Running generation 68 ****** 
+253.833
+ ****** Running generation 69 ****** 
+268.292
+ ****** Running generation 70 ****** 
+282.721
+ ****** Running generation 71 ****** 
+302.186
+ ****** Running generation 72 ****** 
+322.64
+ ****** Running generation 73 ****** 
+345.744
+ ****** Running generation 74 ****** 
+370.816
+ ****** Running generation 75 ****** 
+393.547
+ ****** Running generation 76 ****** 
+416.353
+ ****** Running generation 77 ****** 
+443.445
+ ****** Running generation 78 ****** 
+467.802
+ ****** Running generation 79 ****** 
+491.768
+ ****** Running generation 80 ****** 
+515.992
+ ****** Running generation 81 ****** 
+540.698
+ ****** Running generation 82 ****** 
+566.435
+ ****** Running generation 83 ****** 
+592.544
+ ****** Running generation 84 ****** 
+617.168
+ ****** Running generation 85 ****** 
+641.773
+ ****** Running generation 86 ****** 
+667.798
+ ****** Running generation 87 ****** 
+691.937
+ ****** Running generation 88 ****** 
+717.792
+ ****** Running generation 89 ****** 
+743.377
+ ****** Running generation 90 ****** 
+767.699
+ ****** Running generation 91 ****** 
+793.496
+ ****** Running generation 92 ****** 
+819.749
+ ****** Running generation 93 ****** 
+848.574
+ ****** Running generation 94 ****** 
+875.969
+ ****** Running generation 95 ****** 
+899.455
+ ****** Running generation 96 ****** 
+921.822
+ ****** Running generation 97 ****** 
+946.34
+ ****** Running generation 98 ****** 
+969.766
+ ****** Running generation 99 ****** 
+992.661
+ ****** Running generation 100 ****** 
+1016.938
+ ****** Running generation 101 ****** 
+1041.332
+ ****** Running generation 102 ****** 
+1065.894
+ ****** Running generation 103 ****** 
+1091.388
+ ****** Running generation 104 ****** 
+1116.359
+ ****** Running generation 105 ****** 
+1141.893
+ ****** Running generation 106 ****** 
+1165.509
+ ****** Running generation 107 ****** 
+1189.289
+ ****** Running generation 108 ****** 
+1214.691
+ ****** Running generation 109 ****** 
+1241.487
+ ****** Running generation 110 ****** 
+1267.791
+ ****** Running generation 111 ****** 
+1294.984
+ ****** Running generation 112 ****** 
+1320.223
+ ****** Running generation 113 ****** 
+1345.451
+ ****** Running generation 114 ****** 
+1366.082
+ ****** Running generation 115 ****** 
+1387.169
+ ****** Running generation 116 ****** 
+1411.117
+ ****** Running generation 117 ****** 
+1437.578
+ ****** Running generation 118 ****** 
+1465.026
+ ****** Running generation 119 ****** 
+1490.978
+ ****** Running generation 120 ****** 
+1516.918
+ ****** Running generation 121 ****** 
+1542.965
+ ****** Running generation 122 ****** 
+1568.968
+ ****** Running generation 123 ****** 
+1594.605
+ ****** Running generation 124 ****** 
+1619.982
+ ****** Running generation 125 ****** 
+1641.122
+ ****** Running generation 126 ****** 
+1663.703
+ ****** Running generation 127 ****** 
+1687.258
+ ****** Running generation 128 ****** 
+1714.665
+ ****** Running generation 129 ****** 
+1744.241
+ ****** Running generation 130 ****** 
+1771.122
+ ****** Running generation 131 ****** 
+1797.648
+ ****** Running generation 132 ****** 
+1824.949
+ ****** Running generation 133 ****** 
+1848.625
+ ****** Running generation 134 ****** 
+1873.916
+ ****** Running generation 135 ****** 
+1899.503
+ ****** Running generation 136 ****** 
+1925.369
+ ****** Running generation 137 ****** 
+1948.22
+ ****** Running generation 138 ****** 
+1972.65
+ ****** Running generation 139 ****** 
+1998.532
+ ****** Running generation 140 ****** 
+2020.245
+ ****** Running generation 141 ****** 
+2041.635
+ ****** Running generation 142 ****** 
+2065.646
+ ****** Running generation 143 ****** 
+2089.318
+ ****** Running generation 144 ****** 
+2110.838
+ ****** Running generation 145 ****** 
+2137.684
+ ****** Running generation 146 ****** 
+2163.06
+ ****** Running generation 147 ****** 
+2186.485
+ ****** Running generation 148 ****** 
+2210.444
+ ****** Running generation 149 ****** 
+2235.546
+ ****** Running generation 150 ****** 
+2258.335
+ ****** Running generation 151 ****** 
+2281.527
+ ****** Running generation 152 ****** 
+2304.85
+ ****** Running generation 153 ****** 
+2329.662
+ ****** Running generation 154 ****** 
+2352.25
+ ****** Running generation 155 ****** 
+2377.332
+ ****** Running generation 156 ****** 
+2401.28
+ ****** Running generation 157 ****** 
+2426.379
+ ****** Running generation 158 ****** 
+2449.125
+ ****** Running generation 159 ****** 
+2472.402
+ ****** Running generation 160 ****** 
+2493.085
+ ****** Running generation 161 ****** 
+2516.557
+ ****** Running generation 162 ****** 
+2540.841
+ ****** Running generation 163 ****** 
+2565.107
+ ****** Running generation 164 ****** 
+2587.979
+ ****** Running generation 165 ****** 
+2612.146
+ ****** Running generation 166 ****** 
+2637.624
+ ****** Running generation 167 ****** 
+2662.005
+ ****** Running generation 168 ****** 
+2688.722
+ ****** Running generation 169 ****** 
+2715.603
+ ****** Running generation 170 ****** 
+2743.939
+ ****** Running generation 171 ****** 
+2768.396
+ ****** Running generation 172 ****** 
+2791.198
+ ****** Running generation 173 ****** 
+2815.939
+ ****** Running generation 174 ****** 
+2839.239
+ ****** Running generation 175 ****** 
+2864.33
+ ****** Running generation 176 ****** 
+2887.473
+ ****** Running generation 177 ****** 
+2912.637
+ ****** Running generation 178 ****** 
+2937.654
+ ****** Running generation 179 ****** 
+2961.535
+ ****** Running generation 180 ****** 
+2985.312
+ ****** Running generation 181 ****** 
+3008.191
+ ****** Running generation 182 ****** 
+3031.155
+ ****** Running generation 183 ****** 
+3055.129
+ ****** Running generation 184 ****** 
+3078.358
+ ****** Running generation 185 ****** 
+3100.875
+ ****** Running generation 186 ****** 
+3124.838
+ ****** Running generation 187 ****** 
+3147.69
+ ****** Running generation 188 ****** 
+3171.452
+ ****** Running generation 189 ****** 
+3196.881
+ ****** Running generation 190 ****** 
+3218.919
+ ****** Running generation 191 ****** 
+3242.952
+ ****** Running generation 192 ****** 
+3265.59
+ ****** Running generation 193 ****** 
+3288.978
+ ****** Running generation 194 ****** 
+3313.528
+ ****** Running generation 195 ****** 
+3337.914
+ ****** Running generation 196 ****** 
+3359.986
+ ****** Running generation 197 ****** 
+3385.923
+ ****** Running generation 198 ****** 
+3407.33
+ ****** Running generation 199 ****** 
+3432.182
+ ****** Running generation 200 ****** 
+3454.683
+ ****** Running generation 201 ****** 
+3477.784
+ ****** Running generation 202 ****** 
+3500.934
+ ****** Running generation 203 ****** 
+3523.863
+ ****** Running generation 204 ****** 
+3547.679
+ ****** Running generation 205 ****** 
+3569.779
+ ****** Running generation 206 ****** 
+3592.665
+ ****** Running generation 207 ****** 
+3616.022
+ ****** Running generation 208 ****** 
+3638.25
+ ****** Running generation 209 ****** 
+3662.777
+ ****** Running generation 210 ****** 
+3684.847
+ ****** Running generation 211 ****** 
+3707.763
+ ****** Running generation 212 ****** 
+3729.871
+ ****** Running generation 213 ****** 
+3754.919
+ ****** Running generation 214 ****** 
+3779.355
+ ****** Running generation 215 ****** 
+3803.499
+ ****** Running generation 216 ****** 
+3824.54
+ ****** Running generation 217 ****** 
+3846.074
+ ****** Running generation 218 ****** 
+3867.458
+ ****** Running generation 219 ****** 
+3887.564
+ ****** Running generation 220 ****** 
+3908.229
+ ****** Running generation 221 ****** 
+3929.126
+ ****** Running generation 222 ****** 
+3951.624
+ ****** Running generation 223 ****** 
+3973.96
+ ****** Running generation 224 ****** 
+3995.989
+ ****** Running generation 225 ****** 
+4019.863
+ ****** Running generation 226 ****** 
+4042.174
+ ****** Running generation 227 ****** 
+4064.135
+ ****** Running generation 228 ****** 
+4086.329
+ ****** Running generation 229 ****** 
+4111.324
+ ****** Running generation 230 ****** 
+4131.739
+ ****** Running generation 231 ****** 
+4152.593
+ ****** Running generation 232 ****** 
+4177.054
+ ****** Running generation 233 ****** 
+4200.426
+ ****** Running generation 234 ****** 
+4221.358
+ ****** Running generation 235 ****** 
+4242.858
+ ****** Running generation 236 ****** 
+4265.733
+ ****** Running generation 237 ****** 
+4288.018
+ ****** Running generation 238 ****** 
+4309.08
+ ****** Running generation 239 ****** 
+4333.355
+ ****** Running generation 240 ****** 
+4355.436
+ ****** Running generation 241 ****** 
+4379.238
+ ****** Running generation 242 ****** 
+4401.282
+ ****** Running generation 243 ****** 
+4424.086
+ ****** Running generation 244 ****** 
+4445.318
+ ****** Running generation 245 ****** 
+4466.409
+ ****** Running generation 246 ****** 
+4487.4
+ ****** Running generation 247 ****** 
+4509.168
+ ****** Running generation 248 ****** 
+4531.485
+ ****** Running generation 249 ****** 
+4555.623
+ ****** Running generation 250 ****** 
+4579.111
+ ****** Running generation 251 ****** 
+4602.348
+ ****** Running generation 252 ****** 
+4625.918
+ ****** Running generation 253 ****** 
+4646.26
+ ****** Running generation 254 ****** 
+4669.256
+ ****** Running generation 255 ****** 
+4689.856
+ ****** Running generation 256 ****** 
+4712.285
+ ****** Running generation 257 ****** 
+4735.969
+ ****** Running generation 258 ****** 
+4759.403
+ ****** Running generation 259 ****** 
+4783.956
+ ****** Running generation 260 ****** 
+4806.438
+ ****** Running generation 261 ****** 
+4829.083
+ ****** Running generation 262 ****** 
+4851.361
+ ****** Running generation 263 ****** 
+4874.7
+ ****** Running generation 264 ****** 
+4896.736
+ ****** Running generation 265 ****** 
+4920.699
+ ****** Running generation 266 ****** 
+4946.208
+ ****** Running generation 267 ****** 
+4970.948
+ ****** Running generation 268 ****** 
+4995.234
+ ****** Running generation 269 ****** 
+5020.078
+ ****** Running generation 270 ****** 
+5042.526
+ ****** Running generation 271 ****** 
+5065.421
+ ****** Running generation 272 ****** 
+5086.837
+ ****** Running generation 273 ****** 
+5109.896
+ ****** Running generation 274 ****** 
+5130.94
+ ****** Running generation 275 ****** 
+5154.309
+ ****** Running generation 276 ****** 
+5177.142
+ ****** Running generation 277 ****** 
+5201.471
+ ****** Running generation 278 ****** 
+5224.812
+ ****** Running generation 279 ****** 
+5249.791
+ ****** Running generation 280 ****** 
+5274.634
+ ****** Running generation 281 ****** 
+5300.296
+ ****** Running generation 282 ****** 
+5324.143
+ ****** Running generation 283 ****** 
+5349.639
+ ****** Running generation 284 ****** 
+5374.724
+ ****** Running generation 285 ****** 
+5399.474
+ ****** Running generation 286 ****** 
+5424.939
+ ****** Running generation 287 ****** 
+5452.243
+ ****** Running generation 288 ****** 
+5475.861
+ ****** Running generation 289 ****** 
+5499.51
+ ****** Running generation 290 ****** 
+5522.698
+ ****** Running generation 291 ****** 
+5544.093
+ ****** Running generation 292 ****** 
+5567.385
+ ****** Running generation 293 ****** 
+5591.01
+ ****** Running generation 294 ****** 
+5615.961
+ ****** Running generation 295 ****** 
+5640.951
+ ****** Running generation 296 ****** 
+5665.84
+ ****** Running generation 297 ****** 
+5689.552
+ ****** Running generation 298 ****** 
+5717.012
+ ****** Running generation 299 ****** 
+5741.209
