@@ -35,6 +35,8 @@ plot_best_scores = []
 plot_generation_fitness = []
 plot_mean_generation_fitness = []
 
+start_time = 0
+
 def save_object(obj, filename):
     with open(filename, 'wb') as output:
         pickle.dump(obj, output, pickle.HIGHEST_PROTOCOL)
@@ -204,7 +206,8 @@ def eval_fitness(genomes, config):
 
     # Mozda bi se ovo moglo malo ljepse napravit
     # Prvi argument je lista tuplova u obliku (lista_mjerenja, label)
-    plot([(plot_best_scores, "Best gen. score"), (plot_mean_generation_fitness, "mean gen. fitness")], "generations", "score", -50, "neat_scores.png")
+    plot([(plot_best_scores, "Best gen. score"), (plot_mean_generation_fitness, "mean gen. fitness")], "generations", "score", -10, "neat_scores.png")
+    print("TIME ELAPSED: ", round(time.time() - start_time, 2), " s\n")
 
     generation_number += 1
 
@@ -313,7 +316,7 @@ def train_parallel():
     # num workers, eval function
     pe = parallel.ParallelEvaluator(20, eval_fitness_parallel)
 
-    winner = pop.run(pe.evaluate, )
+    winner = pop.run(pe.evaluate, 300)
 
     best_instance = {
         'net': nn.FeedForwardNetwork.create(winner, config),
@@ -324,13 +327,15 @@ def train_parallel():
 
 if __name__ == '__main__':
     try:
-        start_time = time.time()
-        if "parallel" in str(sys.argv[1]).lower():
-            print("Starting concurrent training...")
-            train_parallel()
-        else:
-            print("Starting sequential training...")
-            train()
+        with open("./Outputs/neat_output.txt", 'a') as f:
+            start_time = time.time()
+            sys.stdout = f
+            if "parallel" in str(sys.argv[1]).lower():
+                print("Starting concurrent training...")
+                train_parallel()
+            else:
+                print("Starting sequential training...")
+                train()
     except Exception as e:
         traceback.print_exc()
     finally:

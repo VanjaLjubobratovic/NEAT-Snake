@@ -34,8 +34,8 @@ near_food_score = 0.2
 loop_punishment = 0.05
 
 #screen dimens
-dis_w = 200
-dis_h = 200
+dis_w = 600
+dis_h = 600
 
 font_style = pygame.font.SysFont(None, 30)
 
