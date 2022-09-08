@@ -68,10 +68,10 @@ def play_game():
     scores = []
     for game_num in range(10):
         sleep(2)
-        game = SnakeGameAI(True, 100)
+        game = SnakeGameAI(True, 1000)
 
         if neat:
-            net = load_object(path).get('net')
+            net = load_object(path)
         else:
             net = Linear_QNet(8, 256, 4)
             net.load_state_dict(torch.load(path))

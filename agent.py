@@ -1,4 +1,5 @@
 from re import M
+import time
 from tkinter import Y
 import torch
 import random
@@ -7,11 +8,14 @@ from collections import deque
 from snakeGame import SnakeGameAI, Direction, Point
 from model import Linear_QNet, QTrainer
 from plotter import plot
+import sys
 
 MAX_MEMORY = 100_000
 BATCH_SIZE = 1000
 LR = 0.001 #learning rate
 BLOCK_SIZE = 10
+
+start_time = 0
 
 class Agent:
     def __init__(self):
@@ -94,8 +98,30 @@ class Agent:
             final_move[move] = 1
         
         return final_move
+    
+    def test_net(self, num_games):
+        total_score = 0
+        game = SnakeGameAI(False, 10_000)
+        for _ in range(num_games):
+            while True:
+                final_move = [0, 0, 0, 0]
+                state_old = self.get_state(game)
 
-def train():
+                state0 = torch.tensor(state_old, dtype=torch.float)
+                prediction = self.model(state0)
+                move = torch.argmax(prediction).item()
+                final_move[move] = 1
+
+                reward, game_over, score = game.play_step(final_move)
+
+                if game_over:
+                    total_score += score
+                    game.reset()
+                    break
+        
+        return total_score / num_games
+
+def train(num_games = 150):
     plot_scores = []
     plot_mean_scores = []
     total_score = 0
@@ -103,7 +129,7 @@ def train():
     agent = Agent()
     game = SnakeGameAI(False, 10_000)
 
-    while True:
+    while agent.num_games <= num_games:
         #get old state
         state_old = agent.get_state(game)
 
@@ -128,16 +154,27 @@ def train():
 
             if score > record:
                 record = score
-                agent.model.save()
+            #     agent.model.save()
+
+            agent.model.save()
+            avg_net_score = agent.test_net(10)
             
-            print("Game ", agent.num_games, "Score ", score, "Record ", record)
+            with open("./outputs/dqn_output.txt", 'a') as f:
+                sys.stdout = f
+                print("Game ", agent.num_games, "| Avg score ", avg_net_score, "| Record ", record, "| Score ", score)
+                print("TIME ELAPSED: ", round(time.time() - start_time, 2), " s\n")
 
             #Plotting
-            plot_scores.append(score)
-            total_score += score
-            mean_score = total_score / agent.num_games
+            plot_scores.append(avg_net_score)
+            # total_score += avg_net_score
+            # mean_score = total_score / agent.num_games
+
+            mean_score = np.mean(plot_scores[-30:])
             plot_mean_scores.append(mean_score)
-            plot([(plot_scores, "Score"), (plot_mean_scores, "Mean score")], "Games", "Score", 0, "dqn_scores.png")
+            plot([(plot_scores, "Avg net score"), (plot_mean_scores, "Mean score")], "Games", "Score", 0, "dqn_scores.png")
             
 if __name__ == '__main__':
-    train()
+    start_time = time.time()
+    train(num_games=2000)
+    print("Training done")
+    print("Time elapsed: ", round(time.time() - start_time, 2), " s")

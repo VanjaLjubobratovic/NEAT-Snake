@@ -28,13 +28,13 @@ snake_color = yellow
 snake_block_dimens = 10
 #snake_speed = 10000
 
-MAX_STEPS_CONST = 200
+MAX_STEPS_CONST = 300
 MAX_STEP_MEMORY = 5
 near_food_score = 0.2
 loop_punishment = 0.05
 
 #screen dimens
-dis_w = 800
+dis_w = 600
 dis_h = 600
 
 font_style = pygame.font.SysFont(None, 30)
@@ -151,11 +151,15 @@ class SnakeGameAI:
         self.move(action)
         self.snake.insert(0, self.head)
 
+        # self.show_message("Score: " + str(self.score) + " | Steps Left: " + str(MAX_STEPS_CONST - self.frame_iteration)
+        #                     + " | " + str(self.direction))
+
         reward = 0
         game_over = False
         if self.is_collision() or self.frame_iteration > MAX_STEPS_CONST:
             game_over = True
             reward = -10
+            #print(self.direction)
             return reward, game_over, self.score
         
         #Place new food or move

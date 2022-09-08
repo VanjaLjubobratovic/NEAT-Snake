@@ -1,0 +1,6003 @@
+Game  1 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  0.02  s
+
+Game  2 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  0.32  s
+
+Game  3 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  0.49  s
+
+Game  4 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  0.66  s
+
+Game  5 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  0.82  s
+
+Game  6 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  1.01  s
+
+Game  7 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  1.2  s
+
+Game  8 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  1.38  s
+
+Game  9 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  1.57  s
+
+Game  10 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  1.76  s
+
+Game  11 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  1.96  s
+
+Game  12 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  2.16  s
+
+Game  13 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  2.37  s
+
+Game  14 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  2.59  s
+
+Game  15 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  2.79  s
+
+Game  16 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  3.01  s
+
+Game  17 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  3.38  s
+
+Game  18 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  3.64  s
+
+Game  19 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  3.85  s
+
+Game  20 | Avg score  0.1 | Record  0 | Score  0
+TIME ELAPSED:  4.12  s
+
+Game  21 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  4.38  s
+
+Game  22 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  4.66  s
+
+Game  23 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  4.93  s
+
+Game  24 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  5.21  s
+
+Game  25 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  5.47  s
+
+Game  26 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  5.76  s
+
+Game  27 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  6.06  s
+
+Game  28 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  6.34  s
+
+Game  29 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  6.6  s
+
+Game  30 | Avg score  0.2 | Record  0 | Score  0
+TIME ELAPSED:  6.88  s
+
+Game  31 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  7.14  s
+
+Game  32 | Avg score  0.0 | Record  0 | Score  0
+TIME ELAPSED:  7.4  s
+
+Game  33 | Avg score  0.3 | Record  0 | Score  0
+TIME ELAPSED:  7.66  s
+
+Game  34 | Avg score  0.3 | Record  0 | Score  0
+TIME ELAPSED:  7.93  s
+
+Game  35 | Avg score  0.3 | Record  0 | Score  0
+TIME ELAPSED:  8.22  s
+
+Game  36 | Avg score  0.0 | Record  1 | Score  1
+TIME ELAPSED:  8.51  s
+
+Game  37 | Avg score  0.1 | Record  1 | Score  0
+TIME ELAPSED:  8.81  s
+
+Game  38 | Avg score  0.3 | Record  1 | Score  0
+TIME ELAPSED:  9.09  s
+
+Game  39 | Avg score  0.5 | Record  1 | Score  0
+TIME ELAPSED:  9.41  s
+
+Game  40 | Avg score  0.1 | Record  1 | Score  0
+TIME ELAPSED:  9.7  s
+
+Game  41 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  9.99  s
+
+Game  42 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  10.29  s
+
+Game  43 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  10.6  s
+
+Game  44 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  10.89  s
+
+Game  45 | Avg score  0.1 | Record  1 | Score  0
+TIME ELAPSED:  11.22  s
+
+Game  46 | Avg score  0.2 | Record  1 | Score  0
+TIME ELAPSED:  11.54  s
+
+Game  47 | Avg score  0.3 | Record  1 | Score  0
+TIME ELAPSED:  11.84  s
+
+Game  48 | Avg score  0.4 | Record  1 | Score  0
+TIME ELAPSED:  12.19  s
+
+Game  49 | Avg score  0.5 | Record  1 | Score  0
+TIME ELAPSED:  12.58  s
+
+Game  50 | Avg score  0.4 | Record  1 | Score  0
+TIME ELAPSED:  12.97  s
+
+Game  51 | Avg score  0.4 | Record  1 | Score  0
+TIME ELAPSED:  13.32  s
+
+Game  52 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  13.69  s
+
+Game  53 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  14.03  s
+
+Game  54 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  14.41  s
+
+Game  55 | Avg score  0.1 | Record  1 | Score  0
+TIME ELAPSED:  14.78  s
+
+Game  56 | Avg score  0.1 | Record  1 | Score  0
+TIME ELAPSED:  15.18  s
+
+Game  57 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  15.55  s
+
+Game  58 | Avg score  0.1 | Record  1 | Score  0
+TIME ELAPSED:  15.94  s
+
+Game  59 | Avg score  0.5 | Record  1 | Score  0
+TIME ELAPSED:  16.37  s
+
+Game  60 | Avg score  0.3 | Record  1 | Score  0
+TIME ELAPSED:  16.79  s
+
+Game  61 | Avg score  0.2 | Record  1 | Score  0
+TIME ELAPSED:  17.19  s
+
+Game  62 | Avg score  0.3 | Record  1 | Score  0
+TIME ELAPSED:  17.69  s
+
+Game  63 | Avg score  0.5 | Record  1 | Score  0
+TIME ELAPSED:  18.14  s
+
+Game  64 | Avg score  0.1 | Record  1 | Score  1
+TIME ELAPSED:  18.59  s
+
+Game  65 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  19.01  s
+
+Game  66 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  19.53  s
+
+Game  67 | Avg score  0.3 | Record  1 | Score  0
+TIME ELAPSED:  20.26  s
+
+Game  68 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  20.9  s
+
+Game  69 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  21.48  s
+
+Game  70 | Avg score  0.5 | Record  1 | Score  0
+TIME ELAPSED:  22.22  s
+
+Game  71 | Avg score  0.2 | Record  1 | Score  0
+TIME ELAPSED:  22.75  s
+
+Game  72 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  23.3  s
+
+Game  73 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  23.97  s
+
+Game  74 | Avg score  1.1 | Record  1 | Score  1
+TIME ELAPSED:  24.78  s
+
+Game  75 | Avg score  0.2 | Record  1 | Score  0
+TIME ELAPSED:  25.32  s
+
+Game  76 | Avg score  0.4 | Record  1 | Score  0
+TIME ELAPSED:  25.87  s
+
+Game  77 | Avg score  0.4 | Record  1 | Score  0
+TIME ELAPSED:  26.37  s
+
+Game  78 | Avg score  0.3 | Record  1 | Score  1
+TIME ELAPSED:  27.05  s
+
+Game  79 | Avg score  0.4 | Record  1 | Score  0
+TIME ELAPSED:  27.61  s
+
+Game  80 | Avg score  0.0 | Record  1 | Score  1
+TIME ELAPSED:  28.17  s
+
+Game  81 | Avg score  0.0 | Record  1 | Score  0
+TIME ELAPSED:  28.6  s
+
+Game  82 | Avg score  0.6 | Record  1 | Score  0
+TIME ELAPSED:  29.31  s
+
+Game  83 | Avg score  0.7 | Record  1 | Score  0
+TIME ELAPSED:  29.99  s
+
+Game  84 | Avg score  0.4 | Record  1 | Score  1
+TIME ELAPSED:  30.53  s
+
+Game  85 | Avg score  0.0 | Record  1 | Score  1
+TIME ELAPSED:  31.18  s
+
+Game  86 | Avg score  0.5 | Record  1 | Score  1
+TIME ELAPSED:  31.68  s
+
+Game  87 | Avg score  1.1 | Record  5 | Score  5
+TIME ELAPSED:  32.53  s
+
+Game  88 | Avg score  1.2 | Record  5 | Score  2
+TIME ELAPSED:  33.14  s
+
+Game  89 | Avg score  0.7 | Record  5 | Score  1
+TIME ELAPSED:  33.67  s
+
+Game  90 | Avg score  0.8 | Record  9 | Score  9
+TIME ELAPSED:  34.48  s
+
+Game  91 | Avg score  0.5 | Record  9 | Score  0
+TIME ELAPSED:  35.1  s
+
+Game  92 | Avg score  0.5 | Record  9 | Score  1
+TIME ELAPSED:  35.64  s
+
+Game  93 | Avg score  0.0 | Record  9 | Score  0
+TIME ELAPSED:  36.16  s
+
+Game  94 | Avg score  0.5 | Record  9 | Score  1
+TIME ELAPSED:  36.72  s
+
+Game  95 | Avg score  2.2 | Record  9 | Score  0
+TIME ELAPSED:  37.33  s
+
+Game  96 | Avg score  0.7 | Record  9 | Score  0
+TIME ELAPSED:  38.12  s
+
+Game  97 | Avg score  4.0 | Record  9 | Score  0
+TIME ELAPSED:  38.87  s
+
+Game  98 | Avg score  1.5 | Record  9 | Score  0
+TIME ELAPSED:  39.51  s
+
+Game  99 | Avg score  2.9 | Record  9 | Score  8
+TIME ELAPSED:  40.49  s
+
+Game  100 | Avg score  9.1 | Record  9 | Score  0
+TIME ELAPSED:  41.42  s
+
+Game  101 | Avg score  0.5 | Record  9 | Score  3
+TIME ELAPSED:  42.09  s
+
+Game  102 | Avg score  3.2 | Record  9 | Score  0
+TIME ELAPSED:  42.73  s
+
+Game  103 | Avg score  0.8 | Record  9 | Score  3
+TIME ELAPSED:  43.38  s
+
+Game  104 | Avg score  0.7 | Record  9 | Score  0
+TIME ELAPSED:  44.03  s
+
+Game  105 | Avg score  13.3 | Record  20 | Score  20
+TIME ELAPSED:  45.73  s
+
+Game  106 | Avg score  8.2 | Record  20 | Score  7
+TIME ELAPSED:  46.66  s
+
+Game  107 | Avg score  2.8 | Record  20 | Score  5
+TIME ELAPSED:  47.37  s
+
+Game  108 | Avg score  33.6 | Record  26 | Score  26
+TIME ELAPSED:  50.01  s
+
+Game  109 | Avg score  9.5 | Record  26 | Score  23
+TIME ELAPSED:  51.66  s
+
+Game  110 | Avg score  8.8 | Record  26 | Score  12
+TIME ELAPSED:  52.8  s
+
+Game  111 | Avg score  34.2 | Record  26 | Score  18
+TIME ELAPSED:  55.16  s
+
+Game  112 | Avg score  7.9 | Record  62 | Score  62
+TIME ELAPSED:  58.4  s
+
+Game  113 | Avg score  14.1 | Record  62 | Score  9
+TIME ELAPSED:  59.7  s
+
+Game  114 | Avg score  32.4 | Record  62 | Score  32
+TIME ELAPSED:  62.61  s
+
+Game  115 | Avg score  5.4 | Record  62 | Score  25
+TIME ELAPSED:  64.31  s
+
+Game  116 | Avg score  37.3 | Record  62 | Score  25
+TIME ELAPSED:  67.06  s
+
+Game  117 | Avg score  9.3 | Record  62 | Score  7
+TIME ELAPSED:  68.2  s
+
+Game  118 | Avg score  30.0 | Record  62 | Score  17
+TIME ELAPSED:  70.66  s
+
+Game  119 | Avg score  15.2 | Record  62 | Score  2
+TIME ELAPSED:  71.86  s
+
+Game  120 | Avg score  47.9 | Record  62 | Score  58
+TIME ELAPSED:  76.69  s
+
+Game  121 | Avg score  28.3 | Record  62 | Score  35
+TIME ELAPSED:  79.48  s
+
+Game  122 | Avg score  42.3 | Record  62 | Score  24
+TIME ELAPSED:  82.78  s
+
+Game  123 | Avg score  24.8 | Record  62 | Score  3
+TIME ELAPSED:  84.39  s
+
+Game  124 | Avg score  30.4 | Record  62 | Score  34
+TIME ELAPSED:  87.36  s
+
+Game  125 | Avg score  13.8 | Record  62 | Score  26
+TIME ELAPSED:  89.36  s
+
+Game  126 | Avg score  31.0 | Record  62 | Score  1
+TIME ELAPSED:  91.46  s
+
+Game  127 | Avg score  38.5 | Record  62 | Score  14
+TIME ELAPSED:  94.22  s
+
+Game  128 | Avg score  37.7 | Record  62 | Score  19
+TIME ELAPSED:  97.25  s
+
+Game  129 | Avg score  39.2 | Record  64 | Score  64
+TIME ELAPSED:  101.86  s
+
+Game  130 | Avg score  16.9 | Record  64 | Score  6
+TIME ELAPSED:  103.38  s
+
+Game  131 | Avg score  17.5 | Record  64 | Score  1
+TIME ELAPSED:  104.7  s
+
+Game  132 | Avg score  28.0 | Record  64 | Score  32
+TIME ELAPSED:  107.51  s
+
+Game  133 | Avg score  34.1 | Record  64 | Score  4
+TIME ELAPSED:  109.51  s
+
+Game  134 | Avg score  23.0 | Record  64 | Score  26
+TIME ELAPSED:  111.85  s
+
+Game  135 | Avg score  31.5 | Record  64 | Score  29
+TIME ELAPSED:  114.85  s
+
+Game  136 | Avg score  31.8 | Record  64 | Score  32
+TIME ELAPSED:  117.7  s
+
+Game  137 | Avg score  35.1 | Record  64 | Score  54
+TIME ELAPSED:  121.81  s
+
+Game  138 | Avg score  27.2 | Record  64 | Score  37
+TIME ELAPSED:  124.62  s
+
+Game  139 | Avg score  28.7 | Record  64 | Score  12
+TIME ELAPSED:  126.62  s
+
+Game  140 | Avg score  42.6 | Record  64 | Score  20
+TIME ELAPSED:  129.61  s
+
+Game  141 | Avg score  35.6 | Record  64 | Score  54
+TIME ELAPSED:  133.42  s
+
+Game  142 | Avg score  31.8 | Record  64 | Score  43
+TIME ELAPSED:  136.93  s
+
+Game  143 | Avg score  33.9 | Record  64 | Score  30
+TIME ELAPSED:  140.26  s
+
+Game  144 | Avg score  10.3 | Record  64 | Score  6
+TIME ELAPSED:  141.45  s
+
+Game  145 | Avg score  21.4 | Record  64 | Score  1
+TIME ELAPSED:  142.94  s
+
+Game  146 | Avg score  29.8 | Record  64 | Score  40
+TIME ELAPSED:  146.1  s
+
+Game  147 | Avg score  37.1 | Record  64 | Score  43
+TIME ELAPSED:  149.75  s
+
+Game  148 | Avg score  33.6 | Record  64 | Score  37
+TIME ELAPSED:  153.06  s
+
+Game  149 | Avg score  39.7 | Record  66 | Score  66
+TIME ELAPSED:  157.47  s
+
+Game  150 | Avg score  19.1 | Record  66 | Score  39
+TIME ELAPSED:  160.03  s
+
+Game  151 | Avg score  22.9 | Record  66 | Score  7
+TIME ELAPSED:  161.65  s
+
+Game  152 | Avg score  7.9 | Record  66 | Score  22
+TIME ELAPSED:  163.16  s
+
+Game  153 | Avg score  38.3 | Record  66 | Score  5
+TIME ELAPSED:  165.52  s
+
+Game  154 | Avg score  34.6 | Record  66 | Score  24
+TIME ELAPSED:  168.17  s
+
+Game  155 | Avg score  37.4 | Record  66 | Score  20
+TIME ELAPSED:  170.91  s
+
+Game  156 | Avg score  38.7 | Record  66 | Score  23
+TIME ELAPSED:  173.98  s
+
+Game  157 | Avg score  22.8 | Record  68 | Score  68
+TIME ELAPSED:  178.08  s
+
+Game  158 | Avg score  21.5 | Record  68 | Score  25
+TIME ELAPSED:  180.11  s
+
+Game  159 | Avg score  52.6 | Record  68 | Score  66
+TIME ELAPSED:  185.37  s
+
+Game  160 | Avg score  27.3 | Record  68 | Score  19
+TIME ELAPSED:  187.7  s
+
+Game  161 | Avg score  24.5 | Record  68 | Score  6
+TIME ELAPSED:  189.38  s
+
+Game  162 | Avg score  23.9 | Record  68 | Score  22
+TIME ELAPSED:  191.56  s
+
+Game  163 | Avg score  43.5 | Record  68 | Score  19
+TIME ELAPSED:  194.74  s
+
+Game  164 | Avg score  57.1 | Record  68 | Score  13
+TIME ELAPSED:  198.05  s
+
+Game  165 | Avg score  47.8 | Record  68 | Score  68
+TIME ELAPSED:  202.59  s
+
+Game  166 | Avg score  23.7 | Record  68 | Score  37
+TIME ELAPSED:  205.58  s
+
+Game  167 | Avg score  51.3 | Record  68 | Score  44
+TIME ELAPSED:  210.03  s
+
+Game  168 | Avg score  28.2 | Record  68 | Score  58
+TIME ELAPSED:  213.71  s
+
+Game  169 | Avg score  40.4 | Record  68 | Score  53
+TIME ELAPSED:  217.75  s
+
+Game  170 | Avg score  59.9 | Record  73 | Score  73
+TIME ELAPSED:  223.8  s
+
+Game  171 | Avg score  26.0 | Record  73 | Score  71
+TIME ELAPSED:  228.31  s
+
+Game  172 | Avg score  49.6 | Record  73 | Score  33
+TIME ELAPSED:  231.83  s
+
+Game  173 | Avg score  46.7 | Record  73 | Score  31
+TIME ELAPSED:  235.14  s
+
+Game  174 | Avg score  48.7 | Record  73 | Score  34
+TIME ELAPSED:  238.58  s
+
+Game  175 | Avg score  44.6 | Record  73 | Score  32
+TIME ELAPSED:  241.88  s
+
+Game  176 | Avg score  43.1 | Record  73 | Score  34
+TIME ELAPSED:  245.33  s
+
+Game  177 | Avg score  43.4 | Record  73 | Score  58
+TIME ELAPSED:  249.97  s
+
+Game  178 | Avg score  40.2 | Record  73 | Score  42
+TIME ELAPSED:  253.54  s
+
+Game  179 | Avg score  42.3 | Record  73 | Score  42
+TIME ELAPSED:  257.5  s
+
+Game  180 | Avg score  40.0 | Record  73 | Score  31
+TIME ELAPSED:  260.82  s
+
+Game  181 | Avg score  49.8 | Record  73 | Score  7
+TIME ELAPSED:  263.52  s
+
+Game  182 | Avg score  61.8 | Record  73 | Score  51
+TIME ELAPSED:  268.96  s
+
+Game  183 | Avg score  39.4 | Record  73 | Score  29
+TIME ELAPSED:  272.08  s
+
+Game  184 | Avg score  52.9 | Record  73 | Score  48
+TIME ELAPSED:  277.6  s
+
+Game  185 | Avg score  43.5 | Record  73 | Score  16
+TIME ELAPSED:  280.61  s
+
+Game  186 | Avg score  55.5 | Record  90 | Score  90
+TIME ELAPSED:  287.17  s
+
+Game  187 | Avg score  43.9 | Record  90 | Score  51
+TIME ELAPSED:  291.08  s
+
+Game  188 | Avg score  62.5 | Record  90 | Score  13
+TIME ELAPSED:  295.01  s
+
+Game  189 | Avg score  49.1 | Record  90 | Score  37
+TIME ELAPSED:  299.04  s
+
+Game  190 | Avg score  48.1 | Record  90 | Score  26
+TIME ELAPSED:  302.42  s
+
+Game  191 | Avg score  52.2 | Record  90 | Score  52
+TIME ELAPSED:  306.95  s
+
+Game  192 | Avg score  47.9 | Record  100 | Score  100
+TIME ELAPSED:  314.64  s
+
+Game  193 | Avg score  59.1 | Record  100 | Score  70
+TIME ELAPSED:  320.97  s
+
+Game  194 | Avg score  62.4 | Record  100 | Score  56
+TIME ELAPSED:  326.63  s
+
+Game  195 | Avg score  60.8 | Record  100 | Score  0
+TIME ELAPSED:  330.26  s
+
+Game  196 | Avg score  58.7 | Record  100 | Score  80
+TIME ELAPSED:  337.0  s
+
+Game  197 | Avg score  44.9 | Record  109 | Score  109
+TIME ELAPSED:  345.5  s
+
+Game  198 | Avg score  59.5 | Record  109 | Score  40
+TIME ELAPSED:  350.24  s
+
+Game  199 | Avg score  45.2 | Record  109 | Score  71
+TIME ELAPSED:  355.27  s
+
+Game  200 | Avg score  53.3 | Record  109 | Score  20
+TIME ELAPSED:  358.8  s
+
+Game  201 | Avg score  39.5 | Record  109 | Score  20
+TIME ELAPSED:  361.53  s
+
+Game  202 | Avg score  48.8 | Record  109 | Score  47
+TIME ELAPSED:  366.02  s
+
+Game  203 | Avg score  57.7 | Record  109 | Score  79
+TIME ELAPSED:  372.43  s
+
+Game  204 | Avg score  81.3 | Record  109 | Score  48
+TIME ELAPSED:  380.09  s
+
+Game  205 | Avg score  71.1 | Record  109 | Score  42
+TIME ELAPSED:  386.41  s
+
+Game  206 | Avg score  59.4 | Record  109 | Score  49
+TIME ELAPSED:  392.08  s
+
+Game  207 | Avg score  44.0 | Record  109 | Score  61
+TIME ELAPSED:  397.02  s
+
+Game  208 | Avg score  10.0 | Record  109 | Score  72
+TIME ELAPSED:  400.97  s
+
+Game  209 | Avg score  62.2 | Record  109 | Score  67
+TIME ELAPSED:  407.16  s
+
+Game  210 | Avg score  60.0 | Record  109 | Score  58
+TIME ELAPSED:  413.18  s
+
+Game  211 | Avg score  79.3 | Record  109 | Score  55
+TIME ELAPSED:  419.05  s
+
+Game  212 | Avg score  65.2 | Record  109 | Score  62
+TIME ELAPSED:  426.06  s
+
+Game  213 | Avg score  61.5 | Record  109 | Score  72
+TIME ELAPSED:  432.76  s
+
+Game  214 | Avg score  61.1 | Record  109 | Score  59
+TIME ELAPSED:  439.09  s
+
+Game  215 | Avg score  57.3 | Record  109 | Score  47
+TIME ELAPSED:  444.87  s
+
+Game  216 | Avg score  55.5 | Record  109 | Score  44
+TIME ELAPSED:  449.85  s
+
+Game  217 | Avg score  43.6 | Record  109 | Score  43
+TIME ELAPSED:  453.64  s
+
+Game  218 | Avg score  63.9 | Record  109 | Score  28
+TIME ELAPSED:  458.16  s
+
+Game  219 | Avg score  58.9 | Record  115 | Score  115
+TIME ELAPSED:  467.04  s
+
+Game  220 | Avg score  34.6 | Record  115 | Score  59
+TIME ELAPSED:  471.11  s
+
+Game  221 | Avg score  17.7 | Record  115 | Score  56
+TIME ELAPSED:  474.52  s
+
+Game  222 | Avg score  43.0 | Record  115 | Score  90
+TIME ELAPSED:  480.66  s
+
+Game  223 | Avg score  54.9 | Record  115 | Score  37
+TIME ELAPSED:  485.68  s
+
+Game  224 | Avg score  60.5 | Record  115 | Score  49
+TIME ELAPSED:  491.09  s
+
+Game  225 | Avg score  17.9 | Record  115 | Score  36
+TIME ELAPSED:  493.53  s
+
+Game  226 | Avg score  5.8 | Record  115 | Score  10
+TIME ELAPSED:  494.53  s
+
+Game  227 | Avg score  73.3 | Record  115 | Score  48
+TIME ELAPSED:  500.03  s
+
+Game  228 | Avg score  39.8 | Record  128 | Score  128
+TIME ELAPSED:  508.97  s
+
+Game  229 | Avg score  62.2 | Record  128 | Score  45
+TIME ELAPSED:  514.68  s
+
+Game  230 | Avg score  52.3 | Record  128 | Score  76
+TIME ELAPSED:  520.64  s
+
+Game  231 | Avg score  59.2 | Record  128 | Score  73
+TIME ELAPSED:  527.49  s
+
+Game  232 | Avg score  60.2 | Record  128 | Score  63
+TIME ELAPSED:  533.69  s
+
+Game  233 | Avg score  58.2 | Record  128 | Score  79
+TIME ELAPSED:  540.02  s
+
+Game  234 | Avg score  53.9 | Record  128 | Score  59
+TIME ELAPSED:  545.25  s
+
+Game  235 | Avg score  8.0 | Record  128 | Score  45
+TIME ELAPSED:  547.83  s
+
+Game  236 | Avg score  59.3 | Record  128 | Score  46
+TIME ELAPSED:  553.43  s
+
+Game  237 | Avg score  57.8 | Record  128 | Score  33
+TIME ELAPSED:  558.45  s
+
+Game  238 | Avg score  56.5 | Record  128 | Score  45
+TIME ELAPSED:  563.16  s
+
+Game  239 | Avg score  51.8 | Record  128 | Score  53
+TIME ELAPSED:  567.43  s
+
+Game  240 | Avg score  53.6 | Record  128 | Score  9
+TIME ELAPSED:  570.42  s
+
+Game  241 | Avg score  49.2 | Record  128 | Score  60
+TIME ELAPSED:  575.35  s
+
+Game  242 | Avg score  65.3 | Record  128 | Score  29
+TIME ELAPSED:  579.85  s
+
+Game  243 | Avg score  58.6 | Record  128 | Score  63
+TIME ELAPSED:  585.2  s
+
+Game  244 | Avg score  63.8 | Record  128 | Score  22
+TIME ELAPSED:  589.61  s
+
+Game  245 | Avg score  57.5 | Record  128 | Score  67
+TIME ELAPSED:  595.53  s
+
+Game  246 | Avg score  44.3 | Record  128 | Score  10
+TIME ELAPSED:  598.51  s
+
+Game  247 | Avg score  53.7 | Record  128 | Score  43
+TIME ELAPSED:  603.45  s
+
+Game  248 | Avg score  24.6 | Record  128 | Score  17
+TIME ELAPSED:  605.98  s
+
+Game  249 | Avg score  24.4 | Record  128 | Score  59
+TIME ELAPSED:  609.98  s
+
+Game  250 | Avg score  21.1 | Record  128 | Score  51
+TIME ELAPSED:  613.14  s
+
+Game  251 | Avg score  32.4 | Record  128 | Score  13
+TIME ELAPSED:  615.26  s
+
+Game  252 | Avg score  50.2 | Record  128 | Score  51
+TIME ELAPSED:  620.15  s
+
+Game  253 | Avg score  47.1 | Record  128 | Score  65
+TIME ELAPSED:  625.29  s
+
+Game  254 | Avg score  85.9 | Record  128 | Score  54
+TIME ELAPSED:  632.47  s
+
+Game  255 | Avg score  36.0 | Record  128 | Score  47
+TIME ELAPSED:  636.31  s
+
+Game  256 | Avg score  27.8 | Record  128 | Score  31
+TIME ELAPSED:  639.16  s
+
+Game  257 | Avg score  45.8 | Record  128 | Score  19
+TIME ELAPSED:  642.27  s
+
+Game  258 | Avg score  33.2 | Record  128 | Score  55
+TIME ELAPSED:  646.3  s
+
+Game  259 | Avg score  48.8 | Record  128 | Score  52
+TIME ELAPSED:  650.8  s
+
+Game  260 | Avg score  53.1 | Record  128 | Score  27
+TIME ELAPSED:  654.43  s
+
+Game  261 | Avg score  63.3 | Record  128 | Score  88
+TIME ELAPSED:  660.98  s
+
+Game  262 | Avg score  77.8 | Record  128 | Score  24
+TIME ELAPSED:  665.85  s
+
+Game  263 | Avg score  54.4 | Record  128 | Score  37
+TIME ELAPSED:  670.09  s
+
+Game  264 | Avg score  81.2 | Record  128 | Score  50
+TIME ELAPSED:  676.59  s
+
+Game  265 | Avg score  62.0 | Record  128 | Score  57
+TIME ELAPSED:  682.73  s
+
+Game  266 | Avg score  50.0 | Record  128 | Score  124
+TIME ELAPSED:  691.94  s
+
+Game  267 | Avg score  61.8 | Record  128 | Score  108
+TIME ELAPSED:  700.21  s
+
+Game  268 | Avg score  89.3 | Record  128 | Score  49
+TIME ELAPSED:  707.5  s
+
+Game  269 | Avg score  63.9 | Record  128 | Score  66
+TIME ELAPSED:  713.63  s
+
+Game  270 | Avg score  70.3 | Record  128 | Score  86
+TIME ELAPSED:  721.47  s
+
+Game  271 | Avg score  56.6 | Record  128 | Score  52
+TIME ELAPSED:  726.77  s
+
+Game  272 | Avg score  55.2 | Record  128 | Score  70
+TIME ELAPSED:  733.16  s
+
+Game  273 | Avg score  32.7 | Record  128 | Score  67
+TIME ELAPSED:  738.01  s
+
+Game  274 | Avg score  43.7 | Record  128 | Score  46
+TIME ELAPSED:  742.24  s
+
+Game  275 | Avg score  32.4 | Record  128 | Score  14
+TIME ELAPSED:  744.54  s
+
+Game  276 | Avg score  46.5 | Record  128 | Score  48
+TIME ELAPSED:  748.72  s
+
+Game  277 | Avg score  50.1 | Record  128 | Score  78
+TIME ELAPSED:  754.9  s
+
+Game  278 | Avg score  59.6 | Record  128 | Score  50
+TIME ELAPSED:  759.77  s
+
+Game  279 | Avg score  62.4 | Record  128 | Score  37
+TIME ELAPSED:  764.63  s
+
+Game  280 | Avg score  51.8 | Record  128 | Score  61
+TIME ELAPSED:  769.81  s
+
+Game  281 | Avg score  84.5 | Record  128 | Score  84
+TIME ELAPSED:  778.86  s
+
+Game  282 | Avg score  43.3 | Record  128 | Score  58
+TIME ELAPSED:  783.38  s
+
+Game  283 | Avg score  53.7 | Record  128 | Score  59
+TIME ELAPSED:  788.56  s
+
+Game  284 | Avg score  40.2 | Record  128 | Score  14
+TIME ELAPSED:  791.23  s
+
+Game  285 | Avg score  39.2 | Record  128 | Score  58
+TIME ELAPSED:  795.38  s
+
+Game  286 | Avg score  45.8 | Record  128 | Score  41
+TIME ELAPSED:  799.3  s
+
+Game  287 | Avg score  43.2 | Record  128 | Score  47
+TIME ELAPSED:  803.65  s
+
+Game  288 | Avg score  44.4 | Record  128 | Score  73
+TIME ELAPSED:  808.72  s
+
+Game  289 | Avg score  47.9 | Record  128 | Score  56
+TIME ELAPSED:  813.31  s
+
+Game  290 | Avg score  29.8 | Record  128 | Score  19
+TIME ELAPSED:  815.65  s
+
+Game  291 | Avg score  50.9 | Record  128 | Score  18
+TIME ELAPSED:  819.11  s
+
+Game  292 | Avg score  62.1 | Record  128 | Score  55
+TIME ELAPSED:  825.15  s
+
+Game  293 | Avg score  69.2 | Record  128 | Score  39
+TIME ELAPSED:  830.52  s
+
+Game  294 | Avg score  51.8 | Record  128 | Score  69
+TIME ELAPSED:  835.84  s
+
+Game  295 | Avg score  29.6 | Record  128 | Score  45
+TIME ELAPSED:  839.41  s
+
+Game  296 | Avg score  64.4 | Record  128 | Score  12
+TIME ELAPSED:  843.32  s
+
+Game  297 | Avg score  38.0 | Record  128 | Score  39
+TIME ELAPSED:  846.54  s
+
+Game  298 | Avg score  39.1 | Record  128 | Score  31
+TIME ELAPSED:  849.45  s
+
+Game  299 | Avg score  38.2 | Record  128 | Score  29
+TIME ELAPSED:  852.54  s
+
+Game  300 | Avg score  38.9 | Record  128 | Score  60
+TIME ELAPSED:  856.74  s
+
+Game  301 | Avg score  58.3 | Record  128 | Score  24
+TIME ELAPSED:  860.37  s
+
+Game  302 | Avg score  42.2 | Record  128 | Score  8
+TIME ELAPSED:  863.05  s
+
+Game  303 | Avg score  47.0 | Record  128 | Score  28
+TIME ELAPSED:  866.55  s
+
+Game  304 | Avg score  49.9 | Record  128 | Score  25
+TIME ELAPSED:  870.09  s
+
+Game  305 | Avg score  69.3 | Record  128 | Score  27
+TIME ELAPSED:  874.62  s
+
+Game  306 | Avg score  69.9 | Record  128 | Score  75
+TIME ELAPSED:  881.93  s
+
+Game  307 | Avg score  71.3 | Record  128 | Score  57
+TIME ELAPSED:  888.02  s
+
+Game  308 | Avg score  50.2 | Record  128 | Score  49
+TIME ELAPSED:  892.95  s
+
+Game  309 | Avg score  41.3 | Record  128 | Score  50
+TIME ELAPSED:  897.21  s
+
+Game  310 | Avg score  45.5 | Record  128 | Score  44
+TIME ELAPSED:  901.87  s
+
+Game  311 | Avg score  59.2 | Record  128 | Score  71
+TIME ELAPSED:  908.38  s
+
+Game  312 | Avg score  62.4 | Record  128 | Score  46
+TIME ELAPSED:  913.94  s
+
+Game  313 | Avg score  78.3 | Record  128 | Score  49
+TIME ELAPSED:  920.21  s
+
+Game  314 | Avg score  51.7 | Record  128 | Score  74
+TIME ELAPSED:  925.64  s
+
+Game  315 | Avg score  52.4 | Record  128 | Score  43
+TIME ELAPSED:  930.07  s
+
+Game  316 | Avg score  62.0 | Record  128 | Score  34
+TIME ELAPSED:  934.33  s
+
+Game  317 | Avg score  81.6 | Record  128 | Score  47
+TIME ELAPSED:  940.75  s
+
+Game  318 | Avg score  39.0 | Record  128 | Score  34
+TIME ELAPSED:  944.09  s
+
+Game  319 | Avg score  56.4 | Record  128 | Score  32
+TIME ELAPSED:  948.39  s
+
+Game  320 | Avg score  36.8 | Record  128 | Score  78
+TIME ELAPSED:  953.82  s
+
+Game  321 | Avg score  69.3 | Record  128 | Score  54
+TIME ELAPSED:  959.79  s
+
+Game  322 | Avg score  54.3 | Record  128 | Score  49
+TIME ELAPSED:  964.7  s
+
+Game  323 | Avg score  76.3 | Record  128 | Score  37
+TIME ELAPSED:  970.06  s
+
+Game  324 | Avg score  64.8 | Record  128 | Score  35
+TIME ELAPSED:  974.86  s
+
+Game  325 | Avg score  52.8 | Record  128 | Score  65
+TIME ELAPSED:  980.47  s
+
+Game  326 | Avg score  66.6 | Record  128 | Score  29
+TIME ELAPSED:  985.15  s
+
+Game  327 | Avg score  82.5 | Record  128 | Score  77
+TIME ELAPSED:  993.3  s
+
+Game  328 | Avg score  49.9 | Record  128 | Score  58
+TIME ELAPSED:  998.25  s
+
+Game  329 | Avg score  35.9 | Record  128 | Score  45
+TIME ELAPSED:  1002.19  s
+
+Game  330 | Avg score  68.7 | Record  128 | Score  84
+TIME ELAPSED:  1009.29  s
+
+Game  331 | Avg score  51.9 | Record  128 | Score  41
+TIME ELAPSED:  1013.23  s
+
+Game  332 | Avg score  46.3 | Record  128 | Score  83
+TIME ELAPSED:  1019.1  s
+
+Game  333 | Avg score  54.7 | Record  128 | Score  49
+TIME ELAPSED:  1023.77  s
+
+Game  334 | Avg score  33.1 | Record  128 | Score  65
+TIME ELAPSED:  1028.17  s
+
+Game  335 | Avg score  47.2 | Record  128 | Score  46
+TIME ELAPSED:  1032.23  s
+
+Game  336 | Avg score  43.3 | Record  128 | Score  51
+TIME ELAPSED:  1036.39  s
+
+Game  337 | Avg score  40.6 | Record  128 | Score  39
+TIME ELAPSED:  1039.99  s
+
+Game  338 | Avg score  39.2 | Record  128 | Score  101
+TIME ELAPSED:  1045.76  s
+
+Game  339 | Avg score  86.0 | Record  128 | Score  62
+TIME ELAPSED:  1052.8  s
+
+Game  340 | Avg score  77.4 | Record  128 | Score  60
+TIME ELAPSED:  1059.01  s
+
+Game  341 | Avg score  43.2 | Record  128 | Score  72
+TIME ELAPSED:  1064.11  s
+
+Game  342 | Avg score  54.5 | Record  128 | Score  82
+TIME ELAPSED:  1069.72  s
+
+Game  343 | Avg score  68.9 | Record  128 | Score  70
+TIME ELAPSED:  1075.94  s
+
+Game  344 | Avg score  77.6 | Record  128 | Score  29
+TIME ELAPSED:  1081.12  s
+
+Game  345 | Avg score  59.8 | Record  128 | Score  76
+TIME ELAPSED:  1087.38  s
+
+Game  346 | Avg score  76.2 | Record  128 | Score  58
+TIME ELAPSED:  1094.85  s
+
+Game  347 | Avg score  54.9 | Record  128 | Score  26
+TIME ELAPSED:  1098.6  s
+
+Game  348 | Avg score  27.0 | Record  128 | Score  21
+TIME ELAPSED:  1101.14  s
+
+Game  349 | Avg score  50.6 | Record  128 | Score  89
+TIME ELAPSED:  1107.07  s
+
+Game  350 | Avg score  66.4 | Record  128 | Score  46
+TIME ELAPSED:  1112.44  s
+
+Game  351 | Avg score  55.7 | Record  128 | Score  20
+TIME ELAPSED:  1116.32  s
+
+Game  352 | Avg score  68.6 | Record  128 | Score  11
+TIME ELAPSED:  1120.47  s
+
+Game  353 | Avg score  58.6 | Record  128 | Score  53
+TIME ELAPSED:  1125.5  s
+
+Game  354 | Avg score  45.1 | Record  128 | Score  60
+TIME ELAPSED:  1129.93  s
+
+Game  355 | Avg score  31.6 | Record  128 | Score  56
+TIME ELAPSED:  1133.51  s
+
+Game  356 | Avg score  49.2 | Record  128 | Score  77
+TIME ELAPSED:  1139.15  s
+
+Game  357 | Avg score  66.2 | Record  128 | Score  21
+TIME ELAPSED:  1143.37  s
+
+Game  358 | Avg score  57.1 | Record  128 | Score  89
+TIME ELAPSED:  1149.84  s
+
+Game  359 | Avg score  63.9 | Record  128 | Score  56
+TIME ELAPSED:  1155.12  s
+
+Game  360 | Avg score  40.8 | Record  128 | Score  67
+TIME ELAPSED:  1159.7  s
+
+Game  361 | Avg score  45.0 | Record  128 | Score  64
+TIME ELAPSED:  1164.62  s
+
+Game  362 | Avg score  83.7 | Record  128 | Score  2
+TIME ELAPSED:  1169.69  s
+
+Game  363 | Avg score  59.3 | Record  128 | Score  15
+TIME ELAPSED:  1173.36  s
+
+Game  364 | Avg score  66.0 | Record  128 | Score  86
+TIME ELAPSED:  1179.84  s
+
+Game  365 | Avg score  62.9 | Record  128 | Score  91
+TIME ELAPSED:  1187.07  s
+
+Game  366 | Avg score  58.2 | Record  128 | Score  78
+TIME ELAPSED:  1193.1  s
+
+Game  367 | Avg score  59.6 | Record  128 | Score  76
+TIME ELAPSED:  1199.15  s
+
+Game  368 | Avg score  46.9 | Record  128 | Score  60
+TIME ELAPSED:  1204.22  s
+
+Game  369 | Avg score  49.8 | Record  128 | Score  59
+TIME ELAPSED:  1209.5  s
+
+Game  370 | Avg score  63.8 | Record  128 | Score  37
+TIME ELAPSED:  1214.09  s
+
+Game  371 | Avg score  46.0 | Record  128 | Score  4
+TIME ELAPSED:  1216.62  s
+
+Game  372 | Avg score  68.5 | Record  128 | Score  64
+TIME ELAPSED:  1222.65  s
+
+Game  373 | Avg score  53.7 | Record  128 | Score  64
+TIME ELAPSED:  1228.33  s
+
+Game  374 | Avg score  62.8 | Record  128 | Score  88
+TIME ELAPSED:  1235.14  s
+
+Game  375 | Avg score  64.9 | Record  128 | Score  59
+TIME ELAPSED:  1241.12  s
+
+Game  376 | Avg score  68.0 | Record  128 | Score  91
+TIME ELAPSED:  1248.61  s
+
+Game  377 | Avg score  51.5 | Record  128 | Score  65
+TIME ELAPSED:  1254.19  s
+
+Game  378 | Avg score  42.0 | Record  128 | Score  3
+TIME ELAPSED:  1256.59  s
+
+Game  379 | Avg score  55.7 | Record  128 | Score  33
+TIME ELAPSED:  1260.68  s
+
+Game  380 | Avg score  44.0 | Record  128 | Score  44
+TIME ELAPSED:  1264.88  s
+
+Game  381 | Avg score  45.9 | Record  128 | Score  54
+TIME ELAPSED:  1269.67  s
+
+Game  382 | Avg score  48.9 | Record  128 | Score  46
+TIME ELAPSED:  1273.93  s
+
+Game  383 | Avg score  47.7 | Record  128 | Score  33
+TIME ELAPSED:  1277.52  s
+
+Game  384 | Avg score  43.6 | Record  128 | Score  65
+TIME ELAPSED:  1282.22  s
+
+Game  385 | Avg score  43.0 | Record  128 | Score  60
+TIME ELAPSED:  1286.79  s
+
+Game  386 | Avg score  36.1 | Record  128 | Score  43
+TIME ELAPSED:  1290.49  s
+
+Game  387 | Avg score  48.8 | Record  128 | Score  50
+TIME ELAPSED:  1294.95  s
+
+Game  388 | Avg score  50.6 | Record  128 | Score  30
+TIME ELAPSED:  1298.84  s
+
+Game  389 | Avg score  61.8 | Record  128 | Score  80
+TIME ELAPSED:  1305.19  s
+
+Game  390 | Avg score  49.9 | Record  128 | Score  13
+TIME ELAPSED:  1308.09  s
+
+Game  391 | Avg score  50.7 | Record  128 | Score  4
+TIME ELAPSED:  1310.96  s
+
+Game  392 | Avg score  68.1 | Record  128 | Score  91
+TIME ELAPSED:  1318.12  s
+
+Game  393 | Avg score  74.6 | Record  128 | Score  89
+TIME ELAPSED:  1325.34  s
+
+Game  394 | Avg score  49.3 | Record  128 | Score  22
+TIME ELAPSED:  1328.75  s
+
+Game  395 | Avg score  68.0 | Record  128 | Score  53
+TIME ELAPSED:  1334.27  s
+
+Game  396 | Avg score  73.9 | Record  128 | Score  42
+TIME ELAPSED:  1339.67  s
+
+Game  397 | Avg score  75.7 | Record  128 | Score  58
+TIME ELAPSED:  1345.81  s
+
+Game  398 | Avg score  47.1 | Record  128 | Score  118
+TIME ELAPSED:  1353.95  s
+
+Game  399 | Avg score  62.1 | Record  128 | Score  0
+TIME ELAPSED:  1357.26  s
+
+Game  400 | Avg score  54.0 | Record  128 | Score  71
+TIME ELAPSED:  1362.92  s
+
+Game  401 | Avg score  37.6 | Record  128 | Score  37
+TIME ELAPSED:  1366.23  s
+
+Game  402 | Avg score  43.3 | Record  128 | Score  44
+TIME ELAPSED:  1369.95  s
+
+Game  403 | Avg score  72.9 | Record  128 | Score  52
+TIME ELAPSED:  1375.6  s
+
+Game  404 | Avg score  38.7 | Record  128 | Score  56
+TIME ELAPSED:  1380.05  s
+
+Game  405 | Avg score  60.9 | Record  128 | Score  98
+TIME ELAPSED:  1387.27  s
+
+Game  406 | Avg score  59.4 | Record  128 | Score  41
+TIME ELAPSED:  1391.91  s
+
+Game  407 | Avg score  43.7 | Record  128 | Score  50
+TIME ELAPSED:  1396.09  s
+
+Game  408 | Avg score  54.6 | Record  128 | Score  68
+TIME ELAPSED:  1401.73  s
+
+Game  409 | Avg score  83.7 | Record  128 | Score  34
+TIME ELAPSED:  1408.59  s
+
+Game  410 | Avg score  55.7 | Record  128 | Score  81
+TIME ELAPSED:  1414.92  s
+
+Game  411 | Avg score  58.2 | Record  128 | Score  46
+TIME ELAPSED:  1420.02  s
+
+Game  412 | Avg score  56.0 | Record  128 | Score  44
+TIME ELAPSED:  1425.06  s
+
+Game  413 | Avg score  47.4 | Record  128 | Score  40
+TIME ELAPSED:  1428.96  s
+
+Game  414 | Avg score  43.4 | Record  128 | Score  48
+TIME ELAPSED:  1433.05  s
+
+Game  415 | Avg score  70.8 | Record  128 | Score  86
+TIME ELAPSED:  1440.69  s
+
+Game  416 | Avg score  62.5 | Record  128 | Score  75
+TIME ELAPSED:  1447.91  s
+
+Game  417 | Avg score  50.4 | Record  128 | Score  82
+TIME ELAPSED:  1454.14  s
+
+Game  418 | Avg score  54.7 | Record  128 | Score  40
+TIME ELAPSED:  1458.69  s
+
+Game  419 | Avg score  73.8 | Record  128 | Score  33
+TIME ELAPSED:  1463.94  s
+
+Game  420 | Avg score  44.1 | Record  128 | Score  38
+TIME ELAPSED:  1467.62  s
+
+Game  421 | Avg score  48.1 | Record  128 | Score  43
+TIME ELAPSED:  1472.24  s
+
+Game  422 | Avg score  54.6 | Record  128 | Score  6
+TIME ELAPSED:  1475.3  s
+
+Game  423 | Avg score  61.8 | Record  128 | Score  26
+TIME ELAPSED:  1479.58  s
+
+Game  424 | Avg score  73.4 | Record  128 | Score  30
+TIME ELAPSED:  1484.7  s
+
+Game  425 | Avg score  74.7 | Record  128 | Score  70
+TIME ELAPSED:  1491.46  s
+
+Game  426 | Avg score  39.8 | Record  128 | Score  72
+TIME ELAPSED:  1496.53  s
+
+Game  427 | Avg score  65.4 | Record  128 | Score  37
+TIME ELAPSED:  1502.02  s
+
+Game  428 | Avg score  66.4 | Record  128 | Score  34
+TIME ELAPSED:  1507.53  s
+
+Game  429 | Avg score  69.3 | Record  128 | Score  50
+TIME ELAPSED:  1513.86  s
+
+Game  430 | Avg score  54.7 | Record  128 | Score  56
+TIME ELAPSED:  1518.99  s
+
+Game  431 | Avg score  65.1 | Record  128 | Score  74
+TIME ELAPSED:  1525.69  s
+
+Game  432 | Avg score  51.1 | Record  128 | Score  11
+TIME ELAPSED:  1528.79  s
+
+Game  433 | Avg score  9.5 | Record  128 | Score  63
+TIME ELAPSED:  1531.93  s
+
+Game  434 | Avg score  37.6 | Record  128 | Score  78
+TIME ELAPSED:  1537.45  s
+
+Game  435 | Avg score  67.9 | Record  128 | Score  19
+TIME ELAPSED:  1541.8  s
+
+Game  436 | Avg score  75.4 | Record  128 | Score  52
+TIME ELAPSED:  1547.95  s
+
+Game  437 | Avg score  51.3 | Record  128 | Score  72
+TIME ELAPSED:  1553.25  s
+
+Game  438 | Avg score  50.2 | Record  128 | Score  23
+TIME ELAPSED:  1556.77  s
+
+Game  439 | Avg score  60.1 | Record  128 | Score  57
+TIME ELAPSED:  1562.58  s
+
+Game  440 | Avg score  55.0 | Record  128 | Score  80
+TIME ELAPSED:  1569.15  s
+
+Game  441 | Avg score  73.3 | Record  128 | Score  37
+TIME ELAPSED:  1574.42  s
+
+Game  442 | Avg score  57.9 | Record  128 | Score  9
+TIME ELAPSED:  1577.78  s
+
+Game  443 | Avg score  72.3 | Record  128 | Score  41
+TIME ELAPSED:  1583.52  s
+
+Game  444 | Avg score  52.6 | Record  128 | Score  38
+TIME ELAPSED:  1587.89  s
+
+Game  445 | Avg score  60.0 | Record  128 | Score  43
+TIME ELAPSED:  1592.77  s
+
+Game  446 | Avg score  61.5 | Record  128 | Score  13
+TIME ELAPSED:  1596.6  s
+
+Game  447 | Avg score  57.1 | Record  128 | Score  15
+TIME ELAPSED:  1600.31  s
+
+Game  448 | Avg score  62.4 | Record  128 | Score  106
+TIME ELAPSED:  1609.19  s
+
+Game  449 | Avg score  91.4 | Record  128 | Score  30
+TIME ELAPSED:  1616.66  s
+
+Game  450 | Avg score  60.7 | Record  128 | Score  69
+TIME ELAPSED:  1623.34  s
+
+Game  451 | Avg score  85.5 | Record  128 | Score  52
+TIME ELAPSED:  1631.08  s
+
+Game  452 | Avg score  51.4 | Record  128 | Score  2
+TIME ELAPSED:  1634.28  s
+
+Game  453 | Avg score  58.0 | Record  128 | Score  60
+TIME ELAPSED:  1640.11  s
+
+Game  454 | Avg score  56.5 | Record  128 | Score  42
+TIME ELAPSED:  1644.93  s
+
+Game  455 | Avg score  64.7 | Record  128 | Score  46
+TIME ELAPSED:  1650.2  s
+
+Game  456 | Avg score  58.2 | Record  128 | Score  25
+TIME ELAPSED:  1654.06  s
+
+Game  457 | Avg score  55.2 | Record  128 | Score  50
+TIME ELAPSED:  1658.81  s
+
+Game  458 | Avg score  44.7 | Record  128 | Score  46
+TIME ELAPSED:  1662.96  s
+
+Game  459 | Avg score  43.0 | Record  128 | Score  27
+TIME ELAPSED:  1666.54  s
+
+Game  460 | Avg score  45.3 | Record  128 | Score  10
+TIME ELAPSED:  1669.27  s
+
+Game  461 | Avg score  52.6 | Record  128 | Score  32
+TIME ELAPSED:  1673.19  s
+
+Game  462 | Avg score  40.0 | Record  128 | Score  13
+TIME ELAPSED:  1675.85  s
+
+Game  463 | Avg score  63.4 | Record  128 | Score  59
+TIME ELAPSED:  1681.73  s
+
+Game  464 | Avg score  56.2 | Record  128 | Score  15
+TIME ELAPSED:  1685.13  s
+
+Game  465 | Avg score  59.5 | Record  128 | Score  50
+TIME ELAPSED:  1690.02  s
+
+Game  466 | Avg score  47.9 | Record  128 | Score  64
+TIME ELAPSED:  1695.08  s
+
+Game  467 | Avg score  55.1 | Record  128 | Score  2
+TIME ELAPSED:  1698.08  s
+
+Game  468 | Avg score  65.2 | Record  128 | Score  12
+TIME ELAPSED:  1701.87  s
+
+Game  469 | Avg score  51.9 | Record  128 | Score  39
+TIME ELAPSED:  1705.9  s
+
+Game  470 | Avg score  63.9 | Record  128 | Score  31
+TIME ELAPSED:  1710.3  s
+
+Game  471 | Avg score  58.9 | Record  128 | Score  55
+TIME ELAPSED:  1715.37  s
+
+Game  472 | Avg score  44.8 | Record  128 | Score  39
+TIME ELAPSED:  1719.14  s
+
+Game  473 | Avg score  50.7 | Record  128 | Score  74
+TIME ELAPSED:  1724.9  s
+
+Game  474 | Avg score  53.6 | Record  128 | Score  32
+TIME ELAPSED:  1729.02  s
+
+Game  475 | Avg score  66.0 | Record  128 | Score  45
+TIME ELAPSED:  1733.95  s
+
+Game  476 | Avg score  60.2 | Record  128 | Score  28
+TIME ELAPSED:  1738.14  s
+
+Game  477 | Avg score  45.8 | Record  128 | Score  95
+TIME ELAPSED:  1744.26  s
+
+Game  478 | Avg score  71.3 | Record  128 | Score  68
+TIME ELAPSED:  1750.94  s
+
+Game  479 | Avg score  74.2 | Record  128 | Score  22
+TIME ELAPSED:  1755.82  s
+
+Game  480 | Avg score  74.9 | Record  128 | Score  36
+TIME ELAPSED:  1761.11  s
+
+Game  481 | Avg score  8.4 | Record  128 | Score  54
+TIME ELAPSED:  1764.08  s
+
+Game  482 | Avg score  67.4 | Record  128 | Score  58
+TIME ELAPSED:  1769.95  s
+
+Game  483 | Avg score  66.3 | Record  128 | Score  54
+TIME ELAPSED:  1775.88  s
+
+Game  484 | Avg score  56.8 | Record  128 | Score  39
+TIME ELAPSED:  1780.28  s
+
+Game  485 | Avg score  51.8 | Record  128 | Score  0
+TIME ELAPSED:  1782.97  s
+
+Game  486 | Avg score  57.1 | Record  128 | Score  60
+TIME ELAPSED:  1788.4  s
+
+Game  487 | Avg score  46.6 | Record  128 | Score  49
+TIME ELAPSED:  1792.86  s
+
+Game  488 | Avg score  51.2 | Record  128 | Score  55
+TIME ELAPSED:  1797.56  s
+
+Game  489 | Avg score  44.2 | Record  128 | Score  57
+TIME ELAPSED:  1802.05  s
+
+Game  490 | Avg score  46.5 | Record  128 | Score  41
+TIME ELAPSED:  1805.81  s
+
+Game  491 | Avg score  50.1 | Record  128 | Score  44
+TIME ELAPSED:  1810.11  s
+
+Game  492 | Avg score  41.4 | Record  128 | Score  34
+TIME ELAPSED:  1813.67  s
+
+Game  493 | Avg score  58.2 | Record  128 | Score  50
+TIME ELAPSED:  1818.74  s
+
+Game  494 | Avg score  50.7 | Record  128 | Score  5
+TIME ELAPSED:  1821.75  s
+
+Game  495 | Avg score  52.1 | Record  128 | Score  78
+TIME ELAPSED:  1827.77  s
+
+Game  496 | Avg score  68.2 | Record  128 | Score  47
+TIME ELAPSED:  1833.05  s
+
+Game  497 | Avg score  52.4 | Record  128 | Score  89
+TIME ELAPSED:  1839.19  s
+
+Game  498 | Avg score  57.1 | Record  128 | Score  32
+TIME ELAPSED:  1843.05  s
+
+Game  499 | Avg score  62.8 | Record  128 | Score  45
+TIME ELAPSED:  1847.76  s
+
+Game  500 | Avg score  61.5 | Record  128 | Score  78
+TIME ELAPSED:  1853.9  s
+
+Game  501 | Avg score  58.3 | Record  128 | Score  43
+TIME ELAPSED:  1858.42  s
+
+Game  502 | Avg score  59.0 | Record  128 | Score  71
+TIME ELAPSED:  1864.12  s
+
+Game  503 | Avg score  72.4 | Record  128 | Score  54
+TIME ELAPSED:  1869.88  s
+
+Game  504 | Avg score  55.7 | Record  128 | Score  29
+TIME ELAPSED:  1873.83  s
+
+Game  505 | Avg score  41.1 | Record  128 | Score  61
+TIME ELAPSED:  1878.86  s
+
+Game  506 | Avg score  56.4 | Record  128 | Score  49
+TIME ELAPSED:  1883.48  s
+
+Game  507 | Avg score  52.4 | Record  128 | Score  13
+TIME ELAPSED:  1886.46  s
+
+Game  508 | Avg score  52.6 | Record  128 | Score  66
+TIME ELAPSED:  1891.65  s
+
+Game  509 | Avg score  41.4 | Record  128 | Score  51
+TIME ELAPSED:  1895.5  s
+
+Game  510 | Avg score  39.9 | Record  128 | Score  45
+TIME ELAPSED:  1899.6  s
+
+Game  511 | Avg score  46.5 | Record  128 | Score  21
+TIME ELAPSED:  1902.62  s
+
+Game  512 | Avg score  45.8 | Record  128 | Score  6
+TIME ELAPSED:  1905.12  s
+
+Game  513 | Avg score  7.8 | Record  128 | Score  38
+TIME ELAPSED:  1907.55  s
+
+Game  514 | Avg score  66.4 | Record  128 | Score  25
+TIME ELAPSED:  1911.77  s
+
+Game  515 | Avg score  66.7 | Record  128 | Score  77
+TIME ELAPSED:  1917.88  s
+
+Game  516 | Avg score  45.8 | Record  128 | Score  62
+TIME ELAPSED:  1922.21  s
+
+Game  517 | Avg score  48.9 | Record  128 | Score  70
+TIME ELAPSED:  1926.99  s
+
+Game  518 | Avg score  43.2 | Record  128 | Score  55
+TIME ELAPSED:  1931.22  s
+
+Game  519 | Avg score  60.8 | Record  128 | Score  51
+TIME ELAPSED:  1935.97  s
+
+Game  520 | Avg score  34.0 | Record  128 | Score  30
+TIME ELAPSED:  1938.92  s
+
+Game  521 | Avg score  42.1 | Record  128 | Score  1
+TIME ELAPSED:  1941.04  s
+
+Game  522 | Avg score  47.5 | Record  128 | Score  76
+TIME ELAPSED:  1946.21  s
+
+Game  523 | Avg score  51.4 | Record  128 | Score  11
+TIME ELAPSED:  1949.16  s
+
+Game  524 | Avg score  53.8 | Record  128 | Score  107
+TIME ELAPSED:  1956.38  s
+
+Game  525 | Avg score  56.3 | Record  128 | Score  5
+TIME ELAPSED:  1959.32  s
+
+Game  526 | Avg score  54.0 | Record  128 | Score  59
+TIME ELAPSED:  1964.21  s
+
+Game  527 | Avg score  60.1 | Record  128 | Score  27
+TIME ELAPSED:  1968.6  s
+
+Game  528 | Avg score  51.2 | Record  128 | Score  64
+TIME ELAPSED:  1973.58  s
+
+Game  529 | Avg score  74.7 | Record  128 | Score  19
+TIME ELAPSED:  1978.35  s
+
+Game  530 | Avg score  49.8 | Record  128 | Score  49
+TIME ELAPSED:  1982.55  s
+
+Game  531 | Avg score  51.1 | Record  128 | Score  38
+TIME ELAPSED:  1986.38  s
+
+Game  532 | Avg score  52.9 | Record  128 | Score  32
+TIME ELAPSED:  1990.34  s
+
+Game  533 | Avg score  36.8 | Record  128 | Score  61
+TIME ELAPSED:  1994.67  s
+
+Game  534 | Avg score  48.7 | Record  128 | Score  52
+TIME ELAPSED:  1999.18  s
+
+Game  535 | Avg score  73.2 | Record  128 | Score  20
+TIME ELAPSED:  2003.53  s
+
+Game  536 | Avg score  52.6 | Record  128 | Score  54
+TIME ELAPSED:  2008.4  s
+
+Game  537 | Avg score  84.2 | Record  128 | Score  61
+TIME ELAPSED:  2015.23  s
+
+Game  538 | Avg score  44.4 | Record  128 | Score  61
+TIME ELAPSED:  2019.87  s
+
+Game  539 | Avg score  63.9 | Record  128 | Score  47
+TIME ELAPSED:  2024.8  s
+
+Game  540 | Avg score  59.3 | Record  128 | Score  8
+TIME ELAPSED:  2028.02  s
+
+Game  541 | Avg score  80.1 | Record  128 | Score  78
+TIME ELAPSED:  2035.26  s
+
+Game  542 | Avg score  37.2 | Record  128 | Score  24
+TIME ELAPSED:  2038.02  s
+
+Game  543 | Avg score  52.2 | Record  128 | Score  64
+TIME ELAPSED:  2043.19  s
+
+Game  544 | Avg score  44.6 | Record  128 | Score  24
+TIME ELAPSED:  2046.25  s
+
+Game  545 | Avg score  50.3 | Record  128 | Score  39
+TIME ELAPSED:  2050.08  s
+
+Game  546 | Avg score  61.4 | Record  128 | Score  75
+TIME ELAPSED:  2056.47  s
+
+Game  547 | Avg score  50.1 | Record  128 | Score  24
+TIME ELAPSED:  2059.91  s
+
+Game  548 | Avg score  53.7 | Record  128 | Score  41
+TIME ELAPSED:  2064.24  s
+
+Game  549 | Avg score  44.1 | Record  128 | Score  66
+TIME ELAPSED:  2068.96  s
+
+Game  550 | Avg score  40.2 | Record  128 | Score  64
+TIME ELAPSED:  2073.61  s
+
+Game  551 | Avg score  49.9 | Record  128 | Score  74
+TIME ELAPSED:  2079.1  s
+
+Game  552 | Avg score  56.5 | Record  128 | Score  33
+TIME ELAPSED:  2083.11  s
+
+Game  553 | Avg score  40.1 | Record  128 | Score  52
+TIME ELAPSED:  2087.07  s
+
+Game  554 | Avg score  34.9 | Record  128 | Score  58
+TIME ELAPSED:  2091.1  s
+
+Game  555 | Avg score  11.7 | Record  128 | Score  27
+TIME ELAPSED:  2093.16  s
+
+Game  556 | Avg score  50.9 | Record  128 | Score  39
+TIME ELAPSED:  2097.2  s
+
+Game  557 | Avg score  59.2 | Record  128 | Score  35
+TIME ELAPSED:  2101.52  s
+
+Game  558 | Avg score  41.3 | Record  128 | Score  43
+TIME ELAPSED:  2105.11  s
+
+Game  559 | Avg score  45.3 | Record  128 | Score  23
+TIME ELAPSED:  2108.06  s
+
+Game  560 | Avg score  61.5 | Record  128 | Score  66
+TIME ELAPSED:  2113.18  s
+
+Game  561 | Avg score  52.7 | Record  128 | Score  61
+TIME ELAPSED:  2118.11  s
+
+Game  562 | Avg score  7.1 | Record  128 | Score  54
+TIME ELAPSED:  2120.87  s
+
+Game  563 | Avg score  3.8 | Record  128 | Score  0
+TIME ELAPSED:  2121.52  s
+
+Game  564 | Avg score  62.5 | Record  128 | Score  16
+TIME ELAPSED:  2125.14  s
+
+Game  565 | Avg score  58.6 | Record  128 | Score  3
+TIME ELAPSED:  2128.26  s
+
+Game  566 | Avg score  63.7 | Record  128 | Score  2
+TIME ELAPSED:  2131.5  s
+
+Game  567 | Avg score  61.2 | Record  128 | Score  62
+TIME ELAPSED:  2136.99  s
+
+Game  568 | Avg score  41.3 | Record  128 | Score  42
+TIME ELAPSED:  2140.48  s
+
+Game  569 | Avg score  68.5 | Record  128 | Score  41
+TIME ELAPSED:  2145.28  s
+
+Game  570 | Avg score  58.8 | Record  128 | Score  41
+TIME ELAPSED:  2149.77  s
+
+Game  571 | Avg score  56.9 | Record  128 | Score  75
+TIME ELAPSED:  2156.27  s
+
+Game  572 | Avg score  35.3 | Record  128 | Score  28
+TIME ELAPSED:  2159.29  s
+
+Game  573 | Avg score  39.5 | Record  128 | Score  26
+TIME ELAPSED:  2162.5  s
+
+Game  574 | Avg score  46.3 | Record  128 | Score  16
+TIME ELAPSED:  2165.3  s
+
+Game  575 | Avg score  36.5 | Record  128 | Score  38
+TIME ELAPSED:  2168.57  s
+
+Game  576 | Avg score  38.9 | Record  128 | Score  61
+TIME ELAPSED:  2172.73  s
+
+Game  577 | Avg score  53.3 | Record  128 | Score  28
+TIME ELAPSED:  2176.25  s
+
+Game  578 | Avg score  12.1 | Record  128 | Score  71
+TIME ELAPSED:  2179.77  s
+
+Game  579 | Avg score  61.9 | Record  128 | Score  1
+TIME ELAPSED:  2182.92  s
+
+Game  580 | Avg score  46.1 | Record  128 | Score  21
+TIME ELAPSED:  2185.95  s
+
+Game  581 | Avg score  36.6 | Record  128 | Score  33
+TIME ELAPSED:  2188.95  s
+
+Game  582 | Avg score  51.8 | Record  128 | Score  76
+TIME ELAPSED:  2194.6  s
+
+Game  583 | Avg score  9.1 | Record  128 | Score  1
+TIME ELAPSED:  2195.51  s
+
+Game  584 | Avg score  32.7 | Record  128 | Score  44
+TIME ELAPSED:  2199.02  s
+
+Game  585 | Avg score  47.4 | Record  128 | Score  38
+TIME ELAPSED:  2203.06  s
+
+Game  586 | Avg score  62.2 | Record  128 | Score  41
+TIME ELAPSED:  2207.97  s
+
+Game  587 | Avg score  56.6 | Record  128 | Score  31
+TIME ELAPSED:  2211.81  s
+
+Game  588 | Avg score  34.0 | Record  128 | Score  59
+TIME ELAPSED:  2216.01  s
+
+Game  589 | Avg score  39.2 | Record  128 | Score  64
+TIME ELAPSED:  2220.46  s
+
+Game  590 | Avg score  57.7 | Record  128 | Score  43
+TIME ELAPSED:  2225.17  s
+
+Game  591 | Avg score  65.7 | Record  128 | Score  29
+TIME ELAPSED:  2229.46  s
+
+Game  592 | Avg score  41.6 | Record  128 | Score  39
+TIME ELAPSED:  2233.09  s
+
+Game  593 | Avg score  55.4 | Record  128 | Score  59
+TIME ELAPSED:  2238.12  s
+
+Game  594 | Avg score  59.9 | Record  128 | Score  45
+TIME ELAPSED:  2243.01  s
+
+Game  595 | Avg score  32.6 | Record  128 | Score  61
+TIME ELAPSED:  2246.94  s
+
+Game  596 | Avg score  44.7 | Record  128 | Score  30
+TIME ELAPSED:  2250.43  s
+
+Game  597 | Avg score  39.6 | Record  128 | Score  37
+TIME ELAPSED:  2253.77  s
+
+Game  598 | Avg score  49.3 | Record  128 | Score  52
+TIME ELAPSED:  2257.95  s
+
+Game  599 | Avg score  53.4 | Record  128 | Score  89
+TIME ELAPSED:  2264.27  s
+
+Game  600 | Avg score  55.8 | Record  128 | Score  73
+TIME ELAPSED:  2269.77  s
+
+Game  601 | Avg score  47.8 | Record  128 | Score  54
+TIME ELAPSED:  2274.31  s
+
+Game  602 | Avg score  54.8 | Record  128 | Score  49
+TIME ELAPSED:  2278.88  s
+
+Game  603 | Avg score  41.2 | Record  128 | Score  30
+TIME ELAPSED:  2282.13  s
+
+Game  604 | Avg score  63.6 | Record  128 | Score  58
+TIME ELAPSED:  2287.6  s
+
+Game  605 | Avg score  39.9 | Record  128 | Score  42
+TIME ELAPSED:  2291.2  s
+
+Game  606 | Avg score  44.0 | Record  128 | Score  56
+TIME ELAPSED:  2295.76  s
+
+Game  607 | Avg score  8.2 | Record  128 | Score  62
+TIME ELAPSED:  2298.57  s
+
+Game  608 | Avg score  5.3 | Record  128 | Score  7
+TIME ELAPSED:  2299.47  s
+
+Game  609 | Avg score  69.7 | Record  128 | Score  93
+TIME ELAPSED:  2306.75  s
+
+Game  610 | Avg score  56.8 | Record  128 | Score  49
+TIME ELAPSED:  2311.55  s
+
+Game  611 | Avg score  54.0 | Record  128 | Score  24
+TIME ELAPSED:  2314.87  s
+
+Game  612 | Avg score  8.2 | Record  128 | Score  102
+TIME ELAPSED:  2320.14  s
+
+Game  613 | Avg score  69.2 | Record  128 | Score  61
+TIME ELAPSED:  2326.12  s
+
+Game  614 | Avg score  61.2 | Record  128 | Score  80
+TIME ELAPSED:  2332.9  s
+
+Game  615 | Avg score  49.0 | Record  128 | Score  69
+TIME ELAPSED:  2338.85  s
+
+Game  616 | Avg score  45.6 | Record  128 | Score  29
+TIME ELAPSED:  2342.36  s
+
+Game  617 | Avg score  41.6 | Record  128 | Score  62
+TIME ELAPSED:  2346.98  s
+
+Game  618 | Avg score  53.3 | Record  128 | Score  33
+TIME ELAPSED:  2350.87  s
+
+Game  619 | Avg score  49.8 | Record  128 | Score  56
+TIME ELAPSED:  2355.27  s
+
+Game  620 | Avg score  58.4 | Record  128 | Score  39
+TIME ELAPSED:  2359.81  s
+
+Game  621 | Avg score  57.3 | Record  128 | Score  47
+TIME ELAPSED:  2365.06  s
+
+Game  622 | Avg score  70.4 | Record  128 | Score  9
+TIME ELAPSED:  2369.12  s
+
+Game  623 | Avg score  69.5 | Record  128 | Score  86
+TIME ELAPSED:  2375.78  s
+
+Game  624 | Avg score  50.2 | Record  128 | Score  34
+TIME ELAPSED:  2379.62  s
+
+Game  625 | Avg score  61.7 | Record  128 | Score  36
+TIME ELAPSED:  2384.1  s
+
+Game  626 | Avg score  58.1 | Record  128 | Score  66
+TIME ELAPSED:  2389.65  s
+
+Game  627 | Avg score  55.3 | Record  128 | Score  59
+TIME ELAPSED:  2394.48  s
+
+Game  628 | Avg score  52.4 | Record  128 | Score  90
+TIME ELAPSED:  2400.9  s
+
+Game  629 | Avg score  52.1 | Record  128 | Score  36
+TIME ELAPSED:  2404.75  s
+
+Game  630 | Avg score  56.6 | Record  128 | Score  65
+TIME ELAPSED:  2409.91  s
+
+Game  631 | Avg score  8.5 | Record  128 | Score  69
+TIME ELAPSED:  2413.71  s
+
+Game  632 | Avg score  60.5 | Record  128 | Score  11
+TIME ELAPSED:  2417.18  s
+
+Game  633 | Avg score  57.5 | Record  128 | Score  51
+TIME ELAPSED:  2421.85  s
+
+Game  634 | Avg score  50.2 | Record  128 | Score  50
+TIME ELAPSED:  2426.37  s
+
+Game  635 | Avg score  63.6 | Record  128 | Score  18
+TIME ELAPSED:  2430.19  s
+
+Game  636 | Avg score  61.1 | Record  128 | Score  16
+TIME ELAPSED:  2433.85  s
+
+Game  637 | Avg score  76.3 | Record  128 | Score  21
+TIME ELAPSED:  2438.94  s
+
+Game  638 | Avg score  51.8 | Record  128 | Score  52
+TIME ELAPSED:  2443.54  s
+
+Game  639 | Avg score  52.1 | Record  128 | Score  37
+TIME ELAPSED:  2447.31  s
+
+Game  640 | Avg score  66.5 | Record  128 | Score  72
+TIME ELAPSED:  2453.42  s
+
+Game  641 | Avg score  58.9 | Record  128 | Score  40
+TIME ELAPSED:  2458.09  s
+
+Game  642 | Avg score  50.9 | Record  128 | Score  68
+TIME ELAPSED:  2463.32  s
+
+Game  643 | Avg score  40.1 | Record  128 | Score  16
+TIME ELAPSED:  2466.01  s
+
+Game  644 | Avg score  50.8 | Record  128 | Score  63
+TIME ELAPSED:  2471.26  s
+
+Game  645 | Avg score  70.1 | Record  128 | Score  96
+TIME ELAPSED:  2479.2  s
+
+Game  646 | Avg score  65.9 | Record  128 | Score  5
+TIME ELAPSED:  2483.43  s
+
+Game  647 | Avg score  55.3 | Record  128 | Score  36
+TIME ELAPSED:  2487.54  s
+
+Game  648 | Avg score  64.1 | Record  128 | Score  44
+TIME ELAPSED:  2493.01  s
+
+Game  649 | Avg score  52.1 | Record  128 | Score  58
+TIME ELAPSED:  2499.12  s
+
+Game  650 | Avg score  46.3 | Record  128 | Score  57
+TIME ELAPSED:  2503.86  s
+
+Game  651 | Avg score  56.3 | Record  128 | Score  58
+TIME ELAPSED:  2509.06  s
+
+Game  652 | Avg score  54.6 | Record  128 | Score  53
+TIME ELAPSED:  2513.95  s
+
+Game  653 | Avg score  64.5 | Record  128 | Score  40
+TIME ELAPSED:  2519.0  s
+
+Game  654 | Avg score  50.1 | Record  128 | Score  22
+TIME ELAPSED:  2522.89  s
+
+Game  655 | Avg score  44.7 | Record  128 | Score  84
+TIME ELAPSED:  2528.78  s
+
+Game  656 | Avg score  47.1 | Record  128 | Score  25
+TIME ELAPSED:  2532.13  s
+
+Game  657 | Avg score  58.0 | Record  128 | Score  23
+TIME ELAPSED:  2535.93  s
+
+Game  658 | Avg score  66.9 | Record  128 | Score  80
+TIME ELAPSED:  2542.95  s
+
+Game  659 | Avg score  6.7 | Record  128 | Score  49
+TIME ELAPSED:  2545.82  s
+
+Game  660 | Avg score  51.7 | Record  128 | Score  0
+TIME ELAPSED:  2548.51  s
+
+Game  661 | Avg score  47.3 | Record  128 | Score  35
+TIME ELAPSED:  2552.48  s
+
+Game  662 | Avg score  58.4 | Record  128 | Score  104
+TIME ELAPSED:  2559.74  s
+
+Game  663 | Avg score  6.1 | Record  128 | Score  104
+TIME ELAPSED:  2564.97  s
+
+Game  664 | Avg score  61.2 | Record  128 | Score  57
+TIME ELAPSED:  2570.63  s
+
+Game  665 | Avg score  74.8 | Record  128 | Score  7
+TIME ELAPSED:  2574.67  s
+
+Game  666 | Avg score  50.5 | Record  128 | Score  85
+TIME ELAPSED:  2580.98  s
+
+Game  667 | Avg score  77.8 | Record  128 | Score  76
+TIME ELAPSED:  2588.33  s
+
+Game  668 | Avg score  79.1 | Record  128 | Score  78
+TIME ELAPSED:  2595.92  s
+
+Game  669 | Avg score  64.3 | Record  128 | Score  52
+TIME ELAPSED:  2601.22  s
+
+Game  670 | Avg score  62.7 | Record  128 | Score  68
+TIME ELAPSED:  2607.05  s
+
+Game  671 | Avg score  58.3 | Record  128 | Score  45
+TIME ELAPSED:  2611.88  s
+
+Game  672 | Avg score  69.0 | Record  128 | Score  72
+TIME ELAPSED:  2618.63  s
+
+Game  673 | Avg score  65.9 | Record  128 | Score  65
+TIME ELAPSED:  2624.62  s
+
+Game  674 | Avg score  66.5 | Record  128 | Score  66
+TIME ELAPSED:  2631.19  s
+
+Game  675 | Avg score  52.0 | Record  128 | Score  28
+TIME ELAPSED:  2634.88  s
+
+Game  676 | Avg score  65.4 | Record  128 | Score  24
+TIME ELAPSED:  2639.42  s
+
+Game  677 | Avg score  43.3 | Record  128 | Score  71
+TIME ELAPSED:  2644.37  s
+
+Game  678 | Avg score  48.7 | Record  128 | Score  55
+TIME ELAPSED:  2648.8  s
+
+Game  679 | Avg score  2.2 | Record  128 | Score  39
+TIME ELAPSED:  2650.93  s
+
+Game  680 | Avg score  1.6 | Record  128 | Score  1
+TIME ELAPSED:  2651.48  s
+
+Game  681 | Avg score  62.2 | Record  128 | Score  98
+TIME ELAPSED:  2659.1  s
+
+Game  682 | Avg score  65.5 | Record  128 | Score  33
+TIME ELAPSED:  2663.94  s
+
+Game  683 | Avg score  60.2 | Record  128 | Score  51
+TIME ELAPSED:  2669.15  s
+
+Game  684 | Avg score  40.5 | Record  128 | Score  53
+TIME ELAPSED:  2673.46  s
+
+Game  685 | Avg score  42.8 | Record  128 | Score  39
+TIME ELAPSED:  2677.02  s
+
+Game  686 | Avg score  75.4 | Record  128 | Score  3
+TIME ELAPSED:  2681.17  s
+
+Game  687 | Avg score  74.2 | Record  128 | Score  78
+TIME ELAPSED:  2688.66  s
+
+Game  688 | Avg score  49.9 | Record  128 | Score  41
+TIME ELAPSED:  2693.14  s
+
+Game  689 | Avg score  53.7 | Record  128 | Score  49
+TIME ELAPSED:  2697.82  s
+
+Game  690 | Avg score  52.6 | Record  128 | Score  41
+TIME ELAPSED:  2702.05  s
+
+Game  691 | Avg score  49.8 | Record  128 | Score  12
+TIME ELAPSED:  2705.11  s
+
+Game  692 | Avg score  49.8 | Record  128 | Score  4
+TIME ELAPSED:  2708.0  s
+
+Game  693 | Avg score  31.3 | Record  128 | Score  58
+TIME ELAPSED:  2712.23  s
+
+Game  694 | Avg score  53.5 | Record  128 | Score  56
+TIME ELAPSED:  2717.4  s
+
+Game  695 | Avg score  39.0 | Record  128 | Score  45
+TIME ELAPSED:  2721.4  s
+
+Game  696 | Avg score  47.2 | Record  128 | Score  69
+TIME ELAPSED:  2726.68  s
+
+Game  697 | Avg score  55.6 | Record  128 | Score  71
+TIME ELAPSED:  2732.12  s
+
+Game  698 | Avg score  65.2 | Record  128 | Score  51
+TIME ELAPSED:  2737.55  s
+
+Game  699 | Avg score  78.4 | Record  128 | Score  29
+TIME ELAPSED:  2742.74  s
+
+Game  700 | Avg score  51.9 | Record  128 | Score  49
+TIME ELAPSED:  2747.58  s
+
+Game  701 | Avg score  61.5 | Record  128 | Score  79
+TIME ELAPSED:  2753.73  s
+
+Game  702 | Avg score  36.4 | Record  128 | Score  69
+TIME ELAPSED:  2758.44  s
+
+Game  703 | Avg score  57.3 | Record  128 | Score  31
+TIME ELAPSED:  2763.09  s
+
+Game  704 | Avg score  42.3 | Record  128 | Score  62
+TIME ELAPSED:  2767.91  s
+
+Game  705 | Avg score  39.3 | Record  128 | Score  40
+TIME ELAPSED:  2771.7  s
+
+Game  706 | Avg score  45.9 | Record  128 | Score  72
+TIME ELAPSED:  2777.15  s
+
+Game  707 | Avg score  54.8 | Record  128 | Score  43
+TIME ELAPSED:  2781.68  s
+
+Game  708 | Avg score  52.3 | Record  128 | Score  15
+TIME ELAPSED:  2784.94  s
+
+Game  709 | Avg score  58.8 | Record  128 | Score  40
+TIME ELAPSED:  2789.56  s
+
+Game  710 | Avg score  27.8 | Record  128 | Score  28
+TIME ELAPSED:  2792.19  s
+
+Game  711 | Avg score  56.9 | Record  128 | Score  52
+TIME ELAPSED:  2797.26  s
+
+Game  712 | Avg score  79.1 | Record  128 | Score  35
+TIME ELAPSED:  2803.08  s
+
+Game  713 | Avg score  57.7 | Record  128 | Score  73
+TIME ELAPSED:  2809.2  s
+
+Game  714 | Avg score  50.9 | Record  128 | Score  33
+TIME ELAPSED:  2813.22  s
+
+Game  715 | Avg score  48.5 | Record  128 | Score  76
+TIME ELAPSED:  2819.23  s
+
+Game  716 | Avg score  60.2 | Record  128 | Score  27
+TIME ELAPSED:  2823.47  s
+
+Game  717 | Avg score  4.3 | Record  128 | Score  54
+TIME ELAPSED:  2826.25  s
+
+Game  718 | Avg score  78.4 | Record  128 | Score  118
+TIME ELAPSED:  2835.84  s
+
+Game  719 | Avg score  57.4 | Record  128 | Score  106
+TIME ELAPSED:  2844.24  s
+
+Game  720 | Avg score  81.2 | Record  128 | Score  57
+TIME ELAPSED:  2850.83  s
+
+Game  721 | Avg score  6.4 | Record  128 | Score  27
+TIME ELAPSED:  2852.79  s
+
+Game  722 | Avg score  5.6 | Record  128 | Score  3
+TIME ELAPSED:  2853.55  s
+
+Game  723 | Avg score  47.4 | Record  128 | Score  41
+TIME ELAPSED:  2857.45  s
+
+Game  724 | Avg score  55.0 | Record  128 | Score  44
+TIME ELAPSED:  2861.94  s
+
+Game  725 | Avg score  39.5 | Record  128 | Score  59
+TIME ELAPSED:  2866.71  s
+
+Game  726 | Avg score  61.3 | Record  128 | Score  44
+TIME ELAPSED:  2871.95  s
+
+Game  727 | Avg score  64.4 | Record  128 | Score  83
+TIME ELAPSED:  2878.3  s
+
+Game  728 | Avg score  57.8 | Record  128 | Score  112
+TIME ELAPSED:  2886.07  s
+
+Game  729 | Avg score  58.4 | Record  128 | Score  48
+TIME ELAPSED:  2890.84  s
+
+Game  730 | Avg score  50.8 | Record  128 | Score  34
+TIME ELAPSED:  2894.67  s
+
+Game  731 | Avg score  74.8 | Record  128 | Score  69
+TIME ELAPSED:  2902.12  s
+
+Game  732 | Avg score  67.3 | Record  128 | Score  51
+TIME ELAPSED:  2907.45  s
+
+Game  733 | Avg score  58.0 | Record  128 | Score  76
+TIME ELAPSED:  2913.91  s
+
+Game  734 | Avg score  2.6 | Record  128 | Score  2
+TIME ELAPSED:  2914.83  s
+
+Game  735 | Avg score  50.4 | Record  128 | Score  37
+TIME ELAPSED:  2918.71  s
+
+Game  736 | Avg score  74.3 | Record  128 | Score  22
+TIME ELAPSED:  2923.31  s
+
+Game  737 | Avg score  52.5 | Record  128 | Score  47
+TIME ELAPSED:  2928.1  s
+
+Game  738 | Avg score  42.3 | Record  128 | Score  32
+TIME ELAPSED:  2931.85  s
+
+Game  739 | Avg score  68.8 | Record  128 | Score  29
+TIME ELAPSED:  2936.5  s
+
+Game  740 | Avg score  61.0 | Record  128 | Score  55
+TIME ELAPSED:  2941.57  s
+
+Game  741 | Avg score  2.6 | Record  128 | Score  16
+TIME ELAPSED:  2942.72  s
+
+Game  742 | Avg score  48.0 | Record  128 | Score  29
+TIME ELAPSED:  2946.22  s
+
+Game  743 | Avg score  48.6 | Record  128 | Score  74
+TIME ELAPSED:  2951.87  s
+
+Game  744 | Avg score  42.8 | Record  128 | Score  58
+TIME ELAPSED:  2956.23  s
+
+Game  745 | Avg score  64.5 | Record  128 | Score  15
+TIME ELAPSED:  2960.09  s
+
+Game  746 | Avg score  49.3 | Record  128 | Score  85
+TIME ELAPSED:  2966.33  s
+
+Game  747 | Avg score  76.1 | Record  128 | Score  63
+TIME ELAPSED:  2972.97  s
+
+Game  748 | Avg score  50.2 | Record  128 | Score  91
+TIME ELAPSED:  2979.61  s
+
+Game  749 | Avg score  54.9 | Record  128 | Score  64
+TIME ELAPSED:  2984.9  s
+
+Game  750 | Avg score  52.3 | Record  128 | Score  22
+TIME ELAPSED:  2988.33  s
+
+Game  751 | Avg score  44.8 | Record  128 | Score  38
+TIME ELAPSED:  2992.07  s
+
+Game  752 | Avg score  54.4 | Record  128 | Score  61
+TIME ELAPSED:  2997.46  s
+
+Game  753 | Avg score  53.2 | Record  128 | Score  25
+TIME ELAPSED:  3001.0  s
+
+Game  754 | Avg score  77.7 | Record  128 | Score  66
+TIME ELAPSED:  3007.48  s
+
+Game  755 | Avg score  56.8 | Record  128 | Score  84
+TIME ELAPSED:  3013.87  s
+
+Game  756 | Avg score  69.2 | Record  128 | Score  36
+TIME ELAPSED:  3018.81  s
+
+Game  757 | Avg score  41.8 | Record  128 | Score  64
+TIME ELAPSED:  3023.63  s
+
+Game  758 | Avg score  46.8 | Record  128 | Score  16
+TIME ELAPSED:  3026.59  s
+
+Game  759 | Avg score  65.0 | Record  128 | Score  36
+TIME ELAPSED:  3031.32  s
+
+Game  760 | Avg score  70.0 | Record  128 | Score  58
+TIME ELAPSED:  3037.41  s
+
+Game  761 | Avg score  48.8 | Record  128 | Score  61
+TIME ELAPSED:  3042.46  s
+
+Game  762 | Avg score  73.5 | Record  128 | Score  12
+TIME ELAPSED:  3046.81  s
+
+Game  763 | Avg score  48.5 | Record  128 | Score  46
+TIME ELAPSED:  3051.07  s
+
+Game  764 | Avg score  70.4 | Record  128 | Score  72
+TIME ELAPSED:  3057.37  s
+
+Game  765 | Avg score  64.8 | Record  128 | Score  59
+TIME ELAPSED:  3062.94  s
+
+Game  766 | Avg score  51.1 | Record  128 | Score  41
+TIME ELAPSED:  3067.27  s
+
+Game  767 | Avg score  55.8 | Record  128 | Score  48
+TIME ELAPSED:  3072.08  s
+
+Game  768 | Avg score  84.2 | Record  128 | Score  41
+TIME ELAPSED:  3077.98  s
+
+Game  769 | Avg score  62.2 | Record  128 | Score  51
+TIME ELAPSED:  3082.93  s
+
+Game  770 | Avg score  53.5 | Record  128 | Score  40
+TIME ELAPSED:  3086.98  s
+
+Game  771 | Avg score  57.6 | Record  128 | Score  78
+TIME ELAPSED:  3093.37  s
+
+Game  772 | Avg score  48.6 | Record  128 | Score  64
+TIME ELAPSED:  3098.45  s
+
+Game  773 | Avg score  62.7 | Record  128 | Score  19
+TIME ELAPSED:  3102.04  s
+
+Game  774 | Avg score  52.0 | Record  128 | Score  38
+TIME ELAPSED:  3106.18  s
+
+Game  775 | Avg score  9.0 | Record  128 | Score  2
+TIME ELAPSED:  3107.13  s
+
+Game  776 | Avg score  3.4 | Record  128 | Score  45
+TIME ELAPSED:  3109.48  s
+
+Game  777 | Avg score  79.2 | Record  128 | Score  75
+TIME ELAPSED:  3116.98  s
+
+Game  778 | Avg score  49.6 | Record  128 | Score  49
+TIME ELAPSED:  3121.56  s
+
+Game  779 | Avg score  50.9 | Record  128 | Score  51
+TIME ELAPSED:  3126.28  s
+
+Game  780 | Avg score  47.3 | Record  128 | Score  45
+TIME ELAPSED:  3130.51  s
+
+Game  781 | Avg score  45.3 | Record  128 | Score  62
+TIME ELAPSED:  3135.51  s
+
+Game  782 | Avg score  34.1 | Record  128 | Score  21
+TIME ELAPSED:  3138.18  s
+
+Game  783 | Avg score  33.1 | Record  128 | Score  52
+TIME ELAPSED:  3141.92  s
+
+Game  784 | Avg score  43.0 | Record  128 | Score  8
+TIME ELAPSED:  3144.42  s
+
+Game  785 | Avg score  56.3 | Record  128 | Score  54
+TIME ELAPSED:  3149.48  s
+
+Game  786 | Avg score  49.0 | Record  128 | Score  60
+TIME ELAPSED:  3154.53  s
+
+Game  787 | Avg score  51.5 | Record  128 | Score  28
+TIME ELAPSED:  3158.09  s
+
+Game  788 | Avg score  48.6 | Record  128 | Score  26
+TIME ELAPSED:  3161.61  s
+
+Game  789 | Avg score  50.3 | Record  128 | Score  59
+TIME ELAPSED:  3166.65  s
+
+Game  790 | Avg score  65.4 | Record  128 | Score  97
+TIME ELAPSED:  3173.88  s
+
+Game  791 | Avg score  32.4 | Record  128 | Score  35
+TIME ELAPSED:  3177.08  s
+
+Game  792 | Avg score  69.2 | Record  128 | Score  23
+TIME ELAPSED:  3181.62  s
+
+Game  793 | Avg score  47.9 | Record  128 | Score  58
+TIME ELAPSED:  3186.98  s
+
+Game  794 | Avg score  69.8 | Record  128 | Score  45
+TIME ELAPSED:  3192.17  s
+
+Game  795 | Avg score  38.6 | Record  128 | Score  42
+TIME ELAPSED:  3195.84  s
+
+Game  796 | Avg score  45.1 | Record  128 | Score  57
+TIME ELAPSED:  3200.56  s
+
+Game  797 | Avg score  60.0 | Record  128 | Score  49
+TIME ELAPSED:  3205.75  s
+
+Game  798 | Avg score  57.8 | Record  128 | Score  60
+TIME ELAPSED:  3211.26  s
+
+Game  799 | Avg score  75.3 | Record  128 | Score  67
+TIME ELAPSED:  3217.63  s
+
+Game  800 | Avg score  54.0 | Record  128 | Score  73
+TIME ELAPSED:  3223.16  s
+
+Game  801 | Avg score  49.7 | Record  128 | Score  36
+TIME ELAPSED:  3227.14  s
+
+Game  802 | Avg score  50.8 | Record  128 | Score  67
+TIME ELAPSED:  3232.52  s
+
+Game  803 | Avg score  60.3 | Record  128 | Score  24
+TIME ELAPSED:  3236.28  s
+
+Game  804 | Avg score  57.7 | Record  128 | Score  18
+TIME ELAPSED:  3239.9  s
+
+Game  805 | Avg score  47.8 | Record  128 | Score  49
+TIME ELAPSED:  3244.47  s
+
+Game  806 | Avg score  54.4 | Record  128 | Score  59
+TIME ELAPSED:  3249.36  s
+
+Game  807 | Avg score  51.6 | Record  128 | Score  52
+TIME ELAPSED:  3254.06  s
+
+Game  808 | Avg score  56.4 | Record  128 | Score  33
+TIME ELAPSED:  3258.03  s
+
+Game  809 | Avg score  60.6 | Record  128 | Score  83
+TIME ELAPSED:  3264.47  s
+
+Game  810 | Avg score  46.4 | Record  128 | Score  42
+TIME ELAPSED:  3268.46  s
+
+Game  811 | Avg score  54.7 | Record  128 | Score  84
+TIME ELAPSED:  3274.72  s
+
+Game  812 | Avg score  41.8 | Record  128 | Score  43
+TIME ELAPSED:  3278.49  s
+
+Game  813 | Avg score  57.9 | Record  128 | Score  67
+TIME ELAPSED:  3283.8  s
+
+Game  814 | Avg score  66.3 | Record  128 | Score  22
+TIME ELAPSED:  3287.91  s
+
+Game  815 | Avg score  57.9 | Record  128 | Score  31
+TIME ELAPSED:  3292.0  s
+
+Game  816 | Avg score  57.3 | Record  128 | Score  55
+TIME ELAPSED:  3297.18  s
+
+Game  817 | Avg score  77.1 | Record  128 | Score  74
+TIME ELAPSED:  3303.77  s
+
+Game  818 | Avg score  49.6 | Record  128 | Score  66
+TIME ELAPSED:  3308.95  s
+
+Game  819 | Avg score  43.8 | Record  128 | Score  48
+TIME ELAPSED:  3313.09  s
+
+Game  820 | Avg score  53.2 | Record  128 | Score  90
+TIME ELAPSED:  3319.52  s
+
+Game  821 | Avg score  55.9 | Record  128 | Score  63
+TIME ELAPSED:  3325.04  s
+
+Game  822 | Avg score  58.2 | Record  128 | Score  67
+TIME ELAPSED:  3330.27  s
+
+Game  823 | Avg score  57.9 | Record  128 | Score  53
+TIME ELAPSED:  3335.16  s
+
+Game  824 | Avg score  53.2 | Record  128 | Score  73
+TIME ELAPSED:  3340.95  s
+
+Game  825 | Avg score  44.8 | Record  128 | Score  63
+TIME ELAPSED:  3345.63  s
+
+Game  826 | Avg score  42.1 | Record  128 | Score  35
+TIME ELAPSED:  3348.98  s
+
+Game  827 | Avg score  43.0 | Record  128 | Score  33
+TIME ELAPSED:  3352.5  s
+
+Game  828 | Avg score  56.7 | Record  128 | Score  66
+TIME ELAPSED:  3357.97  s
+
+Game  829 | Avg score  53.2 | Record  128 | Score  32
+TIME ELAPSED:  3361.77  s
+
+Game  830 | Avg score  33.0 | Record  128 | Score  49
+TIME ELAPSED:  3365.82  s
+
+Game  831 | Avg score  63.5 | Record  128 | Score  32
+TIME ELAPSED:  3370.58  s
+
+Game  832 | Avg score  67.1 | Record  128 | Score  23
+TIME ELAPSED:  3374.9  s
+
+Game  833 | Avg score  54.8 | Record  128 | Score  6
+TIME ELAPSED:  3377.92  s
+
+Game  834 | Avg score  68.2 | Record  128 | Score  70
+TIME ELAPSED:  3384.19  s
+
+Game  835 | Avg score  58.3 | Record  128 | Score  107
+TIME ELAPSED:  3392.14  s
+
+Game  836 | Avg score  56.4 | Record  128 | Score  26
+TIME ELAPSED:  3396.21  s
+
+Game  837 | Avg score  66.2 | Record  128 | Score  42
+TIME ELAPSED:  3400.98  s
+
+Game  838 | Avg score  6.7 | Record  128 | Score  56
+TIME ELAPSED:  3403.45  s
+
+Game  839 | Avg score  52.4 | Record  128 | Score  66
+TIME ELAPSED:  3408.69  s
+
+Game  840 | Avg score  56.8 | Record  128 | Score  41
+TIME ELAPSED:  3413.15  s
+
+Game  841 | Avg score  44.1 | Record  128 | Score  57
+TIME ELAPSED:  3417.47  s
+
+Game  842 | Avg score  60.3 | Record  128 | Score  1
+TIME ELAPSED:  3420.79  s
+
+Game  843 | Avg score  49.3 | Record  128 | Score  9
+TIME ELAPSED:  3423.65  s
+
+Game  844 | Avg score  61.4 | Record  128 | Score  53
+TIME ELAPSED:  3428.56  s
+
+Game  845 | Avg score  52.7 | Record  128 | Score  74
+TIME ELAPSED:  3434.0  s
+
+Game  846 | Avg score  53.1 | Record  128 | Score  26
+TIME ELAPSED:  3437.94  s
+
+Game  847 | Avg score  59.0 | Record  128 | Score  36
+TIME ELAPSED:  3442.35  s
+
+Game  848 | Avg score  56.0 | Record  128 | Score  40
+TIME ELAPSED:  3446.77  s
+
+Game  849 | Avg score  58.8 | Record  128 | Score  20
+TIME ELAPSED:  3450.46  s
+
+Game  850 | Avg score  42.9 | Record  128 | Score  21
+TIME ELAPSED:  3453.59  s
+
+Game  851 | Avg score  47.0 | Record  128 | Score  107
+TIME ELAPSED:  3460.38  s
+
+Game  852 | Avg score  45.1 | Record  128 | Score  88
+TIME ELAPSED:  3466.57  s
+
+Game  853 | Avg score  43.7 | Record  128 | Score  66
+TIME ELAPSED:  3471.38  s
+
+Game  854 | Avg score  63.3 | Record  128 | Score  2
+TIME ELAPSED:  3474.5  s
+
+Game  855 | Avg score  51.9 | Record  128 | Score  82
+TIME ELAPSED:  3480.6  s
+
+Game  856 | Avg score  53.3 | Record  128 | Score  33
+TIME ELAPSED:  3484.82  s
+
+Game  857 | Avg score  48.9 | Record  128 | Score  38
+TIME ELAPSED:  3488.77  s
+
+Game  858 | Avg score  45.9 | Record  128 | Score  32
+TIME ELAPSED:  3492.38  s
+
+Game  859 | Avg score  33.6 | Record  128 | Score  60
+TIME ELAPSED:  3496.69  s
+
+Game  860 | Avg score  46.5 | Record  128 | Score  37
+TIME ELAPSED:  3500.5  s
+
+Game  861 | Avg score  57.7 | Record  128 | Score  36
+TIME ELAPSED:  3504.77  s
+
+Game  862 | Avg score  63.1 | Record  128 | Score  42
+TIME ELAPSED:  3509.31  s
+
+Game  863 | Avg score  66.4 | Record  128 | Score  48
+TIME ELAPSED:  3514.43  s
+
+Game  864 | Avg score  70.0 | Record  128 | Score  43
+TIME ELAPSED:  3519.69  s
+
+Game  865 | Avg score  50.8 | Record  128 | Score  38
+TIME ELAPSED:  3523.72  s
+
+Game  866 | Avg score  51.2 | Record  128 | Score  74
+TIME ELAPSED:  3529.6  s
+
+Game  867 | Avg score  46.9 | Record  128 | Score  7
+TIME ELAPSED:  3532.26  s
+
+Game  868 | Avg score  56.2 | Record  128 | Score  39
+TIME ELAPSED:  3536.65  s
+
+Game  869 | Avg score  59.0 | Record  128 | Score  44
+TIME ELAPSED:  3541.51  s
+
+Game  870 | Avg score  63.2 | Record  128 | Score  51
+TIME ELAPSED:  3546.85  s
+
+Game  871 | Avg score  67.8 | Record  128 | Score  89
+TIME ELAPSED:  3554.43  s
+
+Game  872 | Avg score  77.9 | Record  128 | Score  51
+TIME ELAPSED:  3560.58  s
+
+Game  873 | Avg score  62.7 | Record  128 | Score  77
+TIME ELAPSED:  3567.39  s
+
+Game  874 | Avg score  65.5 | Record  128 | Score  45
+TIME ELAPSED:  3572.67  s
+
+Game  875 | Avg score  54.2 | Record  128 | Score  55
+TIME ELAPSED:  3577.67  s
+
+Game  876 | Avg score  55.0 | Record  128 | Score  58
+TIME ELAPSED:  3582.74  s
+
+Game  877 | Avg score  36.3 | Record  128 | Score  28
+TIME ELAPSED:  3585.38  s
+
+Game  878 | Avg score  57.1 | Record  128 | Score  45
+TIME ELAPSED:  3589.9  s
+
+Game  879 | Avg score  45.5 | Record  128 | Score  60
+TIME ELAPSED:  3594.9  s
+
+Game  880 | Avg score  61.3 | Record  128 | Score  34
+TIME ELAPSED:  3598.99  s
+
+Game  881 | Avg score  64.3 | Record  128 | Score  31
+TIME ELAPSED:  3603.49  s
+
+Game  882 | Avg score  44.9 | Record  128 | Score  88
+TIME ELAPSED:  3609.22  s
+
+Game  883 | Avg score  56.3 | Record  128 | Score  52
+TIME ELAPSED:  3614.04  s
+
+Game  884 | Avg score  48.6 | Record  128 | Score  25
+TIME ELAPSED:  3617.57  s
+
+Game  885 | Avg score  47.3 | Record  128 | Score  42
+TIME ELAPSED:  3621.78  s
+
+Game  886 | Avg score  52.0 | Record  128 | Score  97
+TIME ELAPSED:  3628.53  s
+
+Game  887 | Avg score  57.5 | Record  128 | Score  79
+TIME ELAPSED:  3634.77  s
+
+Game  888 | Avg score  56.4 | Record  128 | Score  73
+TIME ELAPSED:  3640.6  s
+
+Game  889 | Avg score  54.3 | Record  128 | Score  75
+TIME ELAPSED:  3646.46  s
+
+Game  890 | Avg score  9.2 | Record  128 | Score  104
+TIME ELAPSED:  3651.63  s
+
+Game  891 | Avg score  36.2 | Record  128 | Score  56
+TIME ELAPSED:  3655.81  s
+
+Game  892 | Avg score  56.1 | Record  128 | Score  60
+TIME ELAPSED:  3661.13  s
+
+Game  893 | Avg score  63.2 | Record  128 | Score  102
+TIME ELAPSED:  3668.45  s
+
+Game  894 | Avg score  53.0 | Record  128 | Score  48
+TIME ELAPSED:  3672.95  s
+
+Game  895 | Avg score  51.4 | Record  128 | Score  27
+TIME ELAPSED:  3676.43  s
+
+Game  896 | Avg score  53.3 | Record  128 | Score  29
+TIME ELAPSED:  3679.92  s
+
+Game  897 | Avg score  48.7 | Record  128 | Score  32
+TIME ELAPSED:  3683.68  s
+
+Game  898 | Avg score  52.7 | Record  128 | Score  17
+TIME ELAPSED:  3686.96  s
+
+Game  899 | Avg score  61.1 | Record  128 | Score  75
+TIME ELAPSED:  3693.09  s
+
+Game  900 | Avg score  48.0 | Record  128 | Score  55
+TIME ELAPSED:  3697.66  s
+
+Game  901 | Avg score  36.6 | Record  128 | Score  7
+TIME ELAPSED:  3699.89  s
+
+Game  902 | Avg score  42.5 | Record  128 | Score  54
+TIME ELAPSED:  3704.21  s
+
+Game  903 | Avg score  62.4 | Record  128 | Score  69
+TIME ELAPSED:  3709.99  s
+
+Game  904 | Avg score  41.8 | Record  128 | Score  18
+TIME ELAPSED:  3712.66  s
+
+Game  905 | Avg score  49.0 | Record  128 | Score  17
+TIME ELAPSED:  3715.75  s
+
+Game  906 | Avg score  37.1 | Record  128 | Score  67
+TIME ELAPSED:  3720.62  s
+
+Game  907 | Avg score  36.8 | Record  128 | Score  61
+TIME ELAPSED:  3725.21  s
+
+Game  908 | Avg score  48.8 | Record  128 | Score  2
+TIME ELAPSED:  3727.84  s
+
+Game  909 | Avg score  71.4 | Record  128 | Score  33
+TIME ELAPSED:  3732.68  s
+
+Game  910 | Avg score  53.1 | Record  128 | Score  40
+TIME ELAPSED:  3737.24  s
+
+Game  911 | Avg score  41.7 | Record  128 | Score  49
+TIME ELAPSED:  3741.3  s
+
+Game  912 | Avg score  35.2 | Record  128 | Score  53
+TIME ELAPSED:  3745.12  s
+
+Game  913 | Avg score  32.7 | Record  128 | Score  21
+TIME ELAPSED:  3747.74  s
+
+Game  914 | Avg score  17.4 | Record  128 | Score  29
+TIME ELAPSED:  3749.95  s
+
+Game  915 | Avg score  45.8 | Record  128 | Score  4
+TIME ELAPSED:  3752.42  s
+
+Game  916 | Avg score  34.6 | Record  128 | Score  71
+TIME ELAPSED:  3757.55  s
+
+Game  917 | Avg score  31.5 | Record  128 | Score  19
+TIME ELAPSED:  3759.86  s
+
+Game  918 | Avg score  45.4 | Record  128 | Score  29
+TIME ELAPSED:  3763.19  s
+
+Game  919 | Avg score  39.4 | Record  128 | Score  10
+TIME ELAPSED:  3765.7  s
+
+Game  920 | Avg score  52.1 | Record  128 | Score  103
+TIME ELAPSED:  3773.15  s
+
+Game  921 | Avg score  61.7 | Record  128 | Score  72
+TIME ELAPSED:  3779.16  s
+
+Game  922 | Avg score  58.8 | Record  128 | Score  5
+TIME ELAPSED:  3782.24  s
+
+Game  923 | Avg score  50.3 | Record  128 | Score  41
+TIME ELAPSED:  3786.56  s
+
+Game  924 | Avg score  49.0 | Record  128 | Score  61
+TIME ELAPSED:  3791.54  s
+
+Game  925 | Avg score  52.3 | Record  128 | Score  105
+TIME ELAPSED:  3799.07  s
+
+Game  926 | Avg score  57.9 | Record  128 | Score  95
+TIME ELAPSED:  3806.05  s
+
+Game  927 | Avg score  49.3 | Record  128 | Score  49
+TIME ELAPSED:  3810.59  s
+
+Game  928 | Avg score  62.9 | Record  128 | Score  47
+TIME ELAPSED:  3815.96  s
+
+Game  929 | Avg score  55.9 | Record  128 | Score  125
+TIME ELAPSED:  3825.22  s
+
+Game  930 | Avg score  47.6 | Record  128 | Score  54
+TIME ELAPSED:  3830.3  s
+
+Game  931 | Avg score  51.0 | Record  128 | Score  58
+TIME ELAPSED:  3835.08  s
+
+Game  932 | Avg score  58.5 | Record  128 | Score  63
+TIME ELAPSED:  3840.47  s
+
+Game  933 | Avg score  16.3 | Record  128 | Score  84
+TIME ELAPSED:  3844.95  s
+
+Game  934 | Avg score  62.0 | Record  128 | Score  61
+TIME ELAPSED:  3850.53  s
+
+Game  935 | Avg score  66.4 | Record  128 | Score  51
+TIME ELAPSED:  3855.9  s
+
+Game  936 | Avg score  56.1 | Record  128 | Score  63
+TIME ELAPSED:  3861.46  s
+
+Game  937 | Avg score  57.4 | Record  128 | Score  48
+TIME ELAPSED:  3866.09  s
+
+Game  938 | Avg score  54.9 | Record  128 | Score  35
+TIME ELAPSED:  3869.92  s
+
+Game  939 | Avg score  55.3 | Record  128 | Score  43
+TIME ELAPSED:  3874.45  s
+
+Game  940 | Avg score  55.6 | Record  128 | Score  58
+TIME ELAPSED:  3879.7  s
+
+Game  941 | Avg score  62.1 | Record  128 | Score  55
+TIME ELAPSED:  3884.91  s
+
+Game  942 | Avg score  35.6 | Record  128 | Score  45
+TIME ELAPSED:  3888.42  s
+
+Game  943 | Avg score  40.2 | Record  128 | Score  4
+TIME ELAPSED:  3890.86  s
+
+Game  944 | Avg score  48.0 | Record  128 | Score  33
+TIME ELAPSED:  3894.5  s
+
+Game  945 | Avg score  54.0 | Record  128 | Score  71
+TIME ELAPSED:  3900.2  s
+
+Game  946 | Avg score  62.5 | Record  128 | Score  15
+TIME ELAPSED:  3903.92  s
+
+Game  947 | Avg score  60.6 | Record  128 | Score  3
+TIME ELAPSED:  3907.17  s
+
+Game  948 | Avg score  54.4 | Record  128 | Score  64
+TIME ELAPSED:  3912.47  s
+
+Game  949 | Avg score  64.2 | Record  128 | Score  20
+TIME ELAPSED:  3916.81  s
+
+Game  950 | Avg score  54.2 | Record  128 | Score  4
+TIME ELAPSED:  3919.62  s
+
+Game  951 | Avg score  58.4 | Record  128 | Score  34
+TIME ELAPSED:  3923.69  s
+
+Game  952 | Avg score  39.1 | Record  128 | Score  55
+TIME ELAPSED:  3928.04  s
+
+Game  953 | Avg score  47.7 | Record  128 | Score  7
+TIME ELAPSED:  3931.19  s
+
+Game  954 | Avg score  56.0 | Record  128 | Score  40
+TIME ELAPSED:  3935.81  s
+
+Game  955 | Avg score  53.1 | Record  128 | Score  39
+TIME ELAPSED:  3940.03  s
+
+Game  956 | Avg score  61.4 | Record  128 | Score  48
+TIME ELAPSED:  3945.19  s
+
+Game  957 | Avg score  52.6 | Record  128 | Score  42
+TIME ELAPSED:  3949.61  s
+
+Game  958 | Avg score  51.5 | Record  128 | Score  4
+TIME ELAPSED:  3952.45  s
+
+Game  959 | Avg score  41.9 | Record  128 | Score  45
+TIME ELAPSED:  3956.24  s
+
+Game  960 | Avg score  51.4 | Record  128 | Score  4
+TIME ELAPSED:  3959.06  s
+
+Game  961 | Avg score  57.6 | Record  128 | Score  24
+TIME ELAPSED:  3962.92  s
+
+Game  962 | Avg score  53.5 | Record  128 | Score  39
+TIME ELAPSED:  3967.19  s
+
+Game  963 | Avg score  62.8 | Record  128 | Score  85
+TIME ELAPSED:  3973.89  s
+
+Game  964 | Avg score  59.3 | Record  128 | Score  56
+TIME ELAPSED:  3978.79  s
+
+Game  965 | Avg score  52.3 | Record  128 | Score  39
+TIME ELAPSED:  3983.07  s
+
+Game  966 | Avg score  64.6 | Record  128 | Score  55
+TIME ELAPSED:  3988.6  s
+
+Game  967 | Avg score  42.8 | Record  128 | Score  19
+TIME ELAPSED:  3991.41  s
+
+Game  968 | Avg score  45.2 | Record  128 | Score  101
+TIME ELAPSED:  3998.06  s
+
+Game  969 | Avg score  54.3 | Record  128 | Score  36
+TIME ELAPSED:  4002.0  s
+
+Game  970 | Avg score  63.6 | Record  128 | Score  62
+TIME ELAPSED:  4007.94  s
+
+Game  971 | Avg score  47.2 | Record  128 | Score  91
+TIME ELAPSED:  4014.27  s
+
+Game  972 | Avg score  61.2 | Record  128 | Score  22
+TIME ELAPSED:  4018.24  s
+
+Game  973 | Avg score  53.2 | Record  128 | Score  33
+TIME ELAPSED:  4022.29  s
+
+Game  974 | Avg score  46.2 | Record  128 | Score  51
+TIME ELAPSED:  4026.95  s
+
+Game  975 | Avg score  81.0 | Record  128 | Score  124
+TIME ELAPSED:  4036.28  s
+
+Game  976 | Avg score  63.6 | Record  128 | Score  91
+TIME ELAPSED:  4043.2  s
+
+Game  977 | Avg score  67.2 | Record  128 | Score  74
+TIME ELAPSED:  4049.47  s
+
+Game  978 | Avg score  56.5 | Record  128 | Score  50
+TIME ELAPSED:  4054.46  s
+
+Game  979 | Avg score  58.4 | Record  128 | Score  44
+TIME ELAPSED:  4059.08  s
+
+Game  980 | Avg score  63.9 | Record  128 | Score  3
+TIME ELAPSED:  4062.53  s
+
+Game  981 | Avg score  48.5 | Record  128 | Score  45
+TIME ELAPSED:  4066.75  s
+
+Game  982 | Avg score  57.8 | Record  128 | Score  60
+TIME ELAPSED:  4072.17  s
+
+Game  983 | Avg score  66.1 | Record  128 | Score  37
+TIME ELAPSED:  4076.84  s
+
+Game  984 | Avg score  54.5 | Record  128 | Score  39
+TIME ELAPSED:  4080.98  s
+
+Game  985 | Avg score  55.5 | Record  128 | Score  54
+TIME ELAPSED:  4086.11  s
+
+Game  986 | Avg score  42.2 | Record  128 | Score  12
+TIME ELAPSED:  4088.9  s
+
+Game  987 | Avg score  55.3 | Record  128 | Score  55
+TIME ELAPSED:  4093.72  s
+
+Game  988 | Avg score  70.7 | Record  128 | Score  2
+TIME ELAPSED:  4097.74  s
+
+Game  989 | Avg score  61.0 | Record  128 | Score  90
+TIME ELAPSED:  4105.13  s
+
+Game  990 | Avg score  41.9 | Record  128 | Score  41
+TIME ELAPSED:  4109.05  s
+
+Game  991 | Avg score  56.6 | Record  128 | Score  62
+TIME ELAPSED:  4114.78  s
+
+Game  992 | Avg score  48.0 | Record  128 | Score  25
+TIME ELAPSED:  4118.32  s
+
+Game  993 | Avg score  52.2 | Record  128 | Score  66
+TIME ELAPSED:  4123.79  s
+
+Game  994 | Avg score  75.9 | Record  128 | Score  61
+TIME ELAPSED:  4130.5  s
+
+Game  995 | Avg score  77.7 | Record  128 | Score  60
+TIME ELAPSED:  4137.29  s
+
+Game  996 | Avg score  50.3 | Record  128 | Score  95
+TIME ELAPSED:  4144.01  s
+
+Game  997 | Avg score  60.5 | Record  128 | Score  77
+TIME ELAPSED:  4150.25  s
+
+Game  998 | Avg score  58.6 | Record  128 | Score  38
+TIME ELAPSED:  4154.68  s
+
+Game  999 | Avg score  55.5 | Record  128 | Score  50
+TIME ELAPSED:  4159.62  s
+
+Game  1000 | Avg score  61.3 | Record  128 | Score  35
+TIME ELAPSED:  4164.28  s
+
+Game  1001 | Avg score  46.8 | Record  128 | Score  31
+TIME ELAPSED:  4168.43  s
+
+Game  1002 | Avg score  43.9 | Record  128 | Score  102
+TIME ELAPSED:  4175.12  s
+
+Game  1003 | Avg score  64.9 | Record  128 | Score  53
+TIME ELAPSED:  4180.63  s
+
+Game  1004 | Avg score  54.3 | Record  128 | Score  64
+TIME ELAPSED:  4186.04  s
+
+Game  1005 | Avg score  6.3 | Record  128 | Score  1
+TIME ELAPSED:  4186.77  s
+
+Game  1006 | Avg score  46.2 | Record  128 | Score  80
+TIME ELAPSED:  4191.98  s
+
+Game  1007 | Avg score  51.2 | Record  128 | Score  25
+TIME ELAPSED:  4195.62  s
+
+Game  1008 | Avg score  60.1 | Record  128 | Score  29
+TIME ELAPSED:  4199.94  s
+
+Game  1009 | Avg score  66.2 | Record  128 | Score  45
+TIME ELAPSED:  4204.79  s
+
+Game  1010 | Avg score  47.0 | Record  128 | Score  4
+TIME ELAPSED:  4207.4  s
+
+Game  1011 | Avg score  56.4 | Record  128 | Score  104
+TIME ELAPSED:  4214.91  s
+
+Game  1012 | Avg score  65.9 | Record  128 | Score  87
+TIME ELAPSED:  4222.15  s
+
+Game  1013 | Avg score  72.3 | Record  128 | Score  54
+TIME ELAPSED:  4227.95  s
+
+Game  1014 | Avg score  57.7 | Record  128 | Score  66
+TIME ELAPSED:  4233.26  s
+
+Game  1015 | Avg score  52.2 | Record  128 | Score  53
+TIME ELAPSED:  4238.08  s
+
+Game  1016 | Avg score  52.7 | Record  128 | Score  34
+TIME ELAPSED:  4242.21  s
+
+Game  1017 | Avg score  56.1 | Record  128 | Score  49
+TIME ELAPSED:  4246.85  s
+
+Game  1018 | Avg score  66.8 | Record  128 | Score  63
+TIME ELAPSED:  4253.01  s
+
+Game  1019 | Avg score  60.6 | Record  128 | Score  42
+TIME ELAPSED:  4257.68  s
+
+Game  1020 | Avg score  30.7 | Record  128 | Score  23
+TIME ELAPSED:  4260.49  s
+
+Game  1021 | Avg score  54.6 | Record  128 | Score  59
+TIME ELAPSED:  4265.67  s
+
+Game  1022 | Avg score  64.4 | Record  128 | Score  76
+TIME ELAPSED:  4271.92  s
+
+Game  1023 | Avg score  62.5 | Record  128 | Score  13
+TIME ELAPSED:  4275.73  s
+
+Game  1024 | Avg score  34.5 | Record  128 | Score  40
+TIME ELAPSED:  4279.19  s
+
+Game  1025 | Avg score  51.8 | Record  128 | Score  56
+TIME ELAPSED:  4283.87  s
+
+Game  1026 | Avg score  52.0 | Record  128 | Score  32
+TIME ELAPSED:  4287.63  s
+
+Game  1027 | Avg score  37.5 | Record  128 | Score  82
+TIME ELAPSED:  4292.99  s
+
+Game  1028 | Avg score  73.7 | Record  128 | Score  35
+TIME ELAPSED:  4298.15  s
+
+Game  1029 | Avg score  52.5 | Record  128 | Score  83
+TIME ELAPSED:  4304.38  s
+
+Game  1030 | Avg score  61.3 | Record  128 | Score  28
+TIME ELAPSED:  4308.61  s
+
+Game  1031 | Avg score  65.6 | Record  128 | Score  15
+TIME ELAPSED:  4312.49  s
+
+Game  1032 | Avg score  53.0 | Record  128 | Score  100
+TIME ELAPSED:  4319.4  s
+
+Game  1033 | Avg score  67.2 | Record  128 | Score  91
+TIME ELAPSED:  4327.02  s
+
+Game  1034 | Avg score  63.9 | Record  128 | Score  66
+TIME ELAPSED:  4333.03  s
+
+Game  1035 | Avg score  47.7 | Record  128 | Score  61
+TIME ELAPSED:  4338.2  s
+
+Game  1036 | Avg score  49.4 | Record  128 | Score  68
+TIME ELAPSED:  4343.23  s
+
+Game  1037 | Avg score  59.1 | Record  128 | Score  64
+TIME ELAPSED:  4348.73  s
+
+Game  1038 | Avg score  80.2 | Record  128 | Score  94
+TIME ELAPSED:  4357.19  s
+
+Game  1039 | Avg score  52.0 | Record  128 | Score  42
+TIME ELAPSED:  4361.85  s
+
+Game  1040 | Avg score  4.2 | Record  128 | Score  42
+TIME ELAPSED:  4363.83  s
+
+Game  1041 | Avg score  55.9 | Record  128 | Score  43
+TIME ELAPSED:  4368.34  s
+
+Game  1042 | Avg score  49.4 | Record  128 | Score  30
+TIME ELAPSED:  4371.93  s
+
+Game  1043 | Avg score  57.8 | Record  128 | Score  37
+TIME ELAPSED:  4375.98  s
+
+Game  1044 | Avg score  54.8 | Record  128 | Score  68
+TIME ELAPSED:  4381.09  s
+
+Game  1045 | Avg score  55.3 | Record  128 | Score  51
+TIME ELAPSED:  4385.72  s
+
+Game  1046 | Avg score  41.3 | Record  128 | Score  44
+TIME ELAPSED:  4389.75  s
+
+Game  1047 | Avg score  57.7 | Record  128 | Score  19
+TIME ELAPSED:  4393.43  s
+
+Game  1048 | Avg score  14.1 | Record  128 | Score  66
+TIME ELAPSED:  4397.17  s
+
+Game  1049 | Avg score  10.7 | Record  128 | Score  0
+TIME ELAPSED:  4398.08  s
+
+Game  1050 | Avg score  12.8 | Record  128 | Score  0
+TIME ELAPSED:  4399.06  s
+
+Game  1051 | Avg score  48.9 | Record  128 | Score  0
+TIME ELAPSED:  4401.61  s
+
+Game  1052 | Avg score  42.8 | Record  128 | Score  56
+TIME ELAPSED:  4406.05  s
+
+Game  1053 | Avg score  67.1 | Record  128 | Score  60
+TIME ELAPSED:  4411.58  s
+
+Game  1054 | Avg score  60.4 | Record  128 | Score  53
+TIME ELAPSED:  4416.52  s
+
+Game  1055 | Avg score  82.3 | Record  128 | Score  42
+TIME ELAPSED:  4422.34  s
+
+Game  1056 | Avg score  50.4 | Record  128 | Score  19
+TIME ELAPSED:  4425.72  s
+
+Game  1057 | Avg score  50.9 | Record  128 | Score  29
+TIME ELAPSED:  4429.46  s
+
+Game  1058 | Avg score  43.7 | Record  128 | Score  26
+TIME ELAPSED:  4432.74  s
+
+Game  1059 | Avg score  61.2 | Record  128 | Score  17
+TIME ELAPSED:  4436.47  s
+
+Game  1060 | Avg score  76.5 | Record  128 | Score  33
+TIME ELAPSED:  4441.91  s
+
+Game  1061 | Avg score  9.4 | Record  128 | Score  39
+TIME ELAPSED:  4444.4  s
+
+Game  1062 | Avg score  49.5 | Record  128 | Score  18
+TIME ELAPSED:  4447.5  s
+
+Game  1063 | Avg score  49.7 | Record  128 | Score  26
+TIME ELAPSED:  4451.06  s
+
+Game  1064 | Avg score  50.8 | Record  128 | Score  73
+TIME ELAPSED:  4456.68  s
+
+Game  1065 | Avg score  59.7 | Record  128 | Score  27
+TIME ELAPSED:  4460.69  s
+
+Game  1066 | Avg score  4.9 | Record  128 | Score  64
+TIME ELAPSED:  4463.93  s
+
+Game  1067 | Avg score  47.9 | Record  128 | Score  71
+TIME ELAPSED:  4469.01  s
+
+Game  1068 | Avg score  56.0 | Record  128 | Score  61
+TIME ELAPSED:  4474.24  s
+
+Game  1069 | Avg score  62.3 | Record  128 | Score  77
+TIME ELAPSED:  4480.2  s
+
+Game  1070 | Avg score  50.8 | Record  128 | Score  63
+TIME ELAPSED:  4485.06  s
+
+Game  1071 | Avg score  41.5 | Record  128 | Score  73
+TIME ELAPSED:  4490.24  s
+
+Game  1072 | Avg score  56.0 | Record  128 | Score  0
+TIME ELAPSED:  4493.09  s
+
+Game  1073 | Avg score  56.0 | Record  128 | Score  107
+TIME ELAPSED:  4500.56  s
+
+Game  1074 | Avg score  63.3 | Record  128 | Score  46
+TIME ELAPSED:  4505.5  s
+
+Game  1075 | Avg score  58.6 | Record  128 | Score  35
+TIME ELAPSED:  4509.65  s
+
+Game  1076 | Avg score  70.3 | Record  128 | Score  8
+TIME ELAPSED:  4513.51  s
+
+Game  1077 | Avg score  2.4 | Record  128 | Score  46
+TIME ELAPSED:  4515.77  s
+
+Game  1078 | Avg score  51.1 | Record  128 | Score  0
+TIME ELAPSED:  4518.78  s
+
+Game  1079 | Avg score  65.7 | Record  128 | Score  64
+TIME ELAPSED:  4524.62  s
+
+Game  1080 | Avg score  53.2 | Record  128 | Score  5
+TIME ELAPSED:  4527.47  s
+
+Game  1081 | Avg score  59.1 | Record  128 | Score  2
+TIME ELAPSED:  4530.61  s
+
+Game  1082 | Avg score  58.2 | Record  128 | Score  67
+TIME ELAPSED:  4536.63  s
+
+Game  1083 | Avg score  43.8 | Record  128 | Score  77
+TIME ELAPSED:  4541.94  s
+
+Game  1084 | Avg score  49.4 | Record  128 | Score  76
+TIME ELAPSED:  4547.22  s
+
+Game  1085 | Avg score  50.5 | Record  128 | Score  31
+TIME ELAPSED:  4551.0  s
+
+Game  1086 | Avg score  51.6 | Record  128 | Score  23
+TIME ELAPSED:  4554.35  s
+
+Game  1087 | Avg score  64.2 | Record  128 | Score  37
+TIME ELAPSED:  4559.68  s
+
+Game  1088 | Avg score  5.1 | Record  128 | Score  1
+TIME ELAPSED:  4560.76  s
+
+Game  1089 | Avg score  67.3 | Record  128 | Score  57
+TIME ELAPSED:  4566.29  s
+
+Game  1090 | Avg score  56.7 | Record  128 | Score  56
+TIME ELAPSED:  4571.35  s
+
+Game  1091 | Avg score  36.0 | Record  128 | Score  62
+TIME ELAPSED:  4575.91  s
+
+Game  1092 | Avg score  61.5 | Record  128 | Score  67
+TIME ELAPSED:  4581.64  s
+
+Game  1093 | Avg score  52.6 | Record  128 | Score  29
+TIME ELAPSED:  4585.52  s
+
+Game  1094 | Avg score  60.1 | Record  128 | Score  31
+TIME ELAPSED:  4589.82  s
+
+Game  1095 | Avg score  58.4 | Record  128 | Score  86
+TIME ELAPSED:  4596.04  s
+
+Game  1096 | Avg score  63.2 | Record  128 | Score  27
+TIME ELAPSED:  4600.04  s
+
+Game  1097 | Avg score  35.0 | Record  128 | Score  38
+TIME ELAPSED:  4603.27  s
+
+Game  1098 | Avg score  58.7 | Record  128 | Score  118
+TIME ELAPSED:  4611.4  s
+
+Game  1099 | Avg score  48.8 | Record  128 | Score  47
+TIME ELAPSED:  4615.86  s
+
+Game  1100 | Avg score  60.9 | Record  128 | Score  54
+TIME ELAPSED:  4621.68  s
+
+Game  1101 | Avg score  53.9 | Record  128 | Score  0
+TIME ELAPSED:  4624.62  s
+
+Game  1102 | Avg score  58.7 | Record  128 | Score  13
+TIME ELAPSED:  4627.96  s
+
+Game  1103 | Avg score  12.7 | Record  128 | Score  44
+TIME ELAPSED:  4630.63  s
+
+Game  1104 | Avg score  74.7 | Record  128 | Score  7
+TIME ELAPSED:  4634.96  s
+
+Game  1105 | Avg score  71.0 | Record  128 | Score  57
+TIME ELAPSED:  4640.96  s
+
+Game  1106 | Avg score  46.5 | Record  128 | Score  20
+TIME ELAPSED:  4644.13  s
+
+Game  1107 | Avg score  59.3 | Record  128 | Score  53
+TIME ELAPSED:  4649.13  s
+
+Game  1108 | Avg score  49.8 | Record  128 | Score  53
+TIME ELAPSED:  4653.85  s
+
+Game  1109 | Avg score  6.4 | Record  128 | Score  101
+TIME ELAPSED:  4659.14  s
+
+Game  1110 | Avg score  72.7 | Record  128 | Score  0
+TIME ELAPSED:  4663.06  s
+
+Game  1111 | Avg score  70.8 | Record  128 | Score  71
+TIME ELAPSED:  4669.6  s
+
+Game  1112 | Avg score  59.9 | Record  128 | Score  77
+TIME ELAPSED:  4675.82  s
+
+Game  1113 | Avg score  58.1 | Record  128 | Score  32
+TIME ELAPSED:  4680.36  s
+
+Game  1114 | Avg score  48.0 | Record  128 | Score  25
+TIME ELAPSED:  4684.11  s
+
+Game  1115 | Avg score  41.6 | Record  128 | Score  0
+TIME ELAPSED:  4686.55  s
+
+Game  1116 | Avg score  73.8 | Record  128 | Score  67
+TIME ELAPSED:  4693.32  s
+
+Game  1117 | Avg score  56.6 | Record  128 | Score  54
+TIME ELAPSED:  4698.31  s
+
+Game  1118 | Avg score  83.1 | Record  128 | Score  39
+TIME ELAPSED:  4704.07  s
+
+Game  1119 | Avg score  54.7 | Record  128 | Score  90
+TIME ELAPSED:  4710.2  s
+
+Game  1120 | Avg score  41.3 | Record  128 | Score  15
+TIME ELAPSED:  4712.89  s
+
+Game  1121 | Avg score  66.1 | Record  128 | Score  63
+TIME ELAPSED:  4719.15  s
+
+Game  1122 | Avg score  60.3 | Record  128 | Score  21
+TIME ELAPSED:  4723.24  s
+
+Game  1123 | Avg score  61.2 | Record  128 | Score  51
+TIME ELAPSED:  4728.41  s
+
+Game  1124 | Avg score  40.3 | Record  128 | Score  119
+TIME ELAPSED:  4736.48  s
+
+Game  1125 | Avg score  57.4 | Record  128 | Score  60
+TIME ELAPSED:  4741.48  s
+
+Game  1126 | Avg score  48.1 | Record  128 | Score  46
+TIME ELAPSED:  4745.44  s
+
+Game  1127 | Avg score  48.0 | Record  128 | Score  66
+TIME ELAPSED:  4750.51  s
+
+Game  1128 | Avg score  61.0 | Record  128 | Score  27
+TIME ELAPSED:  4754.72  s
+
+Game  1129 | Avg score  51.4 | Record  128 | Score  58
+TIME ELAPSED:  4759.76  s
+
+Game  1130 | Avg score  60.7 | Record  128 | Score  114
+TIME ELAPSED:  4767.85  s
+
+Game  1131 | Avg score  52.5 | Record  128 | Score  58
+TIME ELAPSED:  4772.84  s
+
+Game  1132 | Avg score  60.4 | Record  128 | Score  23
+TIME ELAPSED:  4776.56  s
+
+Game  1133 | Avg score  52.1 | Record  128 | Score  53
+TIME ELAPSED:  4781.48  s
+
+Game  1134 | Avg score  76.7 | Record  128 | Score  74
+TIME ELAPSED:  4789.06  s
+
+Game  1135 | Avg score  57.3 | Record  128 | Score  31
+TIME ELAPSED:  4793.21  s
+
+Game  1136 | Avg score  55.0 | Record  128 | Score  52
+TIME ELAPSED:  4798.11  s
+
+Game  1137 | Avg score  51.7 | Record  128 | Score  70
+TIME ELAPSED:  4803.06  s
+
+Game  1138 | Avg score  58.1 | Record  128 | Score  41
+TIME ELAPSED:  4807.52  s
+
+Game  1139 | Avg score  64.2 | Record  128 | Score  24
+TIME ELAPSED:  4811.46  s
+
+Game  1140 | Avg score  62.6 | Record  128 | Score  53
+TIME ELAPSED:  4816.85  s
+
+Game  1141 | Avg score  51.2 | Record  128 | Score  64
+TIME ELAPSED:  4821.74  s
+
+Game  1142 | Avg score  58.5 | Record  128 | Score  60
+TIME ELAPSED:  4826.92  s
+
+Game  1143 | Avg score  55.4 | Record  128 | Score  59
+TIME ELAPSED:  4832.32  s
+
+Game  1144 | Avg score  70.4 | Record  128 | Score  29
+TIME ELAPSED:  4836.75  s
+
+Game  1145 | Avg score  42.2 | Record  128 | Score  79
+TIME ELAPSED:  4841.83  s
+
+Game  1146 | Avg score  58.6 | Record  128 | Score  66
+TIME ELAPSED:  4847.54  s
+
+Game  1147 | Avg score  59.7 | Record  128 | Score  35
+TIME ELAPSED:  4851.95  s
+
+Game  1148 | Avg score  50.1 | Record  128 | Score  16
+TIME ELAPSED:  4855.09  s
+
+Game  1149 | Avg score  57.8 | Record  128 | Score  46
+TIME ELAPSED:  4859.62  s
+
+Game  1150 | Avg score  54.0 | Record  128 | Score  36
+TIME ELAPSED:  4863.85  s
+
+Game  1151 | Avg score  59.7 | Record  128 | Score  38
+TIME ELAPSED:  4868.35  s
+
+Game  1152 | Avg score  49.8 | Record  128 | Score  35
+TIME ELAPSED:  4872.22  s
+
+Game  1153 | Avg score  45.2 | Record  128 | Score  32
+TIME ELAPSED:  4875.75  s
+
+Game  1154 | Avg score  1.1 | Record  128 | Score  36
+TIME ELAPSED:  4877.69  s
+
+Game  1155 | Avg score  54.3 | Record  128 | Score  67
+TIME ELAPSED:  4883.14  s
+
+Game  1156 | Avg score  41.4 | Record  128 | Score  39
+TIME ELAPSED:  4886.88  s
+
+Game  1157 | Avg score  49.1 | Record  128 | Score  53
+TIME ELAPSED:  4891.79  s
+
+Game  1158 | Avg score  28.7 | Record  128 | Score  49
+TIME ELAPSED:  4895.49  s
+
+Game  1159 | Avg score  49.7 | Record  128 | Score  41
+TIME ELAPSED:  4899.6  s
+
+Game  1160 | Avg score  33.9 | Record  128 | Score  41
+TIME ELAPSED:  4902.97  s
+
+Game  1161 | Avg score  49.9 | Record  128 | Score  49
+TIME ELAPSED:  4907.43  s
+
+Game  1162 | Avg score  47.1 | Record  128 | Score  5
+TIME ELAPSED:  4910.05  s
+
+Game  1163 | Avg score  54.5 | Record  128 | Score  55
+TIME ELAPSED:  4914.99  s
+
+Game  1164 | Avg score  44.4 | Record  128 | Score  67
+TIME ELAPSED:  4920.01  s
+
+Game  1165 | Avg score  46.9 | Record  128 | Score  3
+TIME ELAPSED:  4922.51  s
+
+Game  1166 | Avg score  44.2 | Record  128 | Score  71
+TIME ELAPSED:  4927.44  s
+
+Game  1167 | Avg score  33.8 | Record  128 | Score  22
+TIME ELAPSED:  4930.09  s
+
+Game  1168 | Avg score  49.7 | Record  128 | Score  58
+TIME ELAPSED:  4934.57  s
+
+Game  1169 | Avg score  35.4 | Record  128 | Score  44
+TIME ELAPSED:  4938.13  s
+
+Game  1170 | Avg score  25.2 | Record  128 | Score  6
+TIME ELAPSED:  4939.82  s
+
+Game  1171 | Avg score  40.3 | Record  128 | Score  60
+TIME ELAPSED:  4944.21  s
+
+Game  1172 | Avg score  46.9 | Record  128 | Score  81
+TIME ELAPSED:  4950.15  s
+
+Game  1173 | Avg score  3.0 | Record  128 | Score  65
+TIME ELAPSED:  4953.58  s
+
+Game  1174 | Avg score  11.5 | Record  128 | Score  2
+TIME ELAPSED:  4954.63  s
+
+Game  1175 | Avg score  55.3 | Record  128 | Score  41
+TIME ELAPSED:  4958.78  s
+
+Game  1176 | Avg score  56.5 | Record  128 | Score  94
+TIME ELAPSED:  4966.34  s
+
+Game  1177 | Avg score  53.4 | Record  128 | Score  73
+TIME ELAPSED:  4972.1  s
+
+Game  1178 | Avg score  55.9 | Record  128 | Score  99
+TIME ELAPSED:  4979.06  s
+
+Game  1179 | Avg score  56.3 | Record  128 | Score  41
+TIME ELAPSED:  4983.7  s
+
+Game  1180 | Avg score  55.0 | Record  128 | Score  27
+TIME ELAPSED:  4987.49  s
+
+Game  1181 | Avg score  29.4 | Record  128 | Score  1
+TIME ELAPSED:  4989.19  s
+
+Game  1182 | Avg score  59.3 | Record  128 | Score  59
+TIME ELAPSED:  4994.48  s
+
+Game  1183 | Avg score  50.3 | Record  128 | Score  12
+TIME ELAPSED:  4997.48  s
+
+Game  1184 | Avg score  40.6 | Record  128 | Score  42
+TIME ELAPSED:  5001.34  s
+
+Game  1185 | Avg score  74.6 | Record  128 | Score  92
+TIME ELAPSED:  5009.03  s
+
+Game  1186 | Avg score  55.2 | Record  128 | Score  52
+TIME ELAPSED:  5013.84  s
+
+Game  1187 | Avg score  66.0 | Record  128 | Score  111
+TIME ELAPSED:  5022.3  s
+
+Game  1188 | Avg score  61.2 | Record  128 | Score  65
+TIME ELAPSED:  5028.3  s
+
+Game  1189 | Avg score  80.4 | Record  128 | Score  28
+TIME ELAPSED:  5034.3  s
+
+Game  1190 | Avg score  45.0 | Record  128 | Score  56
+TIME ELAPSED:  5039.03  s
+
+Game  1191 | Avg score  40.0 | Record  128 | Score  0
+TIME ELAPSED:  5041.39  s
+
+Game  1192 | Avg score  56.4 | Record  128 | Score  50
+TIME ELAPSED:  5046.31  s
+
+Game  1193 | Avg score  52.1 | Record  128 | Score  84
+TIME ELAPSED:  5052.54  s
+
+Game  1194 | Avg score  31.2 | Record  128 | Score  13
+TIME ELAPSED:  5054.79  s
+
+Game  1195 | Avg score  55.7 | Record  128 | Score  13
+TIME ELAPSED:  5058.2  s
+
+Game  1196 | Avg score  56.5 | Record  128 | Score  32
+TIME ELAPSED:  5062.24  s
+
+Game  1197 | Avg score  38.5 | Record  128 | Score  1
+TIME ELAPSED:  5064.3  s
+
+Game  1198 | Avg score  51.6 | Record  128 | Score  43
+TIME ELAPSED:  5068.38  s
+
+Game  1199 | Avg score  64.1 | Record  128 | Score  4
+TIME ELAPSED:  5071.76  s
+
+Game  1200 | Avg score  36.2 | Record  128 | Score  53
+TIME ELAPSED:  5075.73  s
+
+Game  1201 | Avg score  41.5 | Record  128 | Score  82
+TIME ELAPSED:  5081.45  s
+
+Game  1202 | Avg score  1.9 | Record  128 | Score  87
+TIME ELAPSED:  5085.98  s
+
+Game  1203 | Avg score  45.7 | Record  128 | Score  66
+TIME ELAPSED:  5090.74  s
+
+Game  1204 | Avg score  39.6 | Record  128 | Score  15
+TIME ELAPSED:  5093.28  s
+
+Game  1205 | Avg score  42.4 | Record  128 | Score  82
+TIME ELAPSED:  5099.05  s
+
+Game  1206 | Avg score  47.0 | Record  128 | Score  68
+TIME ELAPSED:  5104.13  s
+
+Game  1207 | Avg score  71.7 | Record  128 | Score  52
+TIME ELAPSED:  5109.66  s
+
+Game  1208 | Avg score  47.0 | Record  128 | Score  31
+TIME ELAPSED:  5113.26  s
+
+Game  1209 | Avg score  48.6 | Record  128 | Score  66
+TIME ELAPSED:  5118.09  s
+
+Game  1210 | Avg score  55.5 | Record  128 | Score  36
+TIME ELAPSED:  5122.01  s
+
+Game  1211 | Avg score  61.5 | Record  128 | Score  40
+TIME ELAPSED:  5126.94  s
+
+Game  1212 | Avg score  66.5 | Record  128 | Score  60
+TIME ELAPSED:  5133.01  s
+
+Game  1213 | Avg score  64.1 | Record  128 | Score  23
+TIME ELAPSED:  5137.21  s
+
+Game  1214 | Avg score  59.4 | Record  128 | Score  3
+TIME ELAPSED:  5140.36  s
+
+Game  1215 | Avg score  47.6 | Record  128 | Score  5
+TIME ELAPSED:  5142.85  s
+
+Game  1216 | Avg score  52.5 | Record  128 | Score  51
+TIME ELAPSED:  5147.61  s
+
+Game  1217 | Avg score  70.4 | Record  128 | Score  60
+TIME ELAPSED:  5153.23  s
+
+Game  1218 | Avg score  55.9 | Record  128 | Score  49
+TIME ELAPSED:  5158.09  s
+
+Game  1219 | Avg score  58.7 | Record  128 | Score  56
+TIME ELAPSED:  5163.56  s
+
+Game  1220 | Avg score  61.6 | Record  128 | Score  8
+TIME ELAPSED:  5167.23  s
+
+Game  1221 | Avg score  50.1 | Record  128 | Score  38
+TIME ELAPSED:  5171.39  s
+
+Game  1222 | Avg score  76.8 | Record  128 | Score  48
+TIME ELAPSED:  5176.99  s
+
+Game  1223 | Avg score  48.8 | Record  128 | Score  50
+TIME ELAPSED:  5181.76  s
+
+Game  1224 | Avg score  51.8 | Record  128 | Score  53
+TIME ELAPSED:  5186.37  s
+
+Game  1225 | Avg score  60.2 | Record  128 | Score  38
+TIME ELAPSED:  5190.77  s
+
+Game  1226 | Avg score  56.0 | Record  128 | Score  40
+TIME ELAPSED:  5195.18  s
+
+Game  1227 | Avg score  50.7 | Record  128 | Score  25
+TIME ELAPSED:  5198.79  s
+
+Game  1228 | Avg score  42.2 | Record  128 | Score  42
+TIME ELAPSED:  5202.71  s
+
+Game  1229 | Avg score  52.0 | Record  128 | Score  77
+TIME ELAPSED:  5208.57  s
+
+Game  1230 | Avg score  35.5 | Record  128 | Score  37
+TIME ELAPSED:  5211.95  s
+
+Game  1231 | Avg score  58.6 | Record  128 | Score  71
+TIME ELAPSED:  5217.84  s
+
+Game  1232 | Avg score  54.9 | Record  128 | Score  31
+TIME ELAPSED:  5221.77  s
+
+Game  1233 | Avg score  32.7 | Record  128 | Score  42
+TIME ELAPSED:  5225.19  s
+
+Game  1234 | Avg score  55.7 | Record  128 | Score  24
+TIME ELAPSED:  5228.74  s
+
+Game  1235 | Avg score  62.7 | Record  128 | Score  3
+TIME ELAPSED:  5232.15  s
+
+Game  1236 | Avg score  59.3 | Record  128 | Score  34
+TIME ELAPSED:  5236.58  s
+
+Game  1237 | Avg score  65.3 | Record  128 | Score  6
+TIME ELAPSED:  5240.23  s
+
+Game  1238 | Avg score  44.8 | Record  128 | Score  36
+TIME ELAPSED:  5243.95  s
+
+Game  1239 | Avg score  52.3 | Record  128 | Score  43
+TIME ELAPSED:  5248.44  s
+
+Game  1240 | Avg score  46.3 | Record  128 | Score  76
+TIME ELAPSED:  5253.67  s
+
+Game  1241 | Avg score  39.2 | Record  128 | Score  52
+TIME ELAPSED:  5257.72  s
+
+Game  1242 | Avg score  3.7 | Record  128 | Score  4
+TIME ELAPSED:  5258.46  s
+
+Game  1243 | Avg score  61.1 | Record  128 | Score  47
+TIME ELAPSED:  5263.27  s
+
+Game  1244 | Avg score  54.5 | Record  128 | Score  41
+TIME ELAPSED:  5267.95  s
+
+Game  1245 | Avg score  31.9 | Record  128 | Score  61
+TIME ELAPSED:  5271.81  s
+
+Game  1246 | Avg score  34.2 | Record  128 | Score  67
+TIME ELAPSED:  5276.37  s
+
+Game  1247 | Avg score  39.9 | Record  128 | Score  15
+TIME ELAPSED:  5278.97  s
+
+Game  1248 | Avg score  42.1 | Record  128 | Score  28
+TIME ELAPSED:  5282.17  s
+
+Game  1249 | Avg score  39.4 | Record  128 | Score  22
+TIME ELAPSED:  5285.08  s
+
+Game  1250 | Avg score  42.5 | Record  128 | Score  10
+TIME ELAPSED:  5287.65  s
+
+Game  1251 | Avg score  45.9 | Record  128 | Score  67
+TIME ELAPSED:  5292.52  s
+
+Game  1252 | Avg score  38.7 | Record  128 | Score  49
+TIME ELAPSED:  5296.41  s
+
+Game  1253 | Avg score  37.2 | Record  128 | Score  0
+TIME ELAPSED:  5298.42  s
+
+Game  1254 | Avg score  29.6 | Record  128 | Score  24
+TIME ELAPSED:  5301.13  s
+
+Game  1255 | Avg score  36.6 | Record  128 | Score  39
+TIME ELAPSED:  5304.42  s
+
+Game  1256 | Avg score  48.0 | Record  128 | Score  72
+TIME ELAPSED:  5310.04  s
+
+Game  1257 | Avg score  50.9 | Record  128 | Score  50
+TIME ELAPSED:  5314.5  s
+
+Game  1258 | Avg score  25.1 | Record  128 | Score  84
+TIME ELAPSED:  5319.36  s
+
+Game  1259 | Avg score  60.1 | Record  128 | Score  44
+TIME ELAPSED:  5324.19  s
+
+Game  1260 | Avg score  37.8 | Record  128 | Score  51
+TIME ELAPSED:  5328.39  s
+
+Game  1261 | Avg score  48.5 | Record  128 | Score  23
+TIME ELAPSED:  5331.52  s
+
+Game  1262 | Avg score  49.3 | Record  128 | Score  45
+TIME ELAPSED:  5335.95  s
+
+Game  1263 | Avg score  5.4 | Record  128 | Score  3
+TIME ELAPSED:  5336.77  s
+
+Game  1264 | Avg score  36.1 | Record  128 | Score  15
+TIME ELAPSED:  5339.46  s
+
+Game  1265 | Avg score  50.3 | Record  128 | Score  42
+TIME ELAPSED:  5343.66  s
+
+Game  1266 | Avg score  45.4 | Record  128 | Score  42
+TIME ELAPSED:  5347.43  s
+
+Game  1267 | Avg score  49.3 | Record  128 | Score  25
+TIME ELAPSED:  5350.9  s
+
+Game  1268 | Avg score  46.7 | Record  128 | Score  32
+TIME ELAPSED:  5354.87  s
+
+Game  1269 | Avg score  38.3 | Record  128 | Score  31
+TIME ELAPSED:  5358.13  s
+
+Game  1270 | Avg score  51.3 | Record  128 | Score  27
+TIME ELAPSED:  5361.64  s
+
+Game  1271 | Avg score  55.5 | Record  128 | Score  85
+TIME ELAPSED:  5368.08  s
+
+Game  1272 | Avg score  52.6 | Record  128 | Score  8
+TIME ELAPSED:  5370.94  s
+
+Game  1273 | Avg score  52.9 | Record  128 | Score  48
+TIME ELAPSED:  5375.57  s
+
+Game  1274 | Avg score  38.8 | Record  128 | Score  93
+TIME ELAPSED:  5381.46  s
+
+Game  1275 | Avg score  36.1 | Record  128 | Score  50
+TIME ELAPSED:  5385.47  s
+
+Game  1276 | Avg score  40.0 | Record  128 | Score  22
+TIME ELAPSED:  5388.47  s
+
+Game  1277 | Avg score  41.7 | Record  128 | Score  45
+TIME ELAPSED:  5392.29  s
+
+Game  1278 | Avg score  41.2 | Record  128 | Score  32
+TIME ELAPSED:  5395.7  s
+
+Game  1279 | Avg score  40.5 | Record  128 | Score  35
+TIME ELAPSED:  5399.06  s
+
+Game  1280 | Avg score  48.7 | Record  128 | Score  29
+TIME ELAPSED:  5402.48  s
+
+Game  1281 | Avg score  42.3 | Record  128 | Score  33
+TIME ELAPSED:  5405.86  s
+
+Game  1282 | Avg score  42.8 | Record  128 | Score  36
+TIME ELAPSED:  5409.29  s
+
+Game  1283 | Avg score  46.8 | Record  128 | Score  64
+TIME ELAPSED:  5414.58  s
+
+Game  1284 | Avg score  43.4 | Record  128 | Score  72
+TIME ELAPSED:  5419.74  s
+
+Game  1285 | Avg score  53.5 | Record  128 | Score  9
+TIME ELAPSED:  5422.91  s
+
+Game  1286 | Avg score  45.0 | Record  128 | Score  39
+TIME ELAPSED:  5426.78  s
+
+Game  1287 | Avg score  70.1 | Record  128 | Score  55
+TIME ELAPSED:  5432.4  s
+
+Game  1288 | Avg score  70.1 | Record  128 | Score  40
+TIME ELAPSED:  5437.65  s
+
+Game  1289 | Avg score  45.2 | Record  128 | Score  1
+TIME ELAPSED:  5440.26  s
+
+Game  1290 | Avg score  59.6 | Record  128 | Score  52
+TIME ELAPSED:  5445.57  s
+
+Game  1291 | Avg score  78.2 | Record  128 | Score  85
+TIME ELAPSED:  5452.97  s
+
+Game  1292 | Avg score  53.9 | Record  128 | Score  80
+TIME ELAPSED:  5458.74  s
+
+Game  1293 | Avg score  47.3 | Record  128 | Score  61
+TIME ELAPSED:  5463.51  s
+
+Game  1294 | Avg score  54.9 | Record  128 | Score  27
+TIME ELAPSED:  5467.5  s
+
+Game  1295 | Avg score  54.6 | Record  128 | Score  4
+TIME ELAPSED:  5470.68  s
+
+Game  1296 | Avg score  49.4 | Record  128 | Score  43
+TIME ELAPSED:  5474.77  s
+
+Game  1297 | Avg score  48.7 | Record  128 | Score  49
+TIME ELAPSED:  5479.17  s
+
+Game  1298 | Avg score  49.3 | Record  128 | Score  49
+TIME ELAPSED:  5484.13  s
+
+Game  1299 | Avg score  62.6 | Record  128 | Score  54
+TIME ELAPSED:  5489.25  s
+
+Game  1300 | Avg score  58.8 | Record  128 | Score  3
+TIME ELAPSED:  5492.39  s
+
+Game  1301 | Avg score  53.9 | Record  128 | Score  89
+TIME ELAPSED:  5498.64  s
+
+Game  1302 | Avg score  55.9 | Record  128 | Score  52
+TIME ELAPSED:  5503.81  s
+
+Game  1303 | Avg score  52.0 | Record  128 | Score  66
+TIME ELAPSED:  5509.01  s
+
+Game  1304 | Avg score  43.9 | Record  128 | Score  55
+TIME ELAPSED:  5513.91  s
+
+Game  1305 | Avg score  48.0 | Record  128 | Score  8
+TIME ELAPSED:  5516.6  s
+
+Game  1306 | Avg score  37.0 | Record  128 | Score  43
+TIME ELAPSED:  5520.12  s
+
+Game  1307 | Avg score  60.3 | Record  128 | Score  45
+TIME ELAPSED:  5525.13  s
+
+Game  1308 | Avg score  59.5 | Record  128 | Score  73
+TIME ELAPSED:  5530.93  s
+
+Game  1309 | Avg score  53.2 | Record  128 | Score  57
+TIME ELAPSED:  5535.87  s
+
+Game  1310 | Avg score  41.0 | Record  128 | Score  13
+TIME ELAPSED:  5538.6  s
+
+Game  1311 | Avg score  34.9 | Record  128 | Score  56
+TIME ELAPSED:  5542.44  s
+
+Game  1312 | Avg score  66.2 | Record  128 | Score  78
+TIME ELAPSED:  5548.91  s
+
+Game  1313 | Avg score  27.8 | Record  128 | Score  72
+TIME ELAPSED:  5553.75  s
+
+Game  1314 | Avg score  39.1 | Record  128 | Score  40
+TIME ELAPSED:  5557.19  s
+
+Game  1315 | Avg score  46.3 | Record  128 | Score  43
+TIME ELAPSED:  5561.18  s
+
+Game  1316 | Avg score  38.5 | Record  128 | Score  1
+TIME ELAPSED:  5563.22  s
+
+Game  1317 | Avg score  6.3 | Record  128 | Score  0
+TIME ELAPSED:  5563.94  s
+
+Game  1318 | Avg score  32.0 | Record  128 | Score  8
+TIME ELAPSED:  5565.89  s
+
+Game  1319 | Avg score  51.1 | Record  128 | Score  63
+TIME ELAPSED:  5570.98  s
+
+Game  1320 | Avg score  57.3 | Record  128 | Score  71
+TIME ELAPSED:  5576.92  s
+
+Game  1321 | Avg score  48.1 | Record  128 | Score  53
+TIME ELAPSED:  5581.84  s
+
+Game  1322 | Avg score  34.2 | Record  128 | Score  61
+TIME ELAPSED:  5586.28  s
+
+Game  1323 | Avg score  55.0 | Record  128 | Score  68
+TIME ELAPSED:  5591.88  s
+
+Game  1324 | Avg score  44.3 | Record  128 | Score  47
+TIME ELAPSED:  5596.23  s
+
+Game  1325 | Avg score  46.0 | Record  128 | Score  90
+TIME ELAPSED:  5602.34  s
+
+Game  1326 | Avg score  60.9 | Record  128 | Score  76
+TIME ELAPSED:  5609.04  s
+
+Game  1327 | Avg score  54.7 | Record  128 | Score  37
+TIME ELAPSED:  5613.51  s
+
+Game  1328 | Avg score  57.7 | Record  128 | Score  24
+TIME ELAPSED:  5617.38  s
+
+Game  1329 | Avg score  54.8 | Record  128 | Score  48
+TIME ELAPSED:  5621.88  s
+
+Game  1330 | Avg score  49.9 | Record  128 | Score  44
+TIME ELAPSED:  5626.34  s
+
+Game  1331 | Avg score  55.5 | Record  128 | Score  98
+TIME ELAPSED:  5633.15  s
+
+Game  1332 | Avg score  51.1 | Record  128 | Score  64
+TIME ELAPSED:  5638.54  s
+
+Game  1333 | Avg score  44.0 | Record  128 | Score  47
+TIME ELAPSED:  5642.83  s
+
+Game  1334 | Avg score  35.2 | Record  128 | Score  24
+TIME ELAPSED:  5645.69  s
+
+Game  1335 | Avg score  45.9 | Record  128 | Score  59
+TIME ELAPSED:  5650.71  s
+
+Game  1336 | Avg score  13.4 | Record  128 | Score  3
+TIME ELAPSED:  5651.89  s
+
+Game  1337 | Avg score  50.0 | Record  128 | Score  72
+TIME ELAPSED:  5657.3  s
+
+Game  1338 | Avg score  26.7 | Record  128 | Score  27
+TIME ELAPSED:  5660.17  s
+
+Game  1339 | Avg score  39.3 | Record  128 | Score  13
+TIME ELAPSED:  5662.96  s
+
+Game  1340 | Avg score  57.1 | Record  128 | Score  46
+TIME ELAPSED:  5667.8  s
+
+Game  1341 | Avg score  51.8 | Record  128 | Score  44
+TIME ELAPSED:  5672.2  s
+
+Game  1342 | Avg score  34.3 | Record  128 | Score  63
+TIME ELAPSED:  5676.58  s
+
+Game  1343 | Avg score  52.8 | Record  128 | Score  71
+TIME ELAPSED:  5682.04  s
+
+Game  1344 | Avg score  47.2 | Record  128 | Score  48
+TIME ELAPSED:  5686.41  s
+
+Game  1345 | Avg score  41.6 | Record  128 | Score  51
+TIME ELAPSED:  5690.64  s
+
+Game  1346 | Avg score  46.3 | Record  128 | Score  54
+TIME ELAPSED:  5694.81  s
+
+Game  1347 | Avg score  64.2 | Record  128 | Score  40
+TIME ELAPSED:  5699.75  s
+
+Game  1348 | Avg score  70.7 | Record  128 | Score  25
+TIME ELAPSED:  5704.43  s
+
+Game  1349 | Avg score  41.6 | Record  128 | Score  68
+TIME ELAPSED:  5709.2  s
+
+Game  1350 | Avg score  56.5 | Record  128 | Score  61
+TIME ELAPSED:  5714.76  s
+
+Game  1351 | Avg score  45.8 | Record  128 | Score  69
+TIME ELAPSED:  5719.95  s
+
+Game  1352 | Avg score  39.1 | Record  128 | Score  43
+TIME ELAPSED:  5723.82  s
+
+Game  1353 | Avg score  26.1 | Record  128 | Score  13
+TIME ELAPSED:  5726.0  s
+
+Game  1354 | Avg score  48.9 | Record  128 | Score  26
+TIME ELAPSED:  5729.86  s
+
+Game  1355 | Avg score  33.5 | Record  128 | Score  43
+TIME ELAPSED:  5733.33  s
+
+Game  1356 | Avg score  48.6 | Record  128 | Score  31
+TIME ELAPSED:  5737.26  s
+
+Game  1357 | Avg score  32.3 | Record  128 | Score  4
+TIME ELAPSED:  5739.11  s
+
+Game  1358 | Avg score  40.1 | Record  128 | Score  29
+TIME ELAPSED:  5742.43  s
+
+Game  1359 | Avg score  46.0 | Record  128 | Score  7
+TIME ELAPSED:  5745.04  s
+
+Game  1360 | Avg score  42.3 | Record  128 | Score  48
+TIME ELAPSED:  5748.67  s
+
+Game  1361 | Avg score  42.4 | Record  128 | Score  76
+TIME ELAPSED:  5753.89  s
+
+Game  1362 | Avg score  35.0 | Record  128 | Score  46
+TIME ELAPSED:  5757.33  s
+
+Game  1363 | Avg score  42.7 | Record  128 | Score  4
+TIME ELAPSED:  5759.72  s
+
+Game  1364 | Avg score  62.2 | Record  128 | Score  61
+TIME ELAPSED:  5765.41  s
+
+Game  1365 | Avg score  58.8 | Record  128 | Score  64
+TIME ELAPSED:  5770.78  s
+
+Game  1366 | Avg score  56.1 | Record  128 | Score  34
+TIME ELAPSED:  5774.74  s
+
+Game  1367 | Avg score  54.1 | Record  128 | Score  32
+TIME ELAPSED:  5778.64  s
+
+Game  1368 | Avg score  53.0 | Record  128 | Score  52
+TIME ELAPSED:  5783.29  s
+
+Game  1369 | Avg score  61.4 | Record  128 | Score  28
+TIME ELAPSED:  5787.8  s
+
+Game  1370 | Avg score  64.2 | Record  128 | Score  30
+TIME ELAPSED:  5792.05  s
+
+Game  1371 | Avg score  45.7 | Record  128 | Score  69
+TIME ELAPSED:  5797.28  s
+
+Game  1372 | Avg score  45.5 | Record  128 | Score  14
+TIME ELAPSED:  5800.09  s
+
+Game  1373 | Avg score  55.0 | Record  128 | Score  47
+TIME ELAPSED:  5804.63  s
+
+Game  1374 | Avg score  23.8 | Record  128 | Score  33
+TIME ELAPSED:  5807.74  s
+
+Game  1375 | Avg score  59.2 | Record  128 | Score  96
+TIME ELAPSED:  5814.88  s
+
+Game  1376 | Avg score  51.7 | Record  128 | Score  31
+TIME ELAPSED:  5818.55  s
+
+Game  1377 | Avg score  67.1 | Record  128 | Score  54
+TIME ELAPSED:  5824.05  s
+
+Game  1378 | Avg score  58.6 | Record  128 | Score  17
+TIME ELAPSED:  5827.71  s
+
+Game  1379 | Avg score  47.9 | Record  128 | Score  64
+TIME ELAPSED:  5832.66  s
+
+Game  1380 | Avg score  61.5 | Record  128 | Score  82
+TIME ELAPSED:  5838.91  s
+
+Game  1381 | Avg score  49.8 | Record  128 | Score  60
+TIME ELAPSED:  5843.98  s
+
+Game  1382 | Avg score  32.6 | Record  128 | Score  74
+TIME ELAPSED:  5848.8  s
+
+Game  1383 | Avg score  64.7 | Record  128 | Score  21
+TIME ELAPSED:  5852.74  s
+
+Game  1384 | Avg score  60.1 | Record  128 | Score  77
+TIME ELAPSED:  5858.56  s
+
+Game  1385 | Avg score  55.8 | Record  128 | Score  44
+TIME ELAPSED:  5863.13  s
+
+Game  1386 | Avg score  46.5 | Record  128 | Score  38
+TIME ELAPSED:  5867.2  s
+
+Game  1387 | Avg score  61.6 | Record  128 | Score  27
+TIME ELAPSED:  5871.08  s
+
+Game  1388 | Avg score  60.3 | Record  128 | Score  36
+TIME ELAPSED:  5875.36  s
+
+Game  1389 | Avg score  53.6 | Record  128 | Score  47
+TIME ELAPSED:  5879.97  s
+
+Game  1390 | Avg score  43.4 | Record  128 | Score  2
+TIME ELAPSED:  5882.33  s
+
+Game  1391 | Avg score  39.7 | Record  128 | Score  22
+TIME ELAPSED:  5885.18  s
+
+Game  1392 | Avg score  43.7 | Record  128 | Score  26
+TIME ELAPSED:  5888.39  s
+
+Game  1393 | Avg score  34.8 | Record  128 | Score  33
+TIME ELAPSED:  5891.61  s
+
+Game  1394 | Avg score  43.2 | Record  128 | Score  1
+TIME ELAPSED:  5893.89  s
+
+Game  1395 | Avg score  34.6 | Record  128 | Score  40
+TIME ELAPSED:  5897.1  s
+
+Game  1396 | Avg score  42.9 | Record  128 | Score  23
+TIME ELAPSED:  5900.15  s
+
+Game  1397 | Avg score  46.4 | Record  128 | Score  35
+TIME ELAPSED:  5903.66  s
+
+Game  1398 | Avg score  5.6 | Record  128 | Score  4
+TIME ELAPSED:  5904.6  s
+
+Game  1399 | Avg score  30.6 | Record  128 | Score  46
+TIME ELAPSED:  5908.21  s
+
+Game  1400 | Avg score  40.2 | Record  128 | Score  38
+TIME ELAPSED:  5911.59  s
+
+Game  1401 | Avg score  41.0 | Record  128 | Score  2
+TIME ELAPSED:  5913.83  s
+
+Game  1402 | Avg score  44.8 | Record  128 | Score  75
+TIME ELAPSED:  5919.66  s
+
+Game  1403 | Avg score  38.0 | Record  128 | Score  30
+TIME ELAPSED:  5922.8  s
+
+Game  1404 | Avg score  71.2 | Record  128 | Score  62
+TIME ELAPSED:  5928.65  s
+
+Game  1405 | Avg score  44.9 | Record  128 | Score  43
+TIME ELAPSED:  5932.82  s
+
+Game  1406 | Avg score  64.8 | Record  128 | Score  20
+TIME ELAPSED:  5936.89  s
+
+Game  1407 | Avg score  49.4 | Record  128 | Score  104
+TIME ELAPSED:  5943.66  s
+
+Game  1408 | Avg score  66.3 | Record  128 | Score  46
+TIME ELAPSED:  5949.09  s
+
+Game  1409 | Avg score  40.2 | Record  128 | Score  38
+TIME ELAPSED:  5952.76  s
+
+Game  1410 | Avg score  44.6 | Record  128 | Score  50
+TIME ELAPSED:  5957.05  s
+
+Game  1411 | Avg score  36.9 | Record  128 | Score  29
+TIME ELAPSED:  5960.07  s
+
+Game  1412 | Avg score  61.0 | Record  128 | Score  8
+TIME ELAPSED:  5963.71  s
+
+Game  1413 | Avg score  59.2 | Record  128 | Score  0
+TIME ELAPSED:  5966.84  s
+
+Game  1414 | Avg score  46.7 | Record  128 | Score  39
+TIME ELAPSED:  5970.59  s
+
+Game  1415 | Avg score  35.4 | Record  128 | Score  75
+TIME ELAPSED:  5975.53  s
+
+Game  1416 | Avg score  53.9 | Record  128 | Score  34
+TIME ELAPSED:  5979.85  s
+
+Game  1417 | Avg score  43.8 | Record  128 | Score  88
+TIME ELAPSED:  5985.66  s
+
+Game  1418 | Avg score  55.5 | Record  128 | Score  70
+TIME ELAPSED:  5991.05  s
+
+Game  1419 | Avg score  53.9 | Record  128 | Score  100
+TIME ELAPSED:  5997.67  s
+
+Game  1420 | Avg score  57.8 | Record  128 | Score  59
+TIME ELAPSED:  6002.94  s
+
+Game  1421 | Avg score  56.8 | Record  128 | Score  54
+TIME ELAPSED:  6007.96  s
+
+Game  1422 | Avg score  63.3 | Record  128 | Score  57
+TIME ELAPSED:  6013.23  s
+
+Game  1423 | Avg score  60.2 | Record  128 | Score  62
+TIME ELAPSED:  6018.65  s
+
+Game  1424 | Avg score  45.2 | Record  128 | Score  79
+TIME ELAPSED:  6024.05  s
+
+Game  1425 | Avg score  70.2 | Record  128 | Score  51
+TIME ELAPSED:  6029.82  s
+
+Game  1426 | Avg score  51.9 | Record  128 | Score  59
+TIME ELAPSED:  6034.85  s
+
+Game  1427 | Avg score  55.3 | Record  128 | Score  77
+TIME ELAPSED:  6041.36  s
+
+Game  1428 | Avg score  48.2 | Record  128 | Score  2
+TIME ELAPSED:  6044.34  s
+
+Game  1429 | Avg score  49.4 | Record  128 | Score  33
+TIME ELAPSED:  6048.28  s
+
+Game  1430 | Avg score  65.6 | Record  128 | Score  51
+TIME ELAPSED:  6053.64  s
+
+Game  1431 | Avg score  50.2 | Record  128 | Score  79
+TIME ELAPSED:  6059.47  s
+
+Game  1432 | Avg score  80.2 | Record  128 | Score  56
+TIME ELAPSED:  6066.22  s
+
+Game  1433 | Avg score  56.4 | Record  128 | Score  53
+TIME ELAPSED:  6071.23  s
+
+Game  1434 | Avg score  49.5 | Record  128 | Score  60
+TIME ELAPSED:  6076.3  s
+
+Game  1435 | Avg score  59.6 | Record  128 | Score  40
+TIME ELAPSED:  6080.84  s
+
+Game  1436 | Avg score  54.3 | Record  128 | Score  56
+TIME ELAPSED:  6085.87  s
+
+Game  1437 | Avg score  48.6 | Record  128 | Score  121
+TIME ELAPSED:  6093.62  s
+
+Game  1438 | Avg score  58.1 | Record  128 | Score  41
+TIME ELAPSED:  6098.15  s
+
+Game  1439 | Avg score  47.2 | Record  128 | Score  72
+TIME ELAPSED:  6103.88  s
+
+Game  1440 | Avg score  62.8 | Record  128 | Score  29
+TIME ELAPSED:  6108.27  s
+
+Game  1441 | Avg score  34.7 | Record  128 | Score  60
+TIME ELAPSED:  6112.47  s
+
+Game  1442 | Avg score  50.1 | Record  128 | Score  21
+TIME ELAPSED:  6115.69  s
+
+Game  1443 | Avg score  38.8 | Record  128 | Score  56
+TIME ELAPSED:  6120.18  s
+
+Game  1444 | Avg score  48.5 | Record  128 | Score  24
+TIME ELAPSED:  6123.44  s
+
+Game  1445 | Avg score  32.3 | Record  128 | Score  50
+TIME ELAPSED:  6127.42  s
+
+Game  1446 | Avg score  51.9 | Record  128 | Score  43
+TIME ELAPSED:  6131.56  s
+
+Game  1447 | Avg score  39.5 | Record  128 | Score  24
+TIME ELAPSED:  6134.47  s
+
+Game  1448 | Avg score  54.1 | Record  128 | Score  64
+TIME ELAPSED:  6139.77  s
+
+Game  1449 | Avg score  35.0 | Record  128 | Score  27
+TIME ELAPSED:  6142.96  s
+
+Game  1450 | Avg score  67.7 | Record  128 | Score  35
+TIME ELAPSED:  6147.78  s
+
+Game  1451 | Avg score  46.6 | Record  128 | Score  26
+TIME ELAPSED:  6151.1  s
+
+Game  1452 | Avg score  61.1 | Record  128 | Score  43
+TIME ELAPSED:  6156.31  s
+
+Game  1453 | Avg score  52.8 | Record  128 | Score  0
+TIME ELAPSED:  6159.18  s
+
+Game  1454 | Avg score  70.8 | Record  128 | Score  17
+TIME ELAPSED:  6163.56  s
+
+Game  1455 | Avg score  41.0 | Record  128 | Score  79
+TIME ELAPSED:  6168.84  s
+
+Game  1456 | Avg score  57.1 | Record  128 | Score  10
+TIME ELAPSED:  6172.08  s
+
+Game  1457 | Avg score  51.0 | Record  128 | Score  52
+TIME ELAPSED:  6176.89  s
+
+Game  1458 | Avg score  52.2 | Record  128 | Score  52
+TIME ELAPSED:  6181.47  s
+
+Game  1459 | Avg score  52.6 | Record  128 | Score  93
+TIME ELAPSED:  6187.73  s
+
+Game  1460 | Avg score  60.7 | Record  128 | Score  39
+TIME ELAPSED:  6192.36  s
+
+Game  1461 | Avg score  51.1 | Record  128 | Score  24
+TIME ELAPSED:  6196.21  s
+
+Game  1462 | Avg score  39.3 | Record  128 | Score  58
+TIME ELAPSED:  6200.39  s
+
+Game  1463 | Avg score  54.3 | Record  128 | Score  40
+TIME ELAPSED:  6205.0  s
+
+Game  1464 | Avg score  60.3 | Record  128 | Score  70
+TIME ELAPSED:  6210.64  s
+
+Game  1465 | Avg score  57.6 | Record  128 | Score  90
+TIME ELAPSED:  6217.43  s
+
+Game  1466 | Avg score  51.5 | Record  128 | Score  43
+TIME ELAPSED:  6221.82  s
+
+Game  1467 | Avg score  74.5 | Record  128 | Score  58
+TIME ELAPSED:  6228.22  s
+
+Game  1468 | Avg score  53.7 | Record  128 | Score  46
+TIME ELAPSED:  6232.7  s
+
+Game  1469 | Avg score  48.2 | Record  128 | Score  53
+TIME ELAPSED:  6237.41  s
+
+Game  1470 | Avg score  62.3 | Record  128 | Score  35
+TIME ELAPSED:  6241.82  s
+
+Game  1471 | Avg score  54.0 | Record  128 | Score  17
+TIME ELAPSED:  6245.17  s
+
+Game  1472 | Avg score  56.9 | Record  128 | Score  52
+TIME ELAPSED:  6250.2  s
+
+Game  1473 | Avg score  50.4 | Record  128 | Score  52
+TIME ELAPSED:  6254.85  s
+
+Game  1474 | Avg score  51.1 | Record  128 | Score  41
+TIME ELAPSED:  6258.89  s
+
+Game  1475 | Avg score  28.7 | Record  128 | Score  22
+TIME ELAPSED:  6261.32  s
+
+Game  1476 | Avg score  43.9 | Record  128 | Score  49
+TIME ELAPSED:  6265.66  s
+
+Game  1477 | Avg score  44.3 | Record  128 | Score  40
+TIME ELAPSED:  6269.42  s
+
+Game  1478 | Avg score  40.7 | Record  128 | Score  33
+TIME ELAPSED:  6272.96  s
+
+Game  1479 | Avg score  36.5 | Record  128 | Score  43
+TIME ELAPSED:  6276.78  s
+
+Game  1480 | Avg score  40.9 | Record  128 | Score  22
+TIME ELAPSED:  6279.79  s
+
+Game  1481 | Avg score  45.5 | Record  128 | Score  10
+TIME ELAPSED:  6282.57  s
+
+Game  1482 | Avg score  54.9 | Record  128 | Score  69
+TIME ELAPSED:  6288.31  s
+
+Game  1483 | Avg score  61.0 | Record  128 | Score  38
+TIME ELAPSED:  6292.8  s
+
+Game  1484 | Avg score  54.7 | Record  128 | Score  40
+TIME ELAPSED:  6297.31  s
+
+Game  1485 | Avg score  54.2 | Record  128 | Score  57
+TIME ELAPSED:  6302.35  s
+
+Game  1486 | Avg score  43.3 | Record  128 | Score  84
+TIME ELAPSED:  6308.32  s
+
+Game  1487 | Avg score  53.1 | Record  128 | Score  5
+TIME ELAPSED:  6311.4  s
+
+Game  1488 | Avg score  46.0 | Record  128 | Score  66
+TIME ELAPSED:  6316.26  s
+
+Game  1489 | Avg score  64.3 | Record  128 | Score  14
+TIME ELAPSED:  6320.04  s
+
+Game  1490 | Avg score  71.7 | Record  128 | Score  60
+TIME ELAPSED:  6325.97  s
+
+Game  1491 | Avg score  55.9 | Record  128 | Score  79
+TIME ELAPSED:  6331.79  s
+
+Game  1492 | Avg score  63.0 | Record  128 | Score  68
+TIME ELAPSED:  6337.56  s
+
+Game  1493 | Avg score  44.2 | Record  128 | Score  1
+TIME ELAPSED:  6339.93  s
+
+Game  1494 | Avg score  49.7 | Record  128 | Score  73
+TIME ELAPSED:  6345.45  s
+
+Game  1495 | Avg score  59.7 | Record  128 | Score  39
+TIME ELAPSED:  6349.98  s
+
+Game  1496 | Avg score  55.6 | Record  128 | Score  44
+TIME ELAPSED:  6354.63  s
+
+Game  1497 | Avg score  62.0 | Record  128 | Score  12
+TIME ELAPSED:  6358.15  s
+
+Game  1498 | Avg score  59.5 | Record  128 | Score  63
+TIME ELAPSED:  6363.54  s
+
+Game  1499 | Avg score  25.5 | Record  128 | Score  58
+TIME ELAPSED:  6367.12  s
+
+Game  1500 | Avg score  33.5 | Record  128 | Score  35
+TIME ELAPSED:  6370.17  s
+
+Game  1501 | Avg score  49.3 | Record  128 | Score  66
+TIME ELAPSED:  6375.12  s
+
+Game  1502 | Avg score  32.8 | Record  128 | Score  2
+TIME ELAPSED:  6377.01  s
+
+Game  1503 | Avg score  55.7 | Record  128 | Score  49
+TIME ELAPSED:  6381.98  s
+
+Game  1504 | Avg score  43.2 | Record  128 | Score  34
+TIME ELAPSED:  6385.41  s
+
+Game  1505 | Avg score  58.8 | Record  128 | Score  2
+TIME ELAPSED:  6388.54  s
+
+Game  1506 | Avg score  65.9 | Record  128 | Score  57
+TIME ELAPSED:  6394.07  s
+
+Game  1507 | Avg score  54.1 | Record  128 | Score  25
+TIME ELAPSED:  6398.19  s
+
+Game  1508 | Avg score  37.5 | Record  128 | Score  104
+TIME ELAPSED:  6404.81  s
+
+Game  1509 | Avg score  42.9 | Record  128 | Score  27
+TIME ELAPSED:  6408.11  s
+
+Game  1510 | Avg score  52.4 | Record  128 | Score  65
+TIME ELAPSED:  6413.2  s
+
+Game  1511 | Avg score  58.9 | Record  128 | Score  35
+TIME ELAPSED:  6417.54  s
+
+Game  1512 | Avg score  14.1 | Record  128 | Score  62
+TIME ELAPSED:  6421.0  s
+
+Game  1513 | Avg score  49.9 | Record  128 | Score  0
+TIME ELAPSED:  6423.63  s
+
+Game  1514 | Avg score  53.5 | Record  128 | Score  64
+TIME ELAPSED:  6429.15  s
+
+Game  1515 | Avg score  62.8 | Record  128 | Score  30
+TIME ELAPSED:  6433.49  s
+
+Game  1516 | Avg score  61.6 | Record  128 | Score  49
+TIME ELAPSED:  6438.32  s
+
+Game  1517 | Avg score  52.6 | Record  128 | Score  72
+TIME ELAPSED:  6444.15  s
+
+Game  1518 | Avg score  48.5 | Record  128 | Score  8
+TIME ELAPSED:  6447.14  s
+
+Game  1519 | Avg score  49.3 | Record  128 | Score  48
+TIME ELAPSED:  6451.88  s
+
+Game  1520 | Avg score  58.2 | Record  128 | Score  44
+TIME ELAPSED:  6456.51  s
+
+Game  1521 | Avg score  61.1 | Record  128 | Score  78
+TIME ELAPSED:  6462.6  s
+
+Game  1522 | Avg score  41.0 | Record  128 | Score  54
+TIME ELAPSED:  6467.1  s
+
+Game  1523 | Avg score  66.7 | Record  128 | Score  95
+TIME ELAPSED:  6474.17  s
+
+Game  1524 | Avg score  56.7 | Record  128 | Score  15
+TIME ELAPSED:  6477.87  s
+
+Game  1525 | Avg score  67.5 | Record  128 | Score  38
+TIME ELAPSED:  6482.88  s
+
+Game  1526 | Avg score  53.2 | Record  128 | Score  52
+TIME ELAPSED:  6487.62  s
+
+Game  1527 | Avg score  50.5 | Record  128 | Score  103
+TIME ELAPSED:  6495.14  s
+
+Game  1528 | Avg score  51.9 | Record  128 | Score  41
+TIME ELAPSED:  6499.33  s
+
+Game  1529 | Avg score  63.4 | Record  128 | Score  8
+TIME ELAPSED:  6502.96  s
+
+Game  1530 | Avg score  68.4 | Record  128 | Score  62
+TIME ELAPSED:  6509.21  s
+
+Game  1531 | Avg score  72.1 | Record  128 | Score  30
+TIME ELAPSED:  6514.06  s
+
+Game  1532 | Avg score  75.1 | Record  128 | Score  65
+TIME ELAPSED:  6520.51  s
+
+Game  1533 | Avg score  46.8 | Record  128 | Score  39
+TIME ELAPSED:  6524.39  s
+
+Game  1534 | Avg score  43.8 | Record  128 | Score  34
+TIME ELAPSED:  6528.01  s
+
+Game  1535 | Avg score  18.5 | Record  128 | Score  4
+TIME ELAPSED:  6529.37  s
+
+Game  1536 | Avg score  60.6 | Record  128 | Score  79
+TIME ELAPSED:  6535.77  s
+
+Game  1537 | Avg score  49.0 | Record  128 | Score  88
+TIME ELAPSED:  6542.47  s
+
+Game  1538 | Avg score  52.2 | Record  128 | Score  15
+TIME ELAPSED:  6545.83  s
+
+Game  1539 | Avg score  45.1 | Record  128 | Score  78
+TIME ELAPSED:  6551.46  s
+
+Game  1540 | Avg score  51.1 | Record  128 | Score  2
+TIME ELAPSED:  6554.18  s
+
+Game  1541 | Avg score  73.3 | Record  128 | Score  6
+TIME ELAPSED:  6558.09  s
+
+Game  1542 | Avg score  60.0 | Record  128 | Score  40
+TIME ELAPSED:  6562.66  s
+
+Game  1543 | Avg score  50.7 | Record  128 | Score  18
+TIME ELAPSED:  6566.11  s
+
+Game  1544 | Avg score  67.8 | Record  128 | Score  83
+TIME ELAPSED:  6574.15  s
+
+Game  1545 | Avg score  58.9 | Record  128 | Score  73
+TIME ELAPSED:  6580.34  s
+
+Game  1546 | Avg score  72.7 | Record  128 | Score  31
+TIME ELAPSED:  6585.26  s
+
+Game  1547 | Avg score  60.0 | Record  128 | Score  62
+TIME ELAPSED:  6590.62  s
+
+Game  1548 | Avg score  66.8 | Record  128 | Score  71
+TIME ELAPSED:  6597.12  s
+
+Game  1549 | Avg score  61.5 | Record  128 | Score  91
+TIME ELAPSED:  6604.14  s
+
+Game  1550 | Avg score  57.0 | Record  128 | Score  68
+TIME ELAPSED:  6609.95  s
+
+Game  1551 | Avg score  53.4 | Record  128 | Score  38
+TIME ELAPSED:  6614.31  s
+
+Game  1552 | Avg score  57.3 | Record  128 | Score  69
+TIME ELAPSED:  6620.01  s
+
+Game  1553 | Avg score  64.1 | Record  128 | Score  10
+TIME ELAPSED:  6623.53  s
+
+Game  1554 | Avg score  53.6 | Record  128 | Score  9
+TIME ELAPSED:  6626.79  s
+
+Game  1555 | Avg score  43.2 | Record  128 | Score  35
+TIME ELAPSED:  6630.43  s
+
+Game  1556 | Avg score  56.6 | Record  128 | Score  58
+TIME ELAPSED:  6636.03  s
+
+Game  1557 | Avg score  61.4 | Record  128 | Score  62
+TIME ELAPSED:  6641.44  s
+
+Game  1558 | Avg score  54.5 | Record  128 | Score  75
+TIME ELAPSED:  6647.63  s
+
+Game  1559 | Avg score  59.9 | Record  128 | Score  54
+TIME ELAPSED:  6652.87  s
+
+Game  1560 | Avg score  58.3 | Record  128 | Score  89
+TIME ELAPSED:  6659.87  s
+
+Game  1561 | Avg score  64.3 | Record  128 | Score  61
+TIME ELAPSED:  6665.75  s
+
+Game  1562 | Avg score  62.3 | Record  128 | Score  9
+TIME ELAPSED:  6669.32  s
+
+Game  1563 | Avg score  59.4 | Record  128 | Score  60
+TIME ELAPSED:  6674.76  s
+
+Game  1564 | Avg score  73.5 | Record  128 | Score  102
+TIME ELAPSED:  6682.89  s
+
+Game  1565 | Avg score  26.8 | Record  128 | Score  31
+TIME ELAPSED:  6685.66  s
+
+Game  1566 | Avg score  69.4 | Record  128 | Score  57
+TIME ELAPSED:  6691.71  s
+
+Game  1567 | Avg score  70.9 | Record  128 | Score  90
+TIME ELAPSED:  6699.93  s
+
+Game  1568 | Avg score  58.7 | Record  128 | Score  58
+TIME ELAPSED:  6705.38  s
+
+Game  1569 | Avg score  66.1 | Record  128 | Score  76
+TIME ELAPSED:  6712.34  s
+
+Game  1570 | Avg score  53.9 | Record  128 | Score  88
+TIME ELAPSED:  6719.3  s
+
+Game  1571 | Avg score  52.8 | Record  128 | Score  26
+TIME ELAPSED:  6722.91  s
+
+Game  1572 | Avg score  34.7 | Record  128 | Score  2
+TIME ELAPSED:  6724.95  s
+
+Game  1573 | Avg score  45.8 | Record  128 | Score  16
+TIME ELAPSED:  6727.74  s
+
+Game  1574 | Avg score  41.7 | Record  128 | Score  50
+TIME ELAPSED:  6731.57  s
+
+Game  1575 | Avg score  58.2 | Record  128 | Score  49
+TIME ELAPSED:  6736.4  s
+
+Game  1576 | Avg score  55.3 | Record  128 | Score  54
+TIME ELAPSED:  6741.61  s
+
+Game  1577 | Avg score  74.1 | Record  128 | Score  63
+TIME ELAPSED:  6748.29  s
+
+Game  1578 | Avg score  57.7 | Record  128 | Score  70
+TIME ELAPSED:  6753.98  s
+
+Game  1579 | Avg score  54.9 | Record  128 | Score  50
+TIME ELAPSED:  6758.82  s
+
+Game  1580 | Avg score  43.5 | Record  128 | Score  46
+TIME ELAPSED:  6763.08  s
+
+Game  1581 | Avg score  51.0 | Record  128 | Score  79
+TIME ELAPSED:  6769.27  s
+
+Game  1582 | Avg score  34.5 | Record  128 | Score  78
+TIME ELAPSED:  6774.27  s
+
+Game  1583 | Avg score  53.5 | Record  128 | Score  72
+TIME ELAPSED:  6779.72  s
+
+Game  1584 | Avg score  34.3 | Record  128 | Score  3
+TIME ELAPSED:  6781.62  s
+
+Game  1585 | Avg score  50.5 | Record  128 | Score  60
+TIME ELAPSED:  6786.56  s
+
+Game  1586 | Avg score  52.3 | Record  128 | Score  1
+TIME ELAPSED:  6789.31  s
+
+Game  1587 | Avg score  58.1 | Record  128 | Score  33
+TIME ELAPSED:  6793.61  s
+
+Game  1588 | Avg score  51.8 | Record  128 | Score  77
+TIME ELAPSED:  6799.25  s
+
+Game  1589 | Avg score  54.2 | Record  128 | Score  78
+TIME ELAPSED:  6805.33  s
+
+Game  1590 | Avg score  44.3 | Record  128 | Score  16
+TIME ELAPSED:  6808.24  s
+
+Game  1591 | Avg score  43.4 | Record  128 | Score  42
+TIME ELAPSED:  6812.04  s
+
+Game  1592 | Avg score  10.3 | Record  128 | Score  20
+TIME ELAPSED:  6813.68  s
+
+Game  1593 | Avg score  60.5 | Record  128 | Score  15
+TIME ELAPSED:  6817.29  s
+
+Game  1594 | Avg score  53.6 | Record  128 | Score  0
+TIME ELAPSED:  6820.11  s
+
+Game  1595 | Avg score  53.7 | Record  128 | Score  85
+TIME ELAPSED:  6826.15  s
+
+Game  1596 | Avg score  49.8 | Record  128 | Score  56
+TIME ELAPSED:  6830.9  s
+
+Game  1597 | Avg score  47.0 | Record  128 | Score  35
+TIME ELAPSED:  6834.53  s
+
+Game  1598 | Avg score  62.7 | Record  128 | Score  44
+TIME ELAPSED:  6839.25  s
+
+Game  1599 | Avg score  65.1 | Record  128 | Score  55
+TIME ELAPSED:  6845.04  s
+
+Game  1600 | Avg score  65.0 | Record  128 | Score  41
+TIME ELAPSED:  6849.83  s
+
+Game  1601 | Avg score  52.4 | Record  128 | Score  52
+TIME ELAPSED:  6854.5  s
+
+Game  1602 | Avg score  47.1 | Record  128 | Score  43
+TIME ELAPSED:  6858.4  s
+
+Game  1603 | Avg score  41.8 | Record  128 | Score  51
+TIME ELAPSED:  6862.7  s
+
+Game  1604 | Avg score  38.4 | Record  128 | Score  37
+TIME ELAPSED:  6866.33  s
+
+Game  1605 | Avg score  48.3 | Record  128 | Score  81
+TIME ELAPSED:  6872.19  s
+
+Game  1606 | Avg score  35.7 | Record  128 | Score  79
+TIME ELAPSED:  6877.33  s
+
+Game  1607 | Avg score  57.1 | Record  128 | Score  34
+TIME ELAPSED:  6881.7  s
+
+Game  1608 | Avg score  6.7 | Record  128 | Score  13
+TIME ELAPSED:  6882.96  s
+
+Game  1609 | Avg score  65.9 | Record  128 | Score  73
+TIME ELAPSED:  6889.12  s
+
+Game  1610 | Avg score  74.7 | Record  128 | Score  1
+TIME ELAPSED:  6892.88  s
+
+Game  1611 | Avg score  44.3 | Record  128 | Score  15
+TIME ELAPSED:  6895.63  s
+
+Game  1612 | Avg score  77.0 | Record  128 | Score  9
+TIME ELAPSED:  6900.05  s
+
+Game  1613 | Avg score  29.2 | Record  128 | Score  35
+TIME ELAPSED:  6902.96  s
+
+Game  1614 | Avg score  54.4 | Record  128 | Score  56
+TIME ELAPSED:  6907.79  s
+
+Game  1615 | Avg score  8.6 | Record  128 | Score  67
+TIME ELAPSED:  6911.33  s
+
+Game  1616 | Avg score  64.6 | Record  128 | Score  22
+TIME ELAPSED:  6915.33  s
+
+Game  1617 | Avg score  38.2 | Record  128 | Score  52
+TIME ELAPSED:  6919.13  s
+
+Game  1618 | Avg score  42.3 | Record  128 | Score  10
+TIME ELAPSED:  6921.83  s
+
+Game  1619 | Avg score  31.5 | Record  128 | Score  3
+TIME ELAPSED:  6923.87  s
+
+Game  1620 | Avg score  64.8 | Record  128 | Score  24
+TIME ELAPSED:  6927.84  s
+
+Game  1621 | Avg score  47.7 | Record  128 | Score  44
+TIME ELAPSED:  6932.31  s
+
+Game  1622 | Avg score  36.0 | Record  128 | Score  68
+TIME ELAPSED:  6937.57  s
+
+Game  1623 | Avg score  51.8 | Record  128 | Score  1
+TIME ELAPSED:  6941.19  s
+
+Game  1624 | Avg score  38.1 | Record  128 | Score  27
+TIME ELAPSED:  6944.24  s
+
+Game  1625 | Avg score  55.5 | Record  128 | Score  58
+TIME ELAPSED:  6949.18  s
+
+Game  1626 | Avg score  45.7 | Record  128 | Score  48
+TIME ELAPSED:  6953.28  s
+
+Game  1627 | Avg score  58.8 | Record  128 | Score  71
+TIME ELAPSED:  6958.99  s
+
+Game  1628 | Avg score  57.5 | Record  128 | Score  45
+TIME ELAPSED:  6963.64  s
+
+Game  1629 | Avg score  44.8 | Record  128 | Score  46
+TIME ELAPSED:  6967.75  s
+
+Game  1630 | Avg score  40.6 | Record  128 | Score  80
+TIME ELAPSED:  6973.07  s
+
+Game  1631 | Avg score  45.9 | Record  128 | Score  85
+TIME ELAPSED:  6978.81  s
+
+Game  1632 | Avg score  44.9 | Record  128 | Score  13
+TIME ELAPSED:  6981.68  s
+
+Game  1633 | Avg score  59.8 | Record  128 | Score  61
+TIME ELAPSED:  6987.11  s
+
+Game  1634 | Avg score  51.8 | Record  128 | Score  42
+TIME ELAPSED:  6991.25  s
+
+Game  1635 | Avg score  53.4 | Record  128 | Score  80
+TIME ELAPSED:  6997.61  s
+
+Game  1636 | Avg score  56.9 | Record  128 | Score  66
+TIME ELAPSED:  7003.48  s
+
+Game  1637 | Avg score  47.9 | Record  128 | Score  44
+TIME ELAPSED:  7007.73  s
+
+Game  1638 | Avg score  38.6 | Record  128 | Score  20
+TIME ELAPSED:  7010.53  s
+
+Game  1639 | Avg score  47.6 | Record  128 | Score  67
+TIME ELAPSED:  7015.78  s
+
+Game  1640 | Avg score  59.8 | Record  128 | Score  28
+TIME ELAPSED:  7020.03  s
+
+Game  1641 | Avg score  45.4 | Record  128 | Score  78
+TIME ELAPSED:  7025.58  s
+
+Game  1642 | Avg score  54.8 | Record  128 | Score  7
+TIME ELAPSED:  7028.59  s
+
+Game  1643 | Avg score  44.1 | Record  128 | Score  17
+TIME ELAPSED:  7031.62  s
+
+Game  1644 | Avg score  62.2 | Record  128 | Score  51
+TIME ELAPSED:  7037.01  s
+
+Game  1645 | Avg score  63.9 | Record  128 | Score  37
+TIME ELAPSED:  7041.9  s
+
+Game  1646 | Avg score  59.7 | Record  128 | Score  46
+TIME ELAPSED:  7046.83  s
+
+Game  1647 | Avg score  48.0 | Record  128 | Score  49
+TIME ELAPSED:  7051.1  s
+
+Game  1648 | Avg score  49.7 | Record  128 | Score  18
+TIME ELAPSED:  7054.28  s
+
+Game  1649 | Avg score  58.4 | Record  128 | Score  1
+TIME ELAPSED:  7057.31  s
+
+Game  1650 | Avg score  50.1 | Record  128 | Score  40
+TIME ELAPSED:  7061.12  s
+
+Game  1651 | Avg score  7.1 | Record  128 | Score  63
+TIME ELAPSED:  7064.14  s
+
+Game  1652 | Avg score  59.9 | Record  128 | Score  30
+TIME ELAPSED:  7068.45  s
+
+Game  1653 | Avg score  8.7 | Record  128 | Score  11
+TIME ELAPSED:  7069.66  s
+
+Game  1654 | Avg score  44.6 | Record  128 | Score  23
+TIME ELAPSED:  7073.06  s
+
+Game  1655 | Avg score  50.7 | Record  128 | Score  56
+TIME ELAPSED:  7077.8  s
+
+Game  1656 | Avg score  39.4 | Record  128 | Score  51
+TIME ELAPSED:  7081.66  s
+
+Game  1657 | Avg score  54.9 | Record  128 | Score  3
+TIME ELAPSED:  7084.53  s
+
+Game  1658 | Avg score  54.8 | Record  128 | Score  49
+TIME ELAPSED:  7089.14  s
+
+Game  1659 | Avg score  49.5 | Record  128 | Score  54
+TIME ELAPSED:  7093.85  s
+
+Game  1660 | Avg score  61.7 | Record  128 | Score  1
+TIME ELAPSED:  7096.95  s
+
+Game  1661 | Avg score  55.4 | Record  128 | Score  19
+TIME ELAPSED:  7100.47  s
+
+Game  1662 | Avg score  49.1 | Record  128 | Score  23
+TIME ELAPSED:  7103.99  s
+
+Game  1663 | Avg score  61.6 | Record  128 | Score  52
+TIME ELAPSED:  7108.94  s
+
+Game  1664 | Avg score  43.6 | Record  128 | Score  23
+TIME ELAPSED:  7112.11  s
+
+Game  1665 | Avg score  36.6 | Record  128 | Score  27
+TIME ELAPSED:  7115.21  s
+
+Game  1666 | Avg score  34.4 | Record  128 | Score  36
+TIME ELAPSED:  7118.55  s
+
+Game  1667 | Avg score  68.8 | Record  128 | Score  7
+TIME ELAPSED:  7122.42  s
+
+Game  1668 | Avg score  60.6 | Record  128 | Score  51
+TIME ELAPSED:  7127.22  s
+
+Game  1669 | Avg score  61.0 | Record  128 | Score  16
+TIME ELAPSED:  7130.93  s
+
+Game  1670 | Avg score  60.5 | Record  128 | Score  80
+TIME ELAPSED:  7137.19  s
+
+Game  1671 | Avg score  50.8 | Record  128 | Score  45
+TIME ELAPSED:  7141.93  s
+
+Game  1672 | Avg score  52.7 | Record  128 | Score  60
+TIME ELAPSED:  7146.99  s
+
+Game  1673 | Avg score  56.1 | Record  128 | Score  13
+TIME ELAPSED:  7150.25  s
+
+Game  1674 | Avg score  57.1 | Record  128 | Score  3
+TIME ELAPSED:  7153.26  s
+
+Game  1675 | Avg score  44.6 | Record  128 | Score  92
+TIME ELAPSED:  7159.69  s
+
+Game  1676 | Avg score  44.5 | Record  128 | Score  95
+TIME ELAPSED:  7166.35  s
+
+Game  1677 | Avg score  44.9 | Record  128 | Score  48
+TIME ELAPSED:  7170.45  s
+
+Game  1678 | Avg score  51.1 | Record  128 | Score  2
+TIME ELAPSED:  7173.26  s
+
+Game  1679 | Avg score  54.3 | Record  128 | Score  23
+TIME ELAPSED:  7176.93  s
+
+Game  1680 | Avg score  32.5 | Record  128 | Score  45
+TIME ELAPSED:  7180.73  s
+
+Game  1681 | Avg score  45.4 | Record  128 | Score  69
+TIME ELAPSED:  7185.94  s
+
+Game  1682 | Avg score  73.8 | Record  128 | Score  63
+TIME ELAPSED:  7191.9  s
+
+Game  1683 | Avg score  60.1 | Record  128 | Score  69
+TIME ELAPSED:  7197.83  s
+
+Game  1684 | Avg score  64.4 | Record  128 | Score  52
+TIME ELAPSED:  7203.34  s
+
+Game  1685 | Avg score  54.4 | Record  128 | Score  54
+TIME ELAPSED:  7208.22  s
+
+Game  1686 | Avg score  61.2 | Record  128 | Score  48
+TIME ELAPSED:  7213.16  s
+
+Game  1687 | Avg score  61.2 | Record  128 | Score  79
+TIME ELAPSED:  7219.29  s
+
+Game  1688 | Avg score  59.4 | Record  128 | Score  41
+TIME ELAPSED:  7223.65  s
+
+Game  1689 | Avg score  43.5 | Record  128 | Score  98
+TIME ELAPSED:  7229.88  s
+
+Game  1690 | Avg score  46.5 | Record  128 | Score  7
+TIME ELAPSED:  7232.68  s
+
+Game  1691 | Avg score  62.8 | Record  128 | Score  57
+TIME ELAPSED:  7238.02  s
+
+Game  1692 | Avg score  56.0 | Record  128 | Score  119
+TIME ELAPSED:  7246.15  s
+
+Game  1693 | Avg score  44.8 | Record  128 | Score  57
+TIME ELAPSED:  7250.36  s
+
+Game  1694 | Avg score  66.3 | Record  128 | Score  79
+TIME ELAPSED:  7256.31  s
+
+Game  1695 | Avg score  41.7 | Record  128 | Score  3
+TIME ELAPSED:  7258.55  s
+
+Game  1696 | Avg score  42.0 | Record  128 | Score  58
+TIME ELAPSED:  7263.2  s
+
+Game  1697 | Avg score  52.7 | Record  128 | Score  26
+TIME ELAPSED:  7266.85  s
+
+Game  1698 | Avg score  46.8 | Record  128 | Score  26
+TIME ELAPSED:  7270.15  s
+
+Game  1699 | Avg score  46.1 | Record  128 | Score  8
+TIME ELAPSED:  7272.77  s
+
+Game  1700 | Avg score  5.8 | Record  128 | Score  1
+TIME ELAPSED:  7273.47  s
+
+Game  1701 | Avg score  64.5 | Record  128 | Score  0
+TIME ELAPSED:  7276.72  s
+
+Game  1702 | Avg score  25.0 | Record  128 | Score  22
+TIME ELAPSED:  7279.04  s
+
+Game  1703 | Avg score  7.0 | Record  128 | Score  11
+TIME ELAPSED:  7280.19  s
+
+Game  1704 | Avg score  47.5 | Record  128 | Score  84
+TIME ELAPSED:  7286.03  s
+
+Game  1705 | Avg score  54.9 | Record  128 | Score  38
+TIME ELAPSED:  7289.8  s
+
+Game  1706 | Avg score  43.7 | Record  128 | Score  76
+TIME ELAPSED:  7294.71  s
+
+Game  1707 | Avg score  52.4 | Record  128 | Score  25
+TIME ELAPSED:  7298.23  s
+
+Game  1708 | Avg score  59.3 | Record  128 | Score  23
+TIME ELAPSED:  7302.19  s
+
+Game  1709 | Avg score  54.7 | Record  128 | Score  65
+TIME ELAPSED:  7307.63  s
+
+Game  1710 | Avg score  48.1 | Record  128 | Score  82
+TIME ELAPSED:  7313.36  s
+
+Game  1711 | Avg score  40.1 | Record  128 | Score  37
+TIME ELAPSED:  7316.84  s
+
+Game  1712 | Avg score  39.2 | Record  128 | Score  89
+TIME ELAPSED:  7322.58  s
+
+Game  1713 | Avg score  62.7 | Record  128 | Score  22
+TIME ELAPSED:  7326.65  s
+
+Game  1714 | Avg score  69.0 | Record  128 | Score  62
+TIME ELAPSED:  7332.64  s
+
+Game  1715 | Avg score  66.3 | Record  128 | Score  84
+TIME ELAPSED:  7339.51  s
+
+Game  1716 | Avg score  51.7 | Record  128 | Score  21
+TIME ELAPSED:  7342.95  s
+
+Game  1717 | Avg score  42.8 | Record  128 | Score  25
+TIME ELAPSED:  7346.33  s
+
+Game  1718 | Avg score  46.4 | Record  128 | Score  47
+TIME ELAPSED:  7350.43  s
+
+Game  1719 | Avg score  62.4 | Record  128 | Score  31
+TIME ELAPSED:  7354.82  s
+
+Game  1720 | Avg score  35.7 | Record  128 | Score  58
+TIME ELAPSED:  7358.76  s
+
+Game  1721 | Avg score  41.4 | Record  128 | Score  71
+TIME ELAPSED:  7363.6  s
+
+Game  1722 | Avg score  60.5 | Record  128 | Score  107
+TIME ELAPSED:  7370.98  s
+
+Game  1723 | Avg score  50.4 | Record  128 | Score  28
+TIME ELAPSED:  7374.55  s
+
+Game  1724 | Avg score  83.0 | Record  128 | Score  112
+TIME ELAPSED:  7383.85  s
+
+Game  1725 | Avg score  44.4 | Record  128 | Score  75
+TIME ELAPSED:  7389.33  s
+
+Game  1726 | Avg score  51.0 | Record  128 | Score  16
+TIME ELAPSED:  7392.6  s
+
+Game  1727 | Avg score  47.1 | Record  128 | Score  23
+TIME ELAPSED:  7395.94  s
+
+Game  1728 | Avg score  66.6 | Record  128 | Score  38
+TIME ELAPSED:  7400.92  s
+
+Game  1729 | Avg score  49.5 | Record  128 | Score  23
+TIME ELAPSED:  7404.41  s
+
+Game  1730 | Avg score  44.9 | Record  128 | Score  22
+TIME ELAPSED:  7407.68  s
+
+Game  1731 | Avg score  48.1 | Record  128 | Score  49
+TIME ELAPSED:  7412.17  s
+
+Game  1732 | Avg score  54.3 | Record  128 | Score  105
+TIME ELAPSED:  7418.71  s
+
+Game  1733 | Avg score  48.5 | Record  128 | Score  27
+TIME ELAPSED:  7422.12  s
+
+Game  1734 | Avg score  67.1 | Record  128 | Score  43
+TIME ELAPSED:  7427.1  s
+
+Game  1735 | Avg score  54.0 | Record  128 | Score  28
+TIME ELAPSED:  7430.96  s
+
+Game  1736 | Avg score  50.8 | Record  128 | Score  73
+TIME ELAPSED:  7436.35  s
+
+Game  1737 | Avg score  63.6 | Record  128 | Score  80
+TIME ELAPSED:  7443.15  s
+
+Game  1738 | Avg score  62.7 | Record  128 | Score  62
+TIME ELAPSED:  7448.82  s
+
+Game  1739 | Avg score  49.1 | Record  128 | Score  56
+TIME ELAPSED:  7453.77  s
+
+Game  1740 | Avg score  47.7 | Record  128 | Score  54
+TIME ELAPSED:  7458.37  s
+
+Game  1741 | Avg score  61.0 | Record  128 | Score  75
+TIME ELAPSED:  7464.56  s
+
+Game  1742 | Avg score  56.5 | Record  128 | Score  68
+TIME ELAPSED:  7470.07  s
+
+Game  1743 | Avg score  79.3 | Record  128 | Score  39
+TIME ELAPSED:  7475.42  s
+
+Game  1744 | Avg score  43.9 | Record  128 | Score  2
+TIME ELAPSED:  7477.7  s
+
+Game  1745 | Avg score  48.9 | Record  128 | Score  35
+TIME ELAPSED:  7481.31  s
+
+Game  1746 | Avg score  30.8 | Record  128 | Score  39
+TIME ELAPSED:  7484.49  s
+
+Game  1747 | Avg score  42.1 | Record  128 | Score  60
+TIME ELAPSED:  7489.03  s
+
+Game  1748 | Avg score  50.5 | Record  128 | Score  10
+TIME ELAPSED:  7491.93  s
+
+Game  1749 | Avg score  45.7 | Record  128 | Score  14
+TIME ELAPSED:  7494.87  s
+
+Game  1750 | Avg score  51.4 | Record  128 | Score  58
+TIME ELAPSED:  7500.13  s
+
+Game  1751 | Avg score  49.4 | Record  128 | Score  56
+TIME ELAPSED:  7504.52  s
+
+Game  1752 | Avg score  65.0 | Record  128 | Score  1
+TIME ELAPSED:  7508.02  s
+
+Game  1753 | Avg score  45.9 | Record  128 | Score  99
+TIME ELAPSED:  7514.9  s
+
+Game  1754 | Avg score  70.7 | Record  128 | Score  51
+TIME ELAPSED:  7520.79  s
+
+Game  1755 | Avg score  58.4 | Record  128 | Score  53
+TIME ELAPSED:  7525.68  s
+
+Game  1756 | Avg score  63.9 | Record  128 | Score  43
+TIME ELAPSED:  7530.54  s
+
+Game  1757 | Avg score  44.0 | Record  128 | Score  44
+TIME ELAPSED:  7534.28  s
+
+Game  1758 | Avg score  48.6 | Record  128 | Score  70
+TIME ELAPSED:  7539.57  s
+
+Game  1759 | Avg score  56.1 | Record  128 | Score  60
+TIME ELAPSED:  7544.82  s
+
+Game  1760 | Avg score  74.2 | Record  128 | Score  97
+TIME ELAPSED:  7552.88  s
+
+Game  1761 | Avg score  49.0 | Record  128 | Score  72
+TIME ELAPSED:  7558.13  s
+
+Game  1762 | Avg score  57.9 | Record  128 | Score  1
+TIME ELAPSED:  7561.01  s
+
+Game  1763 | Avg score  67.3 | Record  128 | Score  63
+TIME ELAPSED:  7566.68  s
+
+Game  1764 | Avg score  55.8 | Record  128 | Score  33
+TIME ELAPSED:  7570.83  s
+
+Game  1765 | Avg score  43.8 | Record  128 | Score  113
+TIME ELAPSED:  7578.25  s
+
+Game  1766 | Avg score  54.9 | Record  128 | Score  110
+TIME ELAPSED:  7585.82  s
+
+Game  1767 | Avg score  55.2 | Record  128 | Score  73
+TIME ELAPSED:  7591.59  s
+
+Game  1768 | Avg score  66.4 | Record  128 | Score  1
+TIME ELAPSED:  7594.83  s
+
+Game  1769 | Avg score  55.1 | Record  128 | Score  66
+TIME ELAPSED:  7600.63  s
+
+Game  1770 | Avg score  70.8 | Record  128 | Score  25
+TIME ELAPSED:  7605.53  s
+
+Game  1771 | Avg score  37.7 | Record  128 | Score  44
+TIME ELAPSED:  7609.14  s
+
+Game  1772 | Avg score  52.9 | Record  128 | Score  39
+TIME ELAPSED:  7613.1  s
+
+Game  1773 | Avg score  60.0 | Record  128 | Score  62
+TIME ELAPSED:  7618.36  s
+
+Game  1774 | Avg score  40.4 | Record  128 | Score  69
+TIME ELAPSED:  7623.44  s
+
+Game  1775 | Avg score  49.9 | Record  128 | Score  74
+TIME ELAPSED:  7629.3  s
+
+Game  1776 | Avg score  49.2 | Record  128 | Score  56
+TIME ELAPSED:  7633.83  s
+
+Game  1777 | Avg score  29.8 | Record  128 | Score  32
+TIME ELAPSED:  7636.82  s
+
+Game  1778 | Avg score  32.1 | Record  128 | Score  14
+TIME ELAPSED:  7638.99  s
+
+Game  1779 | Avg score  31.4 | Record  128 | Score  66
+TIME ELAPSED:  7643.72  s
+
+Game  1780 | Avg score  39.0 | Record  128 | Score  40
+TIME ELAPSED:  7647.57  s
+
+Game  1781 | Avg score  38.2 | Record  128 | Score  23
+TIME ELAPSED:  7650.53  s
+
+Game  1782 | Avg score  30.8 | Record  128 | Score  3
+TIME ELAPSED:  7652.38  s
+
+Game  1783 | Avg score  10.7 | Record  128 | Score  54
+TIME ELAPSED:  7655.39  s
+
+Game  1784 | Avg score  41.4 | Record  128 | Score  6
+TIME ELAPSED:  7657.84  s
+
+Game  1785 | Avg score  59.2 | Record  128 | Score  48
+TIME ELAPSED:  7662.65  s
+
+Game  1786 | Avg score  61.2 | Record  128 | Score  26
+TIME ELAPSED:  7666.47  s
+
+Game  1787 | Avg score  53.9 | Record  128 | Score  13
+TIME ELAPSED:  7669.68  s
+
+Game  1788 | Avg score  44.5 | Record  128 | Score  54
+TIME ELAPSED:  7673.92  s
+
+Game  1789 | Avg score  41.8 | Record  128 | Score  65
+TIME ELAPSED:  7679.07  s
+
+Game  1790 | Avg score  50.2 | Record  128 | Score  24
+TIME ELAPSED:  7682.69  s
+
+Game  1791 | Avg score  53.7 | Record  128 | Score  7
+TIME ELAPSED:  7685.8  s
+
+Game  1792 | Avg score  46.9 | Record  128 | Score  50
+TIME ELAPSED:  7690.21  s
+
+Game  1793 | Avg score  64.0 | Record  128 | Score  36
+TIME ELAPSED:  7694.6  s
+
+Game  1794 | Avg score  70.7 | Record  128 | Score  50
+TIME ELAPSED:  7700.02  s
+
+Game  1795 | Avg score  40.8 | Record  128 | Score  98
+TIME ELAPSED:  7706.4  s
+
+Game  1796 | Avg score  61.1 | Record  128 | Score  33
+TIME ELAPSED:  7711.32  s
+
+Game  1797 | Avg score  48.8 | Record  128 | Score  49
+TIME ELAPSED:  7715.53  s
+
+Game  1798 | Avg score  30.3 | Record  128 | Score  63
+TIME ELAPSED:  7719.53  s
+
+Game  1799 | Avg score  69.1 | Record  128 | Score  31
+TIME ELAPSED:  7724.37  s
+
+Game  1800 | Avg score  58.0 | Record  128 | Score  84
+TIME ELAPSED:  7732.15  s
+
+Game  1801 | Avg score  71.0 | Record  128 | Score  27
+TIME ELAPSED:  7736.74  s
+
+Game  1802 | Avg score  60.4 | Record  128 | Score  77
+TIME ELAPSED:  7743.19  s
+
+Game  1803 | Avg score  58.3 | Record  128 | Score  84
+TIME ELAPSED:  7748.94  s
+
+Game  1804 | Avg score  44.1 | Record  128 | Score  61
+TIME ELAPSED:  7753.5  s
+
+Game  1805 | Avg score  32.6 | Record  128 | Score  3
+TIME ELAPSED:  7755.49  s
+
+Game  1806 | Avg score  41.9 | Record  128 | Score  2
+TIME ELAPSED:  7757.9  s
+
+Game  1807 | Avg score  44.7 | Record  128 | Score  19
+TIME ELAPSED:  7761.19  s
+
+Game  1808 | Avg score  69.0 | Record  128 | Score  53
+TIME ELAPSED:  7767.02  s
+
+Game  1809 | Avg score  38.7 | Record  128 | Score  73
+TIME ELAPSED:  7772.03  s
+
+Game  1810 | Avg score  55.0 | Record  128 | Score  26
+TIME ELAPSED:  7775.91  s
+
+Game  1811 | Avg score  39.4 | Record  128 | Score  38
+TIME ELAPSED:  7779.61  s
+
+Game  1812 | Avg score  55.9 | Record  128 | Score  66
+TIME ELAPSED:  7785.35  s
+
+Game  1813 | Avg score  35.4 | Record  128 | Score  18
+TIME ELAPSED:  7787.95  s
+
+Game  1814 | Avg score  24.5 | Record  128 | Score  72
+TIME ELAPSED:  7792.47  s
+
+Game  1815 | Avg score  54.1 | Record  128 | Score  43
+TIME ELAPSED:  7796.89  s
+
+Game  1816 | Avg score  66.4 | Record  128 | Score  28
+TIME ELAPSED:  7801.4  s
+
+Game  1817 | Avg score  64.6 | Record  128 | Score  40
+TIME ELAPSED:  7806.38  s
+
+Game  1818 | Avg score  58.0 | Record  128 | Score  109
+TIME ELAPSED:  7813.98  s
+
+Game  1819 | Avg score  60.5 | Record  128 | Score  73
+TIME ELAPSED:  7819.63  s
+
+Game  1820 | Avg score  46.5 | Record  128 | Score  61
+TIME ELAPSED:  7824.46  s
+
+Game  1821 | Avg score  44.1 | Record  128 | Score  54
+TIME ELAPSED:  7828.78  s
+
+Game  1822 | Avg score  59.6 | Record  128 | Score  50
+TIME ELAPSED:  7833.71  s
+
+Game  1823 | Avg score  44.9 | Record  128 | Score  50
+TIME ELAPSED:  7838.14  s
+
+Game  1824 | Avg score  70.4 | Record  128 | Score  64
+TIME ELAPSED:  7844.43  s
+
+Game  1825 | Avg score  45.7 | Record  128 | Score  93
+TIME ELAPSED:  7850.54  s
+
+Game  1826 | Avg score  41.4 | Record  128 | Score  29
+TIME ELAPSED:  7853.8  s
+
+Game  1827 | Avg score  68.0 | Record  128 | Score  44
+TIME ELAPSED:  7858.84  s
+
+Game  1828 | Avg score  52.3 | Record  128 | Score  91
+TIME ELAPSED:  7865.17  s
+
+Game  1829 | Avg score  36.8 | Record  128 | Score  33
+TIME ELAPSED:  7868.45  s
+
+Game  1830 | Avg score  44.7 | Record  128 | Score  46
+TIME ELAPSED:  7872.59  s
+
+Game  1831 | Avg score  58.6 | Record  128 | Score  38
+TIME ELAPSED:  7877.25  s
+
+Game  1832 | Avg score  58.2 | Record  128 | Score  61
+TIME ELAPSED:  7882.68  s
+
+Game  1833 | Avg score  65.3 | Record  128 | Score  23
+TIME ELAPSED:  7886.99  s
+
+Game  1834 | Avg score  57.8 | Record  128 | Score  31
+TIME ELAPSED:  7891.07  s
+
+Game  1835 | Avg score  43.1 | Record  128 | Score  47
+TIME ELAPSED:  7894.95  s
+
+Game  1836 | Avg score  54.0 | Record  128 | Score  52
+TIME ELAPSED:  7899.74  s
+
+Game  1837 | Avg score  70.0 | Record  128 | Score  57
+TIME ELAPSED:  7905.58  s
+
+Game  1838 | Avg score  7.2 | Record  128 | Score  28
+TIME ELAPSED:  7907.37  s
+
+Game  1839 | Avg score  37.3 | Record  128 | Score  3
+TIME ELAPSED:  7909.53  s
+
+Game  1840 | Avg score  21.3 | Record  128 | Score  3
+TIME ELAPSED:  7910.93  s
+
+Game  1841 | Avg score  46.2 | Record  128 | Score  33
+TIME ELAPSED:  7914.56  s
+
+Game  1842 | Avg score  34.8 | Record  128 | Score  93
+TIME ELAPSED:  7920.83  s
+
+Game  1843 | Avg score  55.9 | Record  128 | Score  18
+TIME ELAPSED:  7924.53  s
+
+Game  1844 | Avg score  35.4 | Record  128 | Score  35
+TIME ELAPSED:  7928.39  s
+
+Game  1845 | Avg score  28.5 | Record  128 | Score  8
+TIME ELAPSED:  7930.43  s
+
+Game  1846 | Avg score  33.4 | Record  128 | Score  71
+TIME ELAPSED:  7935.15  s
+
+Game  1847 | Avg score  62.7 | Record  128 | Score  76
+TIME ELAPSED:  7941.1  s
+
+Game  1848 | Avg score  63.4 | Record  128 | Score  35
+TIME ELAPSED:  7946.0  s
+
+Game  1849 | Avg score  54.5 | Record  128 | Score  107
+TIME ELAPSED:  7953.91  s
+
+Game  1850 | Avg score  58.8 | Record  128 | Score  22
+TIME ELAPSED:  7958.01  s
+
+Game  1851 | Avg score  66.8 | Record  128 | Score  38
+TIME ELAPSED:  7963.04  s
+
+Game  1852 | Avg score  86.9 | Record  128 | Score  126
+TIME ELAPSED:  7973.49  s
+
+Game  1853 | Avg score  48.0 | Record  128 | Score  72
+TIME ELAPSED:  7978.93  s
+
+Game  1854 | Avg score  55.4 | Record  128 | Score  47
+TIME ELAPSED:  7983.91  s
+
+Game  1855 | Avg score  68.2 | Record  128 | Score  12
+TIME ELAPSED:  7987.9  s
+
+Game  1856 | Avg score  60.1 | Record  128 | Score  48
+TIME ELAPSED:  7993.04  s
+
+Game  1857 | Avg score  63.0 | Record  128 | Score  59
+TIME ELAPSED:  7998.91  s
+
+Game  1858 | Avg score  64.1 | Record  128 | Score  35
+TIME ELAPSED:  8003.57  s
+
+Game  1859 | Avg score  77.3 | Record  128 | Score  7
+TIME ELAPSED:  8007.7  s
+
+Game  1860 | Avg score  76.9 | Record  128 | Score  37
+TIME ELAPSED:  8013.19  s
+
+Game  1861 | Avg score  51.4 | Record  128 | Score  68
+TIME ELAPSED:  8018.45  s
+
+Game  1862 | Avg score  44.6 | Record  128 | Score  8
+TIME ELAPSED:  8021.14  s
+
+Game  1863 | Avg score  56.2 | Record  128 | Score  21
+TIME ELAPSED:  8024.7  s
+
+Game  1864 | Avg score  59.2 | Record  128 | Score  69
+TIME ELAPSED:  8030.47  s
+
+Game  1865 | Avg score  50.2 | Record  128 | Score  35
+TIME ELAPSED:  8034.33  s
+
+Game  1866 | Avg score  47.4 | Record  128 | Score  68
+TIME ELAPSED:  8039.3  s
+
+Game  1867 | Avg score  58.3 | Record  128 | Score  56
+TIME ELAPSED:  8044.34  s
+
+Game  1868 | Avg score  65.7 | Record  128 | Score  43
+TIME ELAPSED:  8049.33  s
+
+Game  1869 | Avg score  49.2 | Record  128 | Score  5
+TIME ELAPSED:  8052.1  s
+
+Game  1870 | Avg score  64.1 | Record  128 | Score  76
+TIME ELAPSED:  8058.62  s
+
+Game  1871 | Avg score  47.2 | Record  128 | Score  33
+TIME ELAPSED:  8062.42  s
+
+Game  1872 | Avg score  35.7 | Record  128 | Score  2
+TIME ELAPSED:  8064.34  s
+
+Game  1873 | Avg score  43.0 | Record  128 | Score  68
+TIME ELAPSED:  8069.29  s
+
+Game  1874 | Avg score  52.2 | Record  128 | Score  65
+TIME ELAPSED:  8074.36  s
+
+Game  1875 | Avg score  32.7 | Record  128 | Score  7
+TIME ELAPSED:  8076.42  s
+
+Game  1876 | Avg score  26.0 | Record  128 | Score  1
+TIME ELAPSED:  8078.03  s
+
+Game  1877 | Avg score  57.2 | Record  128 | Score  72
+TIME ELAPSED:  8084.01  s
+
+Game  1878 | Avg score  38.6 | Record  128 | Score  61
+TIME ELAPSED:  8088.68  s
+
+Game  1879 | Avg score  49.7 | Record  128 | Score  74
+TIME ELAPSED:  8094.11  s
+
+Game  1880 | Avg score  48.5 | Record  128 | Score  42
+TIME ELAPSED:  8098.15  s
+
+Game  1881 | Avg score  60.2 | Record  128 | Score  105
+TIME ELAPSED:  8106.0  s
+
+Game  1882 | Avg score  57.0 | Record  128 | Score  24
+TIME ELAPSED:  8109.64  s
+
+Game  1883 | Avg score  47.1 | Record  128 | Score  69
+TIME ELAPSED:  8114.53  s
+
+Game  1884 | Avg score  40.0 | Record  128 | Score  35
+TIME ELAPSED:  8117.81  s
+
+Game  1885 | Avg score  43.7 | Record  128 | Score  37
+TIME ELAPSED:  8121.43  s
+
+Game  1886 | Avg score  44.4 | Record  128 | Score  56
+TIME ELAPSED:  8125.78  s
+
+Game  1887 | Avg score  5.8 | Record  128 | Score  57
+TIME ELAPSED:  8128.68  s
+
+Game  1888 | Avg score  4.7 | Record  128 | Score  1
+TIME ELAPSED:  8129.48  s
+
+Game  1889 | Avg score  55.9 | Record  128 | Score  111
+TIME ELAPSED:  8137.42  s
+
+Game  1890 | Avg score  50.6 | Record  128 | Score  12
+TIME ELAPSED:  8140.32  s
+
+Game  1891 | Avg score  58.1 | Record  128 | Score  84
+TIME ELAPSED:  8146.72  s
+
+Game  1892 | Avg score  74.2 | Record  128 | Score  39
+TIME ELAPSED:  8152.09  s
+
+Game  1893 | Avg score  36.2 | Record  128 | Score  48
+TIME ELAPSED:  8155.84  s
+
+Game  1894 | Avg score  22.1 | Record  128 | Score  1
+TIME ELAPSED:  8157.24  s
+
+Game  1895 | Avg score  34.9 | Record  128 | Score  12
+TIME ELAPSED:  8159.59  s
+
+Game  1896 | Avg score  48.8 | Record  128 | Score  25
+TIME ELAPSED:  8163.01  s
+
+Game  1897 | Avg score  50.1 | Record  128 | Score  2
+TIME ELAPSED:  8165.64  s
+
+Game  1898 | Avg score  54.8 | Record  128 | Score  38
+TIME ELAPSED:  8169.92  s
+
+Game  1899 | Avg score  62.8 | Record  128 | Score  5
+TIME ELAPSED:  8173.36  s
+
+Game  1900 | Avg score  55.0 | Record  128 | Score  56
+TIME ELAPSED:  8178.29  s
+
+Game  1901 | Avg score  67.2 | Record  128 | Score  23
+TIME ELAPSED:  8182.55  s
+
+Game  1902 | Avg score  61.0 | Record  128 | Score  100
+TIME ELAPSED:  8189.89  s
+
+Game  1903 | Avg score  61.4 | Record  128 | Score  57
+TIME ELAPSED:  8195.4  s
+
+Game  1904 | Avg score  47.5 | Record  128 | Score  33
+TIME ELAPSED:  8199.01  s
+
+Game  1905 | Avg score  52.5 | Record  128 | Score  79
+TIME ELAPSED:  8204.92  s
+
+Game  1906 | Avg score  47.4 | Record  128 | Score  74
+TIME ELAPSED:  8210.23  s
+
+Game  1907 | Avg score  58.5 | Record  128 | Score  106
+TIME ELAPSED:  8218.13  s
+
+Game  1908 | Avg score  64.4 | Record  128 | Score  85
+TIME ELAPSED:  8224.87  s
+
+Game  1909 | Avg score  47.1 | Record  128 | Score  91
+TIME ELAPSED:  8231.17  s
+
+Game  1910 | Avg score  65.8 | Record  128 | Score  53
+TIME ELAPSED:  8236.75  s
+
+Game  1911 | Avg score  50.7 | Record  128 | Score  29
+TIME ELAPSED:  8240.55  s
+
+Game  1912 | Avg score  37.3 | Record  128 | Score  24
+TIME ELAPSED:  8243.39  s
+
+Game  1913 | Avg score  22.2 | Record  128 | Score  1
+TIME ELAPSED:  8244.81  s
+
+Game  1914 | Avg score  42.8 | Record  128 | Score  51
+TIME ELAPSED:  8249.19  s
+
+Game  1915 | Avg score  38.4 | Record  128 | Score  73
+TIME ELAPSED:  8254.12  s
+
+Game  1916 | Avg score  45.0 | Record  128 | Score  2
+TIME ELAPSED:  8256.6  s
+
+Game  1917 | Avg score  53.1 | Record  128 | Score  54
+TIME ELAPSED:  8261.45  s
+
+Game  1918 | Avg score  44.7 | Record  128 | Score  9
+TIME ELAPSED:  8264.0  s
+
+Game  1919 | Avg score  26.6 | Record  128 | Score  26
+TIME ELAPSED:  8266.68  s
+
+Game  1920 | Avg score  52.4 | Record  128 | Score  45
+TIME ELAPSED:  8271.06  s
+
+Game  1921 | Avg score  48.5 | Record  128 | Score  72
+TIME ELAPSED:  8276.11  s
+
+Game  1922 | Avg score  72.1 | Record  128 | Score  82
+TIME ELAPSED:  8282.97  s
+
+Game  1923 | Avg score  47.8 | Record  128 | Score  87
+TIME ELAPSED:  8288.85  s
+
+Game  1924 | Avg score  67.3 | Record  128 | Score  71
+TIME ELAPSED:  8295.33  s
+
+Game  1925 | Avg score  50.9 | Record  128 | Score  55
+TIME ELAPSED:  8300.14  s
+
+Game  1926 | Avg score  43.7 | Record  128 | Score  30
+TIME ELAPSED:  8303.41  s
+
+Game  1927 | Avg score  56.1 | Record  128 | Score  42
+TIME ELAPSED:  8307.82  s
+
+Game  1928 | Avg score  48.1 | Record  128 | Score  38
+TIME ELAPSED:  8311.83  s
+
+Game  1929 | Avg score  59.6 | Record  128 | Score  28
+TIME ELAPSED:  8315.6  s
+
+Game  1930 | Avg score  27.4 | Record  128 | Score  56
+TIME ELAPSED:  8319.41  s
+
+Game  1931 | Avg score  54.6 | Record  128 | Score  51
+TIME ELAPSED:  8324.3  s
+
+Game  1932 | Avg score  41.2 | Record  128 | Score  60
+TIME ELAPSED:  8328.48  s
+
+Game  1933 | Avg score  68.0 | Record  128 | Score  59
+TIME ELAPSED:  8334.15  s
+
+Game  1934 | Avg score  52.0 | Record  128 | Score  50
+TIME ELAPSED:  8338.5  s
+
+Game  1935 | Avg score  45.5 | Record  128 | Score  30
+TIME ELAPSED:  8341.99  s
+
+Game  1936 | Avg score  63.3 | Record  128 | Score  19
+TIME ELAPSED:  8345.99  s
+
+Game  1937 | Avg score  43.8 | Record  128 | Score  70
+TIME ELAPSED:  8350.89  s
+
+Game  1938 | Avg score  68.4 | Record  128 | Score  38
+TIME ELAPSED:  8355.82  s
+
+Game  1939 | Avg score  52.6 | Record  128 | Score  63
+TIME ELAPSED:  8361.14  s
+
+Game  1940 | Avg score  39.3 | Record  128 | Score  47
+TIME ELAPSED:  8365.22  s
+
+Game  1941 | Avg score  51.9 | Record  128 | Score  52
+TIME ELAPSED:  8369.86  s
+
+Game  1942 | Avg score  56.5 | Record  128 | Score  4
+TIME ELAPSED:  8372.83  s
+
+Game  1943 | Avg score  56.4 | Record  128 | Score  42
+TIME ELAPSED:  8377.32  s
+
+Game  1944 | Avg score  35.5 | Record  128 | Score  51
+TIME ELAPSED:  8381.19  s
+
+Game  1945 | Avg score  60.6 | Record  128 | Score  38
+TIME ELAPSED:  8385.77  s
+
+Game  1946 | Avg score  7.9 | Record  128 | Score  71
+TIME ELAPSED:  8389.57  s
+
+Game  1947 | Avg score  44.4 | Record  128 | Score  31
+TIME ELAPSED:  8393.02  s
+
+Game  1948 | Avg score  51.2 | Record  128 | Score  53
+TIME ELAPSED:  8397.51  s
+
+Game  1949 | Avg score  31.1 | Record  128 | Score  28
+TIME ELAPSED:  8400.34  s
+
+Game  1950 | Avg score  36.3 | Record  128 | Score  49
+TIME ELAPSED:  8404.02  s
+
+Game  1951 | Avg score  44.3 | Record  128 | Score  8
+TIME ELAPSED:  8406.6  s
+
+Game  1952 | Avg score  40.3 | Record  128 | Score  34
+TIME ELAPSED:  8410.22  s
+
+Game  1953 | Avg score  30.4 | Record  128 | Score  30
+TIME ELAPSED:  8413.26  s
+
+Game  1954 | Avg score  44.3 | Record  128 | Score  20
+TIME ELAPSED:  8416.37  s
+
+Game  1955 | Avg score  53.4 | Record  128 | Score  55
+TIME ELAPSED:  8421.31  s
+
+Game  1956 | Avg score  53.5 | Record  128 | Score  29
+TIME ELAPSED:  8425.08  s
+
+Game  1957 | Avg score  62.7 | Record  128 | Score  58
+TIME ELAPSED:  8430.54  s
+
+Game  1958 | Avg score  31.1 | Record  128 | Score  27
+TIME ELAPSED:  8433.26  s
+
+Game  1959 | Avg score  50.8 | Record  128 | Score  114
+TIME ELAPSED:  8440.87  s
+
+Game  1960 | Avg score  55.6 | Record  128 | Score  48
+TIME ELAPSED:  8445.54  s
+
+Game  1961 | Avg score  48.8 | Record  128 | Score  53
+TIME ELAPSED:  8449.95  s
+
+Game  1962 | Avg score  43.2 | Record  128 | Score  26
+TIME ELAPSED:  8453.25  s
+
+Game  1963 | Avg score  51.9 | Record  128 | Score  24
+TIME ELAPSED:  8456.69  s
+
+Game  1964 | Avg score  56.1 | Record  128 | Score  69
+TIME ELAPSED:  8462.17  s
+
+Game  1965 | Avg score  52.3 | Record  128 | Score  35
+TIME ELAPSED:  8466.23  s
+
+Game  1966 | Avg score  57.4 | Record  128 | Score  64
+TIME ELAPSED:  8471.76  s
+
+Game  1967 | Avg score  60.3 | Record  128 | Score  31
+TIME ELAPSED:  8475.73  s
+
+Game  1968 | Avg score  71.6 | Record  128 | Score  79
+TIME ELAPSED:  8482.56  s
+
+Game  1969 | Avg score  49.4 | Record  128 | Score  50
+TIME ELAPSED:  8487.26  s
+
+Game  1970 | Avg score  54.2 | Record  128 | Score  17
+TIME ELAPSED:  8490.63  s
+
+Game  1971 | Avg score  59.4 | Record  128 | Score  44
+TIME ELAPSED:  8495.3  s
+
+Game  1972 | Avg score  59.3 | Record  128 | Score  30
+TIME ELAPSED:  8499.31  s
+
+Game  1973 | Avg score  60.9 | Record  128 | Score  9
+TIME ELAPSED:  8502.77  s
+
+Game  1974 | Avg score  47.6 | Record  128 | Score  60
+TIME ELAPSED:  8507.45  s
+
+Game  1975 | Avg score  34.9 | Record  128 | Score  21
+TIME ELAPSED:  8510.04  s
+
+Game  1976 | Avg score  49.8 | Record  128 | Score  38
+TIME ELAPSED:  8513.79  s
+
+Game  1977 | Avg score  36.6 | Record  128 | Score  9
+TIME ELAPSED:  8516.17  s
+
+Game  1978 | Avg score  60.8 | Record  128 | Score  25
+TIME ELAPSED:  8520.15  s
+
+Game  1979 | Avg score  42.1 | Record  128 | Score  16
+TIME ELAPSED:  8523.12  s
+
+Game  1980 | Avg score  34.4 | Record  128 | Score  12
+TIME ELAPSED:  8525.34  s
+
+Game  1981 | Avg score  39.0 | Record  128 | Score  14
+TIME ELAPSED:  8527.89  s
+
+Game  1982 | Avg score  37.6 | Record  128 | Score  64
+TIME ELAPSED:  8532.63  s
+
+Game  1983 | Avg score  70.6 | Record  128 | Score  29
+TIME ELAPSED:  8537.41  s
+
+Game  1984 | Avg score  49.8 | Record  128 | Score  49
+TIME ELAPSED:  8542.24  s
+
+Game  1985 | Avg score  64.6 | Record  128 | Score  51
+TIME ELAPSED:  8547.75  s
+
+Game  1986 | Avg score  37.9 | Record  128 | Score  49
+TIME ELAPSED:  8551.44  s
+
+Game  1987 | Avg score  57.3 | Record  128 | Score  41
+TIME ELAPSED:  8555.79  s
+
+Game  1988 | Avg score  56.6 | Record  128 | Score  46
+TIME ELAPSED:  8560.34  s
+
+Game  1989 | Avg score  65.8 | Record  128 | Score  18
+TIME ELAPSED:  8564.26  s
+
+Game  1990 | Avg score  60.0 | Record  128 | Score  42
+TIME ELAPSED:  8568.92  s
+
+Game  1991 | Avg score  54.0 | Record  128 | Score  45
+TIME ELAPSED:  8573.41  s
+
+Game  1992 | Avg score  61.3 | Record  128 | Score  15
+TIME ELAPSED:  8577.11  s
+
+Game  1993 | Avg score  69.9 | Record  128 | Score  82
+TIME ELAPSED:  8583.83  s
+
+Game  1994 | Avg score  58.7 | Record  128 | Score  23
+TIME ELAPSED:  8588.0  s
+
+Game  1995 | Avg score  70.0 | Record  128 | Score  83
+TIME ELAPSED:  8595.33  s
+
+Game  1996 | Avg score  53.4 | Record  128 | Score  89
+TIME ELAPSED:  8601.72  s
+
+Game  1997 | Avg score  32.3 | Record  128 | Score  34
+TIME ELAPSED:  8604.58  s
+
+Game  1998 | Avg score  65.7 | Record  128 | Score  18
+TIME ELAPSED:  8608.66  s
+
+Game  1999 | Avg score  60.9 | Record  128 | Score  60
+TIME ELAPSED:  8613.84  s
+
+Game  2000 | Avg score  60.2 | Record  128 | Score  74
+TIME ELAPSED:  8619.8  s
+
+Game  2001 | Avg score  66.9 | Record  128 | Score  51
+TIME ELAPSED:  8625.15  s
+
